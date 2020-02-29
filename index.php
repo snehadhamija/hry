@@ -1,6 +1,12 @@
 
 <!DOCTYPE HTML>
 <html>
+
+<!-- <?php include("api.php") ;
+	echo "testing";
+	$response = api::call();
+?> -->
+
 <?php include("HEAD.PHP"); ?>
 <body>
 	<!-- header-section-starts -->

@@ -1,12 +1,13 @@
 
 				     <div class="logo">
-						<a href="index.php"><h1>Blogger</h1></a>
+						<a href="index.php"><h1>HOME</h1></a>
 					</div>
 					<div class="top-menu">
 					 <span class="menu"> </span>
 
 					<ul class="cl-effect-16">
 						<li><a class="active" href="index.php" data-hover="HOME">Home</a></li> 
+						<li><a href="api.php" data-hover="Menu">Menu</a></li>
 						<li><a href="about.php" data-hover="About">About</a></li>
 						<li><a href="grid.php" data-hover="Grids">Grids</a></li>
 						<li><a href="services.php" data-hover="Services">Services</a></li>
