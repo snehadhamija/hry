@@ -13,15 +13,13 @@ public function call(){
     $response = curl_exec($curl);
     curl_close($curl);
     $response = json_decode($response,TRUE);
-    echo "<table border='1' style='border-collapse: 
-    collapse;border-color: silver;'>";  
+    echo "<table border='1' style='border-collapse: collapse;border-color: silver;'>";  
     echo "<tr style='font-weight: bold;'>";  
     echo "<td width='150' align='center'>Class</td>";  
     echo "</tr>";
     foreach($response as $key => $value) 
         {
             echo '<td width="150" align=center>' . $value['menu'] . '</td>';
-            //echo $value['menu'],'<br>';
             echo '</tr>';
         }
     return $response;
