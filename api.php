@@ -1,6 +1,6 @@
 <?php
 $response = api::call();
-class Api{
+class api{
 public function call(){
     $url = 'http://localhost:8080/haryana';
     $collection_name = 'menu';
