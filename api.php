@@ -1,45 +1,39 @@
 <?php
-$response = api::call();
-class api{
-public function call(){
-    $url = 'http://localhost:8080/haryana';
-    $collection_name = 'menu';
-    $request_url = $url . '/' . $collection_name;
-    $curl = curl_init($request_url);
-    curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-    curl_setopt($curl, CURLOPT_HTTPHEADER, [
-        'Content-Type: application/json'
-    ]);
-    $response = curl_exec($curl);
-    curl_close($curl);
-    $response = json_decode($response,TRUE);
-    echo "<table border='1' style='border-collapse: collapse;border-color: silver;'>";  
-    echo "<tr style='font-weight: bold;'>";  
-    echo "<td width='150' align='center'>Class</td>";  
-    echo "</tr>";
-    foreach($response as $key => $value) 
-        {
-            echo '<td width="150" align=center>' . 123['menu'] . '</td>';
-            echo '</tr>';
-        }
-    return $response;
-    }  
 
-function is_iterable($var)
-{
-    return $var !== null 
-        && (is_array($var) 
-            || $var instanceof Traversable 
-            || $var instanceof Iterator 
-            || $var instanceof IteratorAggregate
-            );
-}
-}
+$curl = curl_init();
 
-function convert_to_array($response){
-    if(!is_array($response)){
-        $response = (array)$response;
-    }
-return $response;
+curl_setopt_array($curl, array(
+  CURLOPT_PORT => "8080",
+  CURLOPT_URL => "http://localhost:8080/website/beat",
+  CURLOPT_RETURNTRANSFER => true,
+  CURLOPT_ENCODING => "",
+  CURLOPT_MAXREDIRS => 10,
+  CURLOPT_TIMEOUT => 30,
+  CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+  CURLOPT_CUSTOMREQUEST => "GET",
+  CURLOPT_POSTFIELDS => "{\n    \"fullName\": \"Sugasini.C\",\n    \"mobileNumber\": \"9787647062\",\n    \"email\": \"sugasini.c@stanzaliving.com\",\n    \"hostels\": [\n        {\n            \"id\": 109\n        }\n    ],\n    \"userProfiles\": [\n        {\n            \"id\": 18\n        },\n        {\n            \"id\": 23\n        }\n    ]\n}",
+  CURLOPT_HTTPHEADER => array(
+    "Accept: /",
+    "Accept-Encoding: gzip, deflate",
+    "Cache-Control: no-cache",
+    "Connection: keep-alive",
+    "Content-Length: 288",
+    "Content-Type: application/json",
+    "Host: localhost:8080",
+    "Postman-Token: 25b83b1f-1944-4193-9120-f8b9f07379f9,806dec97-c3c3-4171-a850-221ee886856a",
+    "User-Agent: PostmanRuntime/7.17.1",
+    "cache-control: no-cache"
+  ),
+));
+
+$response = curl_exec($curl);
+$err = curl_error($curl);
+
+curl_close($curl);
+
+if ($err) {
+  echo "cURL Error #:" . $err;
+} else {
+  echo $response;
 }
 ?>
