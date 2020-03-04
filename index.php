@@ -4,7 +4,7 @@
 
 <!-- <?php include("api.php") ;
 	echo "testing";
-	$response = api::call();
+	//$response = api::call();
 ?> -->
 
 <?php include("HEAD.PHP"); ?>
