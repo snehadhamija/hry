@@ -1,3 +1,4 @@
+<div class="col-md-12 row" style="background:#111;margin-left:0px;position:relative;">
 <div class="footer">
 				 <div class="footer-top">
 				    <div class="col-md-4 footer-grid">
@@ -27,10 +28,20 @@
 		<div class="copy">
 		    <p>&copy; 2016 Blogger. All Rights Reserved | Design by <a href="http://w3layouts.com/">W3layouts</a> </p>
 		</div>
-	 <div class="clearfix"> </div>
-	</div>
-	<div class="clearfix"> </div>
-</div>	
+		
+</div>
+    <script src="js/ace-responsive-menu.js" type="text/javascript"></script>
+	
+	<!--Plugin Initialization-->
+    <script type="text/javascript">
+	$(document).ready(function () {
+		$("#respMenu").aceResponsiveMenu({
+			resizeWidth: '768', // Set the same in Media query       
+			animationSpeed: 'fast', //slow, medium, fast
+			accoridonExpAll: false //Expands all the accordion menu on click
+		});
+	});
+	</script>
 		<!--//footer-->
 			<!--start-smooth-scrolling-->
 						<script type="text/javascript">

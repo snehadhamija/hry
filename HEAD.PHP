@@ -12,7 +12,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<script src="js/jquery.min.js"> </script>
     <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="all" />
 <script src="js/modernizr.custom.js"></script>
-
+<!-- Menu bar link -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="css/demo.css" rel="stylesheet" type="text/css" />
+    <link href="css/ace-responsive-menu.css" rel="stylesheet" type="text/css" />
+    <!-- /menu bar link -->
 <!--/script-->
 <script type="text/javascript" src="js/move-top.js"></script>
 <script type="text/javascript" src="js/easing.js"></script>

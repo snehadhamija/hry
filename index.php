@@ -1,20 +1,13 @@
-
 <!DOCTYPE HTML>
 <html>
-
-<!-- <?php include("api.php") ;
-	echo "testing";
-	$response = api::call();
-?> -->
-
+<?php //include("api.php"); ?>
 <?php include("HEAD.PHP"); ?>
 <body>
-	<!-- header-section-starts -->
-   
+	<!-- header-section-starts -->  
      <?php include("top-nav.php"); ?>
 		
 	<div class="full">
-    <div class="col-md-3 top-nav">
+    <div class="col-md-3 top-nav" style="position:relative;">
 			<?php include("left-nav.php"); ?>
 		<!--banner-section-->
 	<div class="col-md-9 main">
