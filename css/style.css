@@ -155,7 +155,6 @@ ul.top-nag  a.active{
 }
 .top-nav{
        float: left;
-		background-color: #f26649;
 		width: 15%;
 	     padding: 3em 1em 95.6em 1em;
 		   position:absolute;
@@ -1448,13 +1447,13 @@ ul.bottom i {
 		float: left;
 		background-color: #f26649;
 		width: 15%;
-		    padding: 3em 1em 90.95em 1em;
+		    padding: 3em 1em 1.95em 1em;
 	}
 	.top-nav.about {
 		float: left;
 		background-color: #f26649;
 		width: 15%;
-		padding: 3em 1em 91.4em 1em;
+		padding: 3em 1em 1.4em 1em;
 	}
 	.top-nav.contact {
 		float: left;
@@ -2467,12 +2466,13 @@ ul.bottom i {
 		text-align: center;
 		margin-bottom: 0em;
 		margin-right: 1em;
+		width:100%;
 	}
 	.main {
 		float: right;
 		width: 100%;
 		padding: 0;
-		margin-top: 10em;
+		margin-top: 0em;
 	}
 	.sign-up-form {
 		padding: 2em 1em;
@@ -2497,6 +2497,8 @@ ul.bottom i {
 		float: none;
 		width: 100%;
 		padding: 1em 1em;
+		position:relative;
+		z-index:999;
 		text-align: center;
 	}
 	.logo a h1 {
