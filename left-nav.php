@@ -74,7 +74,7 @@ $response = json_decode($response,TRUE);
 							if($obj1['menuCategory']['id']==$obj['id'])
 							{										
 							echo "<li>
-                                <a href='javascript:;'>
+                                <a href='service.php?id=".$obj1['id']."'>
                                     <i class='fa fa-diamond' aria-hidden='true'></i>".$obj1['service']."</a></li>";
 							}	
 						}
