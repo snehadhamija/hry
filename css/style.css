@@ -79,12 +79,12 @@ ul.top-nag  a.active{
 }
 .search-box{
   float: right;
-  width:15%;
+  width:70%;
   margin-top: 0.6em;
 }
 .b-search{
     position: relative;
-    border: 1px solid #5B3A6D;
+    border: 1px solid #8f769d;
     padding: 0.5em 0;
     background:#5B3A6D;
     width: 99%;
@@ -822,7 +822,7 @@ a.store:hover{
 .contact{
 	    background: #fff;
     float: right;
-    padding: 3em 3em;
+    padding: 0em 0em;
     width: 100%;
 }
 .header1{
