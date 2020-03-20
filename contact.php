@@ -1,5 +1,7 @@
 <html>
 <?php include("HEAD.PHP"); ?>
+<link href="css/contact.css" rel="stylesheet" type="text/css" />
+<link href="css/bootstrap-c.css" rel="stylesheet" type="text/css" />
 <body>
 	<!-- header-section-starts -->
    
@@ -11,58 +13,67 @@
 			</div>
 			<div class="col-md-9 main">
 	 <div class="contact">
-	   <h3 class="tittle">Find Us <i class="glyphicon glyphicon-map-marker"></i></h3>
-		<div class="contact-left">
-			<iframe src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Purwokerto,+Central+Java,+Indonesia&amp;aq=0&amp;oq=purwo&amp;sll=37.0625,-95.677068&amp;sspn=50.291089,104.238281&amp;ie=UTF8&amp;hq=&amp;hnear=Purwokerto,+Banyumas,+Central+Java,+Indonesia&amp;ll=-7.431391,109.24783&amp;spn=0.031022,0.050898&amp;t=m&amp;z=14&amp;output=embed"></iframe>
+		<!-- banner 
+<div class="innerpage-banner" id="home">
+	<div class="inner-page-layer">
+	</div>
+</div>
+ //banner -->
 
-		</div>
-		<div class="contact-right">
-			<p class="phn">+9100 2481 5842</p>
-			<p class="phn-bottom">4578 Marmora
-					<span>Road, Glasgow D04 89GR</span></p>
-			<p class="lom">Nullam ac urna velit. Pellentesque in arcu tortor. 
-				Pellentesque nec est et elit varius pulvinar eget vitae sapien. 
-				Aenean vehicula accumsan gravida.</p>
-		</div>
-		<div class="clearfix"> </div>
-		<div class="contact-left1">
-			<h3>Contact Us With <span>Any questions</span></h3>
-			<div class="in-left">
-				<form>
-					<p class="your-para">Your Name :</p>
-							<input type="text" value="" onFocus="this.value='';" onBlur="if (this.value == '') {this.value ='';}">
-							<p class="your-para">Your Mail :</p>
-							<input type="text" value="" onFocus="this.value='';" onBlur="if (this.value == '') {this.value ='';}">
-							<p class="your-para">Phone Number:</p>
-							<input type="text" value="" onFocus="this.value='';" onBlur="if (this.value == '') {this.value ='';}">
-
+<!-- contact -->
+<section class="mail pt-lg-5 pt-4">
+	<div class="container pt-lg-5">
+		<h2 class="heading text-center mb-sm-5 mb-4">Contact Us </h2>
+		<div class="row agileinfo_mail_grids">
+			<div class="col-lg-8 agileinfo_mail_grid_right">
+				<form action="#" method="post">
+					<div class="row">
+						<div class="col-md-6 wthree_contact_left_grid pr-md-0">
+							<div class="form-group">
+								<input type="text" name="name" class="form-control" placeholder="Name" required>
+							</div>
+							<div class="form-group">
+								<input type="email" name="email" class="form-control" placeholder="Email" required>
+							</div>
+						</div>
+						<div class="col-md-6 wthree_contact_left_grid">
+							<div class="form-group">
+								<input type="text" name="phone number" class="form-control" placeholder="Phone Number" required>
+							</div>
+							<div class="form-group">
+								<input type="text" name="subject" class="form-control" placeholder="Subject" required>
+							</div>
+						</div>
+						<div class="col-md-12">
+							<div class="form-group">
+								<textarea name="message" placeholder="Message" class="form-control" required></textarea>
+							</div>
+						</div>
+						<div class="col-md-12">
+							<div class="submit-buttons">
+								<button type="submit" class="btn">Submit</button>
+							</div>
+						</div>
+					</div>
 				</form>
 			</div>
-			<div class="in-right">
-				<form>
-					<textarea cols="77" rows="6" onFocus="this.value='';" onBlur="if (this.value == '') {this.value = '';}"></textarea>
-					<input type="submit" value="Submit">
-				</form>
+			<div class="col-lg-4 col-md-6 mt-lg-0 mt-4 contact-info">
+				<h4 class="mb-4">Address Information</h4>
+				<p><span class="fa mr-2 fa-map-marker"></span>DGM BUILDING OLD COURT ROAD<br>NEAR RAILWAY CROSSING,<br>
+				<span>SIRSA-125055,HARYANA INDIA</span></p>
+                
+				<p class="phone py-2"><span class="fa mr-2 fa-phone"></span> Phone: 01666-232543 <br>01666-232543 </p>
+                
+				<p><span class="fa mr-2 fa-envelope"></span> Email:<a href="mailto:info@example.com"> kboffice.india@gmail.com</a></p>
 			</div>
-			<div class="clearfix"> </div>
 		</div>
-		<div class="contact-right1">
-			<h3><span>Social Websites</span></h3>
-			<h4>Nullam ac urna velit pellentesque in <label>arcu tortor 
-				Pellentesque nec</label></h4>
-			<p>Nullam ac urna velit. Pellentesque in arcu tortor. 
-				Pellentesque nec est et elit varius pulvinar eget vitae sapien. 
-				Aenean vehicula accumsan gravida. Cum sociis natoque penatibus
-				et magnis dis parturient montes, nascetur ridiculus mus. Phasellus 
-				et lectus in urna consequat consectetur ut eget risus.</p>
-			     <ul class=" side-icons con">
-							<li><a class="fb" href="#"></a></li>
-							<li><a class="twitt" href="#"></a></li>
-							<li><a class="goog" href="#"></a></li>
-							<li><a class="drib" href="#"></a></li>
-					   </ul>
-		</div>
-		<div class="clearfix"> </div>
+	</div>
+	<div class="map mt-5">
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50996.31320435244!2d-122.06676498187694!3d36.97949802442312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808e441b7c36d549%3A0x52ca104b2ad7f985!2sSanta+Cruz%2C+CA%2C+USA!5e0!3m2!1sen!2sin!4v1469096018666"
+			style="border:0"></iframe>
+	</div>
+</section>
+<!-- //contact -->
 <!-- //contact -->
 			</div>
 			<div class="clearfix"> </div>

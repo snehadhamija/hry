@@ -1,26 +1,14 @@
 <div class="banner-section">
-		   <h3 class="tittle">General <i class="glyphicon glyphicon-picture"></i></h3>
+		   <h3 class="tittle">One stop solution in MSME's & EMSE's <i class=""></i></h3>
 			<div class="banner">
                  <div  class="callbacks_container">
-					<ul class="rslides" id="slider4">
+					<ul class="rslides" id="slider4" style="height:310px;">
 					       <li>
-							  <img src="images/1.jpg" class="img-responsive" alt="" />
+							  <img src="images/11.jpg" class="img-responsive" alt="" />
 
 							</li>
 							<li>
-								 <img src="images/2.jpg" class="img-responsive" alt="" />
-
-
-							</li>
-							<li>
-							 <img src="images/3.jpg" class="img-responsive" alt="" />
-
-							
-							</li>
-							<li>
-							 <img src="images/3.jpg" class="img-responsive" alt="" />
-
-
+								 <img src="images/22.jpg" class="img-responsive" alt="" />
 							</li>
 						</ul>
 					</div>
