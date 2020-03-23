@@ -79,12 +79,12 @@ ul.top-nag  a.active{
 }
 .search-box{
   float: right;
-  width:15%;
+  width:70%;
   margin-top: 0.6em;
 }
 .b-search{
     position: relative;
-    border: 1px solid #5B3A6D;
+    border: 1px solid #8f769d;
     padding: 0.5em 0;
     background:#5B3A6D;
     width: 99%;
@@ -155,23 +155,19 @@ ul.top-nag  a.active{
 }
 .top-nav{
        float: left;
-		background-color: #f26649;
-		width: 15%;
-	     padding: 3em 1em 95.6em 1em;
+		width: 20%;
 		   position:absolute;
 }
 .top-nav.contact{
        float: left;
 		background-color: #f26649;
-		width: 15%;
-  padding: 3em 1em 37.86em 1em;
+		width: 20%;
 		   position:absolute;
 }
 .top-nav.about{
        float: left;
 		background-color: #f26649;
-		width: 15%;
-	  	    padding: 3em 1em 95.25em 1em;
+		width: 20%;
 		   position:absolute;
 }
 	.top-nav.grid-sec {
@@ -307,11 +303,11 @@ nav a:focus {
 /*--start-home--*/
 .main {
 	float: right;
-    width: 85%;
+    width: 79%;
     padding: 0;
 }
 .banner-section{
-    width: 67%;
+    width: 73%;
     float: left;
 	    padding: 2em 1em 1.5em 1em;
 		border-right: 1px solid #ddd;
@@ -599,7 +595,7 @@ h3.tittle.media {
 }
 .banner-right-text {
     float: right;
-    width:33%;
+    width:27%;
        padding: 2em 1em 1.5em 1em;
 }
 .general-text img ,.top-text img{
@@ -823,7 +819,7 @@ a.store:hover{
 .contact{
 	    background: #fff;
     float: right;
-    padding: 3em 3em;
+    padding: 0em 0em;
     width: 100%;
 }
 .header1{
@@ -1447,20 +1443,20 @@ ul.bottom i {
 	.top-nav {
 		float: left;
 		background-color: #f26649;
-		width: 15%;
-		    padding: 3em 1em 90.95em 1em;
+		width:20%;
+		    padding: 3em 1em 1.95em 1em;
 	}
 	.top-nav.about {
 		float: left;
 		background-color: #f26649;
-		width: 15%;
-		padding: 3em 1em 91.4em 1em;
+		width: 20%;
+		
 	}
 	.top-nav.contact {
 		float: left;
 		background-color: #f26649;
-		width: 15%;
-		padding: 3em 1em 37.9em 1em;
+		width: 20%;
+		
 	}
 	.top-nav.grid-sec {
 		float: left;
@@ -1503,19 +1499,15 @@ ul.bottom i {
 @media (max-width:1440px){
 	.top-nav {
 		float: left;
-		width: 15%;
-		padding: 3em 1em 85.5em 1em;
+		width: 20%;
+		padding: 3em 1em 1.95em 1em;
 	}
 	.top-nav.about {
 		float: left;
-		width: 15%;
-		padding: 3em 1em 87.1em 1em;
+		width: 20%;
+		
 	}
-	.top-nav.services {
-		float: left;
-		width: 15%;
-		padding: 3em 1em 89.98em 1em;
-	}
+	
 	.cate-grid {
 		background-size: 100%;
 		margin: 0 10px;
@@ -1526,13 +1518,11 @@ ul.bottom i {
 	.top-nav.gallery-sec {
 		float: left;
 		width: 15%;
-		padding: 3em 1em 30.7em 1em;
 	}
 	.top-nav.contact {
 		float: left;
 		background-color: #f26649;
-		width: 15%;
-		padding: 3em 1em 37.91em 1em;
+		width: 20%;
 	}
 	.top-nav.sing-page {
 		float: left;
@@ -1565,12 +1555,12 @@ ul.bottom i {
 	}
 	.top-nav {
 		float: left;
-		width: 15%;
+		width: 20%;
 		padding: 3em 1em 83.05em 1em;
 	}
 	.top-nav.about {
 		float: left;
-		width: 15%;
+		width: 20%;
 		padding: 3em 1em 86.05em 1em;
 	}
 	.top-nav.services {
@@ -1593,7 +1583,7 @@ ul.bottom i {
 	.top-nav.contact {
 		float: left;
 		background-color: #f26649;
-		width: 15%;
+		width: 20%;
 		padding: 3em 1em 37.91em 1em;
 	}
 	.contact-right1 ul {
@@ -1643,8 +1633,8 @@ ul.bottom i {
 	}
 	.top-nav {
 		float: left;
-		width: 15%;
-		padding: 3em 1em 85.25em 1em;
+		width: 20%;
+		padding: 3em 1em 1.95em 1em;
 	}
 	.top-nav.about {
 		float: left;
@@ -1685,7 +1675,7 @@ ul.bottom i {
 	}
 	.top-nav.contact {
 		float: left;
-		width: 15%;
+		width: 20%;
 		padding: 3em 1em 38.6em 1em;
 	}
 	.contact-right p.phn {
@@ -1793,7 +1783,7 @@ ul.bottom i {
 	}
 	.top-nav {
 		float: left;
-		width: 15%;
+		width: 20%;
 		padding: 3em 1em 73.9em 1em;
 	}
 	.grid-section {
@@ -1828,7 +1818,7 @@ ul.bottom i {
 	}
 	.top-nav.contact {
 		float: left;
-		width: 15%;
+		width: 20%;
 		    padding: 3em 1em 38.5em 1em;
 	}
 	.login {
@@ -2467,12 +2457,13 @@ ul.bottom i {
 		text-align: center;
 		margin-bottom: 0em;
 		margin-right: 1em;
+		width:100%;
 	}
 	.main {
 		float: right;
 		width: 100%;
 		padding: 0;
-		margin-top: 10em;
+		margin-top: 0em;
 	}
 	.sign-up-form {
 		padding: 2em 1em;
@@ -2497,6 +2488,8 @@ ul.bottom i {
 		float: none;
 		width: 100%;
 		padding: 1em 1em;
+		position:relative;
+		z-index:999;
 		text-align: center;
 	}
 	.logo a h1 {
@@ -2543,12 +2536,7 @@ ul.bottom i {
 		padding: 20px 10px;
 	}
   span.menu {
-		width: 35px;
-		height: 35px;
-		background: url(../images/nav.png) no-repeat 0px 0px;
-		display: block;
-		cursor: pointer;
-		margin: 1em 9.4em;
+		
 	}
 	.top-menu ul{
 		display:none;
@@ -2772,18 +2760,11 @@ ul.bottom i {
 		float: right;
 		width: 100%;
 		padding: 0;
-		margin-top: 6em;
+		margin-top: 0em;
 	}
 }
 @media (max-width:375px){
-	span.menu {
-		width: 35px;
-		height: 35px;
-		background: url(../images/nav.png) no-repeat 0px 0px;
-		display: block;
-		cursor: pointer;
-		margin: 1em 9.4em;
-	}
+	
 	ul.top-nag li a {
 		font-size: 0.6em;
 		padding: 11px 9px;
@@ -2800,12 +2781,7 @@ ul.bottom i {
 }
 @media (max-width:320px){
    span.menu {
-		width: 35px;
-		height: 35px;
-		background: url(../images/nav.png) no-repeat 0px 0px;
-		display: block;
-		cursor: pointer;
-		margin: 1em 7.4em;
+		
 	}
 	.top-menu ul{
 		display:none;
@@ -3033,7 +3009,7 @@ ul.bottom i {
 		width: 35px;
 		height: 35px;
 		background: url(../images/nav.png) no-repeat 0px 0px;
-		display: block;
+		display: none;
 		cursor: pointer;
 		margin: 0.8em 7.4em 0;
 	}
