@@ -23,7 +23,7 @@ $response = json_decode($response,TRUE);
 	<nav>
         <!-- Menu Toggle btn-->
         <div class="menu-toggle">
-            <h3>Menu</h3>
+            <!-- <h3>Menu</h3> -->
             <button type="button" id="menu-btn">
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -32,7 +32,7 @@ $response = json_decode($response,TRUE);
         </div>
         <!-- Responsive Menu Structure-->
         <!--Note: declare the Menu style in the data-menu-style="horizontal" (options: horizontal, vertical, accordion) -->
-        <ul id="respMenu" class="ace-responsive-menu cl-effect-16" data-menu-style="vertical">
+        <ul id="respMenu" class="ace-responsive-menu cl-effect-16" data-menu-style="vertical" style="text-align: left; padding: 10px;">
         <?php 
 		 // get menu name
 		 foreach($response as $key => $value) 
