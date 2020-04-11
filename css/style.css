@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 html, body{
 font-family: 'Open Sans', sans-serif;
  font-size: 100%;
- background: #FFf;
+ background: #fff;
 }
 
 body a {
@@ -51,7 +51,7 @@ label{
 }
 .top-header {
           padding: 0em 2em;
-    background: #4a245e;
+    background:#314152;
 }
 ul.top-nag {
     float:left
@@ -62,20 +62,20 @@ ul.top-nag li {
 	float:left;
 }
 ul.top-nag  a{
-    color: #fff;
+    color: #ffFFFF;
     font-size: 0.9em;
     font-weight: 600;
     text-transform: uppercase;
    padding: 20px 20px;
     background: none;
-    background-color: #4A245E;
+    background-color:#314152;
     display: inline-block;
 }
 ul.top-nag  a:hover,ul.top-nag  a.active{
-    background-color: #3C1D4C;
+    background-color: #fdce4b;
 }
 ul.top-nag  a.active{
-  color: #ffcc00;
+  color: #FFFFFF;
 }
 .search-box{
   float: right;
@@ -84,9 +84,9 @@ ul.top-nag  a.active{
 }
 .b-search{
     position: relative;
-    border: 1px solid #8f769d;
+    border: 1px solid 	#808080;
     padding: 0.5em 0;
-    background:#5B3A6D;
+    background:	#808080;
     width: 99%;
 }
 .b-search input[type="text"]{
@@ -97,7 +97,7 @@ ul.top-nag  a.active{
     color: #fff;
     position: relative;
     border: none;
-	background:#5B3A6D;
+	background:	#808080;
 }
 .b-search input[type="submit"]{
 	background: url(../images/search.png) no-repeat 0px 2px;
@@ -129,9 +129,9 @@ ul.top-nag  a.active{
     color: #FFFFFF;
     float: left;
     outline: none;
-    border: 1px solid #003366;
+    border: 1px solid #067c6f;
     padding: 0.5em;
-    background: #003366;
+    background: #067c6f;
     -webkit-appearance: none;
 }
 .header-top-right form input[type="submit"] {
@@ -274,7 +274,7 @@ nav a:focus {
     text-transform: uppercase;
     padding:0;
     background: none;
-    background-color:#f26649;
+    background-color:#fdce4b;
 }
 .top-menu ul li a:hover,.top-menu ul li a.active{
 	color:#ffcc00;
@@ -481,7 +481,7 @@ nav a:focus {
      width:14px;
     height:14px;
     display: block;
-    background:#f26649;
+    background:#fdce4b;
   display: inline-block;
   border:none;
   border-radius:50%;
@@ -491,7 +491,7 @@ nav a:focus {
   -ms-border-radius:50%;
 }
 .callbacks_here a:after{
-  background:#4a245e;
+  background:#E6934B;
 }
 /*--top-news--*/
 ul.side-icons{
@@ -529,23 +529,23 @@ ul.side-icons li a.drib{
 /*--about--*/
 
 h3.tittle {
-    color: #333;
+    color: #000000;
     font-size: 2em;
 	text-align:left;
 	margin-bottom:0.8em;
 }
 h3.tittle i {
     font-size: 0.7em;
-    color: #F26649;
+    color: #464B64;
 }
 h5.top a {
        line-height: 1.6em;
     font-size: 1.3em;
-    color: #4A245E;
+    color:#000000;
     font-weight: 300;
 }
 h5.top a:hover{
-    color:#f26649;
+    color:#464B64;
 }
 span.glyphicon.glyphicon-comment:hover, span.glyphicon.glyphicon-eye-open:hover, span.glyphicon.glyphicon-thumbs-up:hover, a.span_link {
     color: #000008;
@@ -556,13 +556,13 @@ span.glyphicon.glyphicon-comment, span.glyphicon.glyphicon-eye-open, span.glyphi
     color: #CCCBC6;
 }
 span.glyphicon.glyphicon-circle-arrow-right {
-    color: #F26649;
+    color: #464B64;
     margin-left: 1em;
     margin-top: -2px;
     vertical-align: middle;
 }
 span.glyphicon.glyphicon-circle-arrow-right:hover{
-color:#4a245e;
+color:#E6934B;
 }
 .b-bottom {
     margin-top: 1em;
@@ -627,7 +627,7 @@ i.glyphicon.glyphicon-comment {
     margin-left: 0.5em;
 }
 h5.inner.two a {
-        color: #4A245E;
+        color:#000000;
     font-weight:400;
     text-transform: none;
     font-size: 1.1em;
@@ -664,7 +664,7 @@ p.nam {
       font-size: 15px;
     color: #fff;
     font-weight: 300;
-    background: #4A245E;
+    background:#314152;
     padding: 12px 20px;
   transition: .5s all;
   -webkit-transition: .5s all;
@@ -673,7 +673,7 @@ p.nam {
   -ms-transition: .5s all;
 }
 .more a:hover {
-   background-color: #f26649;
+   background-color: #464B64;
 }
 .about-content img {
 	float: left;
@@ -729,7 +729,7 @@ p.nam {
 	   padding: 9px 21px;
 	   font-size:1em;
 	  display: inline-block;
-      background: #F26649;
+      background: #464B64;
 	  color: #fff;
 	  text-decoration:none;
 }
@@ -841,13 +841,13 @@ a.store:hover{
 	padding:3em 2em;
 	}
 .contact-right p.phn{
-	    color: #F26649;
+	    color: #464B64;
     font-size: 2.6em;
     font-weight: 700;
     margin: 0 0 .5em;
 	}
 p.phn-bottom{
-	      color: #4A245E;
+	      color:#314152;
     font-size: 1.2em;
     margin: 0 0 1em;
 	}
@@ -869,7 +869,7 @@ p.lom{
     padding: 3em 2em 3em 0;
 	}
 .contact-left1 h3{
-	    color: #4A245E;
+	    color:#314152;
     font-weight: 600;
     font-size: 1.8em;
     margin: 0 0 1em 0em;
@@ -897,7 +897,7 @@ p.lom{
 	    margin: 7px 0;
 	}
 	p.your-para {
-    color:#f26649;
+    color:#464B64;
     font-size: 0.9em;
     margin: 0 0 5px 0;
     font-weight: 600;
@@ -916,7 +916,7 @@ p.lom{
 .in-right input[type="submit"]{
 	outline: none;
     border: none;
-    background: #4A245E;
+    background:#314152;
     color: #fff;
     font-weight: 400;
     font-size: 16px;
@@ -940,7 +940,7 @@ p.lom{
 .contact-right1{
 	    float: right;
     width: 50%;
-    background: #4A245E;
+    background:#314152;
     padding: 3em 2em;
 	}
 .contact-right1 h3{
@@ -958,7 +958,7 @@ p.lom{
 	    text-transform: capitalize;
     font-size: 1.3em;
     margin: 2em 0;
-    color: #F26649;
+    color: #464B64;
     line-height: 1.6em;
     font-weight: 400;
 	}
@@ -1008,7 +1008,7 @@ p.lom{
   margin-right: 58px;
 }
 .log h5{
-	color: #F26649;
+	color: #464B64;
     font-size: 16px;
     text-transform: capitalize;
     margin: 0 0 10px 0;
@@ -1034,13 +1034,13 @@ p.lom{
     font-size: 17px;
     cursor: pointer;
     margin: 0 0 32px 0;
-    background: #4A245E;
+    background:#314152;
     border: none;
     outline: none;
     -webkit-appearance: none;
 }
 .log form input[type=submit]:hover,.login-right a:hover {
-    background: #F26649;
+    background: #464B64;
     transition: .5s all;
     -webkit-transition: .5s all;
     -o-transition: .5s all;
@@ -1049,10 +1049,10 @@ p.lom{
   }
 .log p a{
 	text-decoration:none;
-	color:#4a245e;
+	color:#E6934B;
 }
 .log p a:hover{
-     color: #F26649;
+     color: #464B64;
   transition: .5s all;
   -webkit-transition: .5s all;
   -o-transition: .5s all;
@@ -1076,10 +1076,10 @@ p.lom{
 }
 .log a{
 	text-decoration:none;
-	    color: #F26649;
+	    color: #464B64;
 }
 .log a:hover{
-  color:#4a245e;
+  color:#E6934B;
   transition: .5s all;
   -webkit-transition: .5s all;
   -o-transition: .5s all;
@@ -1088,7 +1088,7 @@ p.lom{
 }
 .login-right a{
 	    text-decoration: none;
-    background: #4A245E;
+    background:#314152;
     color: #ffffff;
     font-size: 16px;
     padding: 14px 34px;
@@ -1156,7 +1156,7 @@ p.lom{
 .sign-up input[type="submit"]{
 	    outline: none;
     border: none;
-    background: #4A245E;
+    background:#314152;
     color: #fff;
     font-size: 20px;
     width: 17%;
@@ -1173,7 +1173,7 @@ p.lom{
     -webkit-appearance: none;
 	}
 .sign-up input[type="submit"]:hover{
-	    background: #F26649;
+	    background: #464B64;
 	}
 	h3.tittle.reg {
     font-size: 1.6em;
@@ -1278,8 +1278,8 @@ p.reply i{
 	font-family: 'Open Sans', sans-serif;
 }
 .coment-form input[type="submit"] {
-    background: #4A245E;
-    border: 1px solid #4A245E;
+    background:#314152;
+    border: 1px solid#314152;
     padding: .8em 0;
     width: 30%;
     margin-top: .5em;
@@ -1296,8 +1296,8 @@ p.reply i{
 	text-transform:uppercase;
 }
 .coment-form input[type="submit"]:hover{
-   background:#f26649;
-    border: 1px solid #f26649;
+   background:#464B64;
+    border: 1px solid #464B64;
 }
 .coment-form input[type="email"] {
     background: none;
@@ -1342,13 +1342,13 @@ p.reply i{
 	line-height:1.9em;
 }
 .media-body.response-text-right ul li {
-    color: #F26649;
+    color: #464B64;
     font-size: 0.9em;
     display: inline-block;
         font-weight: 400;
 }
 .media-body.response-text-right ul li a {
-    color:#4a245e;
+    color:#E6934B;
     font-size: 1em;
     display: block;
     margin-top: 6px;
@@ -1360,7 +1360,7 @@ p.reply i{
     text-align: left;
 }
 .media-left.response-text-left h5 a {
-    color: #4A245E;
+    color:#314152;
     font-weight: 400;
     line-height: 2em;
 }
@@ -1377,7 +1377,7 @@ p.reply i{
 }
 .media-body.response-text-right ul li a:hover {
     text-decoration: none;
-    color: #f26649;
+    color: #464B64;
 }
 /*--footer--*/
 .footer {
@@ -1403,7 +1403,7 @@ ul.bottom li a{
     font-size:1em;
 }
 ul.bottom li a:hover{
-  color: #F26649;
+  color: #464B64;
 }
 ul.bottom i {
     color: #fff;
@@ -1411,7 +1411,7 @@ ul.bottom i {
 }
 .copy {
         text-align: center;
-    background:#4A245E;
+    background:#314152;
     padding: 1em;
 	}
 .copy p {
@@ -1419,7 +1419,7 @@ ul.bottom i {
   font-size: 0.9em;
 }
 .copy p a {
-   color: #F26649;
+   color: #464B64;
 }
 .copy p a:hover{
 	 text-decoration: underline;
@@ -1442,55 +1442,55 @@ ul.bottom i {
 @media (max-width:1600px){
 	.top-nav {
 		float: left;
-		background-color: #f26649;
+		background-color: #464B64;
 		width:20%;
 		    padding: 3em 1em 1.95em 1em;
 	}
 	.top-nav.about {
 		float: left;
-		background-color: #f26649;
+		background-color: #464B64;
 		width: 20%;
 		
 	}
 	.top-nav.contact {
 		float: left;
-		background-color: #f26649;
+		background-color: #464B64;
 		width: 20%;
 		
 	}
 	.top-nav.grid-sec {
 		float: left;
-		background-color: #f26649;
+		background-color: #464B64;
 		width: 15%;
 		padding: 3em 1em 24.65em 1em;
 	}
 	.top-nav.gallery-sec{
 		float: left;
-		background-color: #f26649;
+		background-color: #464B64;
 		width: 15%;
 		    padding: 3em 1em 32.2em 1em;
 	}
 	.top-nav.services {
 		float: left;
-		background-color: #f26649;
+		background-color: #464B64;
 		width: 15%;
 		padding: 3em 1em 98.75em 1em;
 	}
 	.top-nav.login {
 		float: left;
-		background-color: #f26649;
+		background-color: #464B64;
 		width: 15%;
 		padding: 3em 1em 15.25em 1em;
 	}
 	.top-nav.register {
 		float: left;
-		background-color: #f26649;
+		background-color: #464B64;
 		width: 15%;
 		padding: 3em 1em 23.55em 1em;
 	}
     .top-nav.sing-page {
 		float: left;
-		background-color: #f26649;
+		background-color: #464B64;
 		width: 15%;
 		padding: 3em 1em 93.8em 1em;
 	}
@@ -1521,7 +1521,7 @@ ul.bottom i {
 	}
 	.top-nav.contact {
 		float: left;
-		background-color: #f26649;
+		background-color: #464B64;
 		width: 20%;
 	}
 	.top-nav.sing-page {
@@ -1538,7 +1538,7 @@ ul.bottom i {
 	}
 	.top-nav.services {
 		float: left;
-		background-color: #f26649;
+		background-color: #464B64;
 		width: 15%;
 		padding: 3em 1em 89.99em 1em;
 	}
@@ -1582,7 +1582,7 @@ ul.bottom i {
 	}
 	.top-nav.contact {
 		float: left;
-		background-color: #f26649;
+		background-color: #464B64;
 		width: 20%;
 		padding: 3em 1em 37.91em 1em;
 	}
@@ -1700,13 +1700,13 @@ ul.bottom i {
 	}
 	.top-nav.register {
 		float: left;
-		background-color: #f26649;
+		background-color: #464B64;
 		width: 15%;
 		padding: 3em 1em 21.85em 1em;
 	}
 	.top-nav.login {
 		float: left;
-		background-color: #f26649;
+		background-color: #464B64;
 		width: 15%;
 		padding: 3em 1em 16em 1em;
 	}
