@@ -1,17 +1,29 @@
 <html>
 <?php include("HEAD.PHP"); ?>
 <link href="css/contact.css" rel="stylesheet" type="text/css" />
-<link href="css/bootstrap-c.css" rel="stylesheet" type="text/css" />
 <body>
 	<!-- header-section-starts -->
-   
+ <style>
+ .main {
+width:100%;	 
+ }
+ .map iframe {
+    min-height: 330px;
+}
+.mt-5, .my-5 {
+    margin-top: 1rem !important;
+}
+.col-md-12, .col-lg-12 {   
+    padding-right: 0px; 
+}
+ </style>  
      <?php include("top-nav.php"); ?>
 		
 	<div class="full">
-			<div class="col-md-4 top-nav contact">
-			<?php include("left-nav.php"); ?>
-			</div>
-			<div class="col-md-8 main">
+			<!--<div class="col-md-4 top-nav contact">
+			<?php //include("left-nav.php"); ?>
+			</div>-->
+			<div class="col-md-12 main">
 	 <div class="contact">
 		<!-- banner 
 <div class="innerpage-banner" id="home">
@@ -25,21 +37,34 @@
 	<div class="container pt-lg-5">
 		<h2 class="heading text-center mb-sm-5 mb-4">Contact Us </h2>
 		<div class="row agileinfo_mail_grids">
-			<div class="col-lg-8 agileinfo_mail_grid_right">
+			<div class="col-lg-6 col-md-6 mt-lg-0 mt-6 contact-info">
+				<h4 class="mb-6">Address Information</h4>
+				<p><span class="fa mr-2 fa-map-marker"></span>DGM BUILDING OLD COURT ROAD<br>NEAR RAILWAY CROSSING,<br>
+				<span>SIRSA-125055,HARYANA INDIA</span></p>
+                <div class="map mt-6">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3471.3287377764964!2d75.03471061448562!3d29.53591938207015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39114c4abd1de2f5%3A0x34bb800f920dd8c9!2sComputer%20Plus!5e0!3m2!1sen!2sin!4v1584959807758!5m2!1sen!2sin"
+			style="border:0"></iframe>
+				</div>
+			</div>
+            <div class="col-lg-6 agileinfo_mail_grid_right" style="margin-top: 28px;">
 				<form action="#" method="post">
 					<div class="row">
-						<div class="col-md-6 wthree_contact_left_grid pr-md-0">
+						<div class="col-md-12 wthree_contact_left_grid pr-md-0">
 							<div class="form-group">
 								<input type="text" name="name" class="form-control" placeholder="Name" required>
 							</div>
+                        </div>
+                        <div class="col-md-12 wthree_contact_left_grid pr-md-0">
 							<div class="form-group">
 								<input type="email" name="email" class="form-control" placeholder="Email" required>
 							</div>
 						</div>
-						<div class="col-md-6 wthree_contact_left_grid">
+						<div class="col-md-12 wthree_contact_left_grid pr-md-0">
 							<div class="form-group">
 								<input type="text" name="phone number" class="form-control" placeholder="Phone Number" required>
 							</div>
+                        </div>
+                        <div class="col-md-12 wthree_contact_left_grid pr-md-0">
 							<div class="form-group">
 								<input type="text" name="subject" class="form-control" placeholder="Subject" required>
 							</div>
@@ -57,21 +82,10 @@
 					</div>
 				</form>
 			</div>
-			<div class="col-lg-4 col-md-6 mt-lg-0 mt-4 contact-info">
-				<h4 class="mb-4">Address Information</h4>
-				<p><span class="fa mr-2 fa-map-marker"></span>DGM BUILDING OLD COURT ROAD<br>NEAR RAILWAY CROSSING,<br>
-				<span>SIRSA-125055,HARYANA INDIA</span></p>
-                
-				<p class="phone py-2"><span class="fa mr-2 fa-phone"></span> Phone: 01666-232543,234565 </p>
-                
-				<p><span class="fa mr-2 fa-envelope"></span> Email:<a href="mailto:info@example.com"> kboffice.india@gmail.com</a></p>
-			</div>
+			
 		</div>
 	</div>
-	<div class="map mt-5">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3471.3287377764964!2d75.03471061448562!3d29.53591938207015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39114c4abd1de2f5%3A0x34bb800f920dd8c9!2sComputer%20Plus!5e0!3m2!1sen!2sin!4v1584959807758!5m2!1sen!2sin"
-			style="border:0"></iframe>
-	</div>
+	
 </section>
 <!-- //contact -->
 <!-- //contact -->

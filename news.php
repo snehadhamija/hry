@@ -1,6 +1,6 @@
 </div>
 <div class="banner-right-text">
-			 <h3 class="tittle">Consultant  <i class="glyphicon glyphicon-facetime-video"></i></h3>
+			 <h3 class="tittle">Consultant </h3>
 			<!--/general-news-->
 			 <div class="general-news">
 				<div class="general-inner">
@@ -10,7 +10,7 @@
 					 <div class="edit-pics">
 							      <div class="editor-pics">
 										 <div class="col-md-3 item-pic">
-										   <img src="images/f4.jpg" class="img-responsive" alt="">
+										   <img src="images/c.jpg" class="img-responsive" alt="">
 
 										   </div>
 											<div class="col-md-9 item-details">
@@ -20,7 +20,7 @@
 										</div>
 										<div class="editor-pics">
 										 <div class="col-md-3 item-pic">
-										   <img src="images/f1.jpg" class="img-responsive" alt="">
+										   <img src="images/d.jpeg" class="img-responsive" alt="">
 
 										   </div>
 											<div class="col-md-9 item-details">
@@ -30,7 +30,7 @@
 										</div>
 										<div class="editor-pics">
 										 <div class="col-md-3 item-pic">
-										   <img src="images/f1.jpg" class="img-responsive" alt="">
+										   <img src="images/abc.jpeg" class="img-responsive" alt="">
 
 										   </div>
 											<div class="col-md-9 item-details">
@@ -40,7 +40,7 @@
 										</div>
 										<div class="editor-pics">
 										 <div class="col-md-3 item-pic">
-										   <img src="images/f4.jpg" class="img-responsive" alt="">
+										   <img src="images/b.jpeg" class="img-responsive" alt="">
 
 										   </div>
 											<div class="col-md-9 item-details">
@@ -50,9 +50,9 @@
 										</div>
 									</div>
 								<div class="media">	
-								 <h3 class="tittle media">Ads <i class="glyphicon glyphicon-floppy-disk"></i></h3>
+								 <h3 class="tittle media">Ads</h3>
 								  <div class="general-text two">
-									 <a href="#"><img src="images/gen3.jpg" class="img-responsive" alt=""></a>
+									 <a href="#"><img src="images/tally.jpg" class="img-responsive" alt=""></a>
 										<h5 class="top"><a href="#">Computer Plus Tally Academy</a></h5>
 										<p></p>
 										

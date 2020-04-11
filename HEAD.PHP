@@ -1,7 +1,8 @@
 <head>
-<title>Blogger a Blogging Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
+<title>Haryana Industries</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
 <meta name="keywords" content="Blogger Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android  Compatible web template, 
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
@@ -15,6 +16,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- Menu bar link -->
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 <link href="css/demo.css" rel="stylesheet" type="text/css" />
+<link href="css/fontawesome-all.min.css" rel="stylesheet" type="text/css" media="all">
+<link href="css/bootstrap-c.css" rel="stylesheet" type="text/css" />
+
     <link href="css/ace-responsive-menu.css" rel="stylesheet" type="text/css" />
     <!-- /menu bar link -->
 <!--/script-->
