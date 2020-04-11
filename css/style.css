@@ -23,7 +23,7 @@ body a {
 }
 a:hover,h5.inner.two a:hover{
  text-decoration:none;
- color:#ffffff;
+ color:#314152;
 }
 input[type="button"],input[type="submit"],li.parallelogram{
 	transition:0.5s all;
@@ -228,7 +228,7 @@ ul.top-nag  a.active{
 	text-shadow: 0 0 1px rgba(111,134,134,0.3);
 }
 .cl-effect-16 a::before {
-	color:#ffcc00;
+	color:#ffffff;
 	content: attr(data-hover);
 	position: absolute;
 	opacity: 0;
@@ -481,7 +481,7 @@ nav a:focus {
      width:14px;
     height:14px;
     display: block;
-    background:#fdce4b;
+    background:#464B64;
   display: inline-block;
   border:none;
   border-radius:50%;
@@ -491,7 +491,7 @@ nav a:focus {
   -ms-border-radius:50%;
 }
 .callbacks_here a:after{
-  background:#E6934B;
+  background:#000000;
 }
 /*--top-news--*/
 ul.side-icons{
@@ -562,7 +562,7 @@ span.glyphicon.glyphicon-circle-arrow-right {
     vertical-align: middle;
 }
 span.glyphicon.glyphicon-circle-arrow-right:hover{
-color:#E6934B;
+color:#000000;
 }
 .b-bottom {
     margin-top: 1em;
@@ -1049,7 +1049,7 @@ p.lom{
   }
 .log p a{
 	text-decoration:none;
-	color:#E6934B;
+	color:#000000;
 }
 .log p a:hover{
      color: #464B64;
@@ -1079,7 +1079,7 @@ p.lom{
 	    color: #464B64;
 }
 .log a:hover{
-  color:#E6934B;
+  color:#000000;
   transition: .5s all;
   -webkit-transition: .5s all;
   -o-transition: .5s all;
@@ -1348,7 +1348,7 @@ p.reply i{
         font-weight: 400;
 }
 .media-body.response-text-right ul li a {
-    color:#E6934B;
+    color:#000000;
     font-size: 1em;
     display: block;
     margin-top: 6px;
@@ -1419,7 +1419,7 @@ ul.bottom i {
   font-size: 0.9em;
 }
 .copy p a {
-   color: #464B64;
+   color: #FF0000;
 }
 .copy p a:hover{
 	 text-decoration: underline;
