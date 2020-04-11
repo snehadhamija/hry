@@ -343,7 +343,7 @@ h4, .h4 {
 }
 
 h5, .h5 {
-  font-size: 1.25rem;
+  font-size: 1.3em;
 }
 
 h6, .h6 {
@@ -5088,9 +5088,7 @@ tbody.collapse.show {
 }
 
 .media {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+
   -webkit-box-align: start;
   -ms-flex-align: start;
   align-items: flex-start;
