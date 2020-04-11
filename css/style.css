@@ -23,7 +23,7 @@ body a {
 }
 a:hover,h5.inner.two a:hover{
  text-decoration:none;
- color:#f26649;
+ color:#ffffff;
 }
 input[type="button"],input[type="submit"],li.parallelogram{
 	transition:0.5s all;
@@ -72,7 +72,7 @@ ul.top-nag  a{
     display: inline-block;
 }
 ul.top-nag  a:hover,ul.top-nag  a.active{
-    background-color: #fdce4b;
+    background-color: #000000;
 }
 ul.top-nag  a.active{
   color: #FFFFFF;
