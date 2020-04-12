@@ -26,7 +26,7 @@
                         </div>
                      </div>
                      <div class="col-lg-4 col-md-4 col-sm-12 wthree-left-right">
-                        <h4 class="pb-lg-3 pb-3">&nbsp;    Links</h4>
+                        <h4 class="pb-lg-3 pb-3">Links</h4>
                         <nav class="border-line">
                            <ul class="nav flex-column" id="foot">
                               <li class="nav-item active">
