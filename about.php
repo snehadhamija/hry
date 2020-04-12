@@ -12,97 +12,46 @@ License URL: http://creativecommons.org/licenses/by/3.0/
    
      <?php include("top-nav.php"); ?>
 		
-	
-	
-		
-		<br>
-		<br>
+	<div class="full">
+    <div class="col-md-4 top-nav">
+			<?php include("left-nav.php"); ?>
+		<!--banner-section-->
+	<div class="col-md-8 main">
+		<?php include("banner.php"); ?>
 			<!--//banner-section-->
-			  <div class="section text-center">
-         <h2 class="title">Here is our team</h2>
-         <div class="team">
-           <div class="row">
-             <div class="col-md-4">
-               <div class="team-player">
-                 <div class="card card-plain">
-                   <div class="col-md-6 ml-auto mr-auto">
-                     <img src="images/bau g.png" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid">
-                   </div>
-                   <h4 class="card-title">Kunj Behari Mahipal
-                     <br>
-                     <small class="card-description text-muted">Industrial Project and NGO Consultant</small>
-                   </h4>
-                   <div class="card-body">
-                    <p style=" margin-left: 10px;" class="card-description">
-                       Registration Service, Trust Registration Service, Trademark Registration Service, Patent Services, Roc Filling, Registration Services, Direct Tax, Digital Signature Certificate Services
-
-</p>
-                   </div>
-                   <div class="card-footer justify-content-center">
-                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-twitter"></i></a>
-                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-instagram"></i></a>
-                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-facebook-square"></i></a>
-                   </div>
-                 </div>
-               </div>
-             </div>
-             <div class="col-md-4">
-               <div class="team-player">
-                 <div class="card card-plain">
-                   <div class="col-md-6 ml-auto mr-auto">
-                     <img src="images/shekhar sir.jpg" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid">
-                   </div>
-                   <h4 class="card-title">Chander Shekhar, Adv.
-                     <br>
-                     <small class="card-description text-muted">Industrial Project/NOCs Consultant
-</small>
-                   </h4>
-                   <div class="card-body">
-                     <p style=" margin-left: 10px;" class="card-description">
-                       
-Computer Training Institutes, Computer Training Institutes For C Sharp Dot Net, Tally, Computer Basic etc
-
-</p>
-                   </div>
-                   <div class="card-footer justify-content-center">
-                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-twitter"></i></a>
-                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-linkedin"></i></a>
-                   </div>
-                 </div>
-               </div>
-             </div>
-             <div class="col-md-4">
-               <div class="team-player">
-                 <div class="card card-plain">
-                   <div class="col-md-6 ml-auto mr-auto">
-                     <img src="images/anand sir.png" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid">
-                   </div>
-                   <h4 class="card-title">CA. Anand Shanker
-                     <br>
-                     <small class="card-description text-muted">Industrial Finance and Incentive Consultant</small>
-                   </h4>
-				   
-                   <div class="card-body">
-                     <p class="card-description">
-                        Tax Consultancy, 
-Online Tax Return Filing, 
-Chartered Accountants </p>
-                   </div>
-                   <div class="card-footer justify-content-center">
-                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-twitter"></i></a>
-                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-instagram"></i></a>
-                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fa fa-facebook-square"></i></a>
-                   </div>
-                 </div>
-               </div>
-             </div>
-           </div>
-         </div>
-       </div>
-				
+			 <div class="b-bottom"> 
+			      <h5 class="top"><a href="single.php"></a></h5>
+			      <p></p>
+				</div>
+			<!--/top-news-->
+			  <div class="top-news">
+				<div class="about-content">
+				<!-- about -->
+					   <h3 class="tittle">About <i class="glyphicon glyphicon-user"></i></h3>
+							<img src="images/ab.jpg" alt=" " />
+							<p>Having hands on experience in creating innovative designs, I do offer design 
+								solutions which harness the new possibilities of web based communication. 
+								<label>I do specialize in all aspects of website designing,Nam libero tempore,aspects of website designing cum soluta nobis est eligendi  theme development,  
+							possimus omnis dolor repellendus.Nam libero tempore, cum soluta nobis est eligendi  voluptatum...</label></p>
+							<div class="clearfix"></div>
+						<p class="nam">Nam libero tempore, cum soluta nobis est eligendi 
+							optio cumque nihil impedit quo minus id quod maxime placeat facere 
+							possimus, omnis voluptas assumenda est, omnis dolor repellendus.
+							Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus 
+							saepe eveniet ut et voluptates repudiandae sint Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labore dolore magna  et molestiae non recusandae.</p>
+						<div class="more">
+							<a href="single.php">Read More</a>
+						</div>
+				</div>
+				 <div class="top-inner second">
+					 <div class="clearfix"> </div>
+				 </div>
+	            </div>
+					<!--//top-news-->
 			  
 		     
-		
+			<?php include("news.php"); ?>
+			<div class="clearfix"> </div>
 	<!--/footer-->
 	<?php include("footer.php"); ?>
 	
