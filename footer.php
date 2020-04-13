@@ -1,4 +1,6 @@
-
+</div>
+</div>
+  <div class="clearfix"> </div>
 <link href="css/footer.css" rel='stylesheet' type='text/css' media="all">
 <footer class="buttom-footer py-lg-4 py-md-3 py-sm-3 py-3">
          <section>
