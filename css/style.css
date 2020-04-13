@@ -44,17 +44,14 @@ p{
 }
 ul{
 	margin:0;
-	padding:0;}
+	padding:0;
+}
 label{
 	margin:0;
 }
 .top-header {
-	padding: 0em 2em;
-	background:	#314152;
-	position: fixed;
-	top: 0px;
-	z-index: 100;
-	width: 100%;
+          padding: 0em 2em;
+    background:#314152;
 }
 ul.top-nag {
     float:left
@@ -1414,7 +1411,7 @@ ul.bottom i {
 }
 .copy {
         text-align: center;
-    background:#314152;
+    background:#000000;
     padding: 1em;
 	}
 .copy p {
