@@ -64,7 +64,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		     
 			<?php include("news.php"); ?>
 			<div class="clearfix"> </div>
-	<!--/footer-->
+	
 	<?php include("footer.php"); ?>
 	
 	     
