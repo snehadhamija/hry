@@ -1,0 +1,64 @@
+
+.accordion {
+  background-color: #007eff;
+  color: #000;
+  cursor: pointer;
+  padding: 9px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 19px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc; 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+
+accordion {
+  background-color: #007eff;
+  color: #444;
+  cursor: pointer;
+  padding: 1px;
+
+  font-weight: 50px;
+
+}
+
+/* Change color of the heading and icon (on hover and click) */
+.active, .accordion:hover, .accordion:hover::after {
+  background-color: #007eff;
+  color: white;
+}
+
+/* Add "plus" sign (+) after Accordion */
+.accordion::after {
+  content: '\002B';
+  color: #777;
+  font-weight: Regular;
+  float: right;
+ 
+}
+
+
+
+/* Style the accordion panel */
+.accordion-panel {
+  padding: 0 1px;
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.2s ease-out;
+
+     line-height:20px;
+    border:1px solid gray;
+    border-radius:3px;
+
+}
