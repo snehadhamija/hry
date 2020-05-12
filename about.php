@@ -4,6 +4,51 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 -->
+<style>
+.mr-auto img {
+	padding:13px;
+}
+.card-title {
+font-family:"Roboto Slab", "Times New Roman", serif;
+font-weight: 700;
+color: #3C4858;
+margin-top: 0.625rem;
+margin-bottom: 0.75rem;
+line-height: 1.5em
+}
+.text-muted {
+	color: #6c757d;
+	line-height: 1.5em
+}
+.col-md-4 .team-player {
+	padding-bottom:30px;
+}
+.img-raised {
+	box-shadow: 0 5px 15px -8px rgba(0, 0, 0, 0.24), 0 8px 10px -5px rgba(0, 0, 0, 0.2);	
+}
+.card-plain .card-body {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.card-body p{
+    color: #999;
+    font-size: 14px;
+    margin: 0 10px 10px;
+	font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 300;
+    line-height: 1.5em;
+}
+.card-plain .card-footer {
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: transparent;
+}
+.card {
+	border:0px solid red;
+}
+</style>
+      <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
 <!DOCTYPE HTML>
 <html>
 <?php include("HEAD.PHP"); ?>
@@ -11,59 +56,94 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<!-- header-section-starts -->
    
      <?php include("top-nav.php"); ?>
-		
-	<div class="full">
-    <div class="col-md-3 top-nav">
-			<?php include("left-nav.php"); ?>
-		<!--banner-section-->
-	<div class="col-md-9 main">
-		<?php include("banner.php"); ?>
+      <div class="clearfix"> </div>
 			<!--//banner-section-->
-			 <div class="b-bottom"> 
-			      <h5 class="top"><a href="single.php">What turn out consetetur sadipscing elit</a></h5>
-			      <p>On Aug 25 <a class="span_link" href="#"><span class="glyphicon glyphicon-comment"></span>0 </a><a class="span_link" href="#"><span class="glyphicon glyphicon-eye-open"></span>56 </a><a class="span_link" href="single.php"><span class="glyphicon glyphicon-circle-arrow-right"></span></a></p>
-				</div>
-			<!--/top-news-->
-			  <div class="top-news">
-				<div class="about-content">
-				<!-- about -->
-					   <h3 class="tittle">About <i class="glyphicon glyphicon-user"></i></h3>
-							<img src="images/ab.jpg" alt=" " />
-							<p>Having hands on experience in creating innovative designs, I do offer design 
-								solutions which harness the new possibilities of web based communication. 
-								<label>I do specialize in all aspects of website designing,Nam libero tempore,aspects of website designing cum soluta nobis est eligendi  theme development,  
-							possimus omnis dolor repellendus.Nam libero tempore, cum soluta nobis est eligendi  voluptatum...</label></p>
-							<div class="clearfix"></div>
-						<p class="nam">Nam libero tempore, cum soluta nobis est eligendi 
-							optio cumque nihil impedit quo minus id quod maxime placeat facere 
-							possimus, omnis voluptas assumenda est, omnis dolor repellendus.
-							Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus 
-							saepe eveniet ut et voluptates repudiandae sint Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labore dolore magna  et molestiae non recusandae.</p>
-						<div class="more">
-							<a href="single.php">Read More</a>
-						</div>
-				</div>
-				 <div class="top-inner second">
-					<div class="col-md-6 top-text">
-						 <a href="single.php"><img src="images/pic1.jpg" class="img-responsive" alt=""></a>
-						    <h5 class="top"><a href="single.php">Consetetur sadipscing elit</a></h5>
-							<p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labore dolore magna aliquyam eratsed diam justo duo dolores rebum.</p>
-						    <p>On Jun 25 <a class="span_link" href="#"><span class="glyphicon glyphicon-comment"></span>0 </a><a class="span_link" href="#"><span class="glyphicon glyphicon-eye-open"></span>56 </a><a class="span_link" href="single.php"><span class="glyphicon glyphicon-circle-arrow-right"></span></a></p>
-					 </div>
-					<div class="col-md-6 top-text two">
-						 <a href="single.php"><img src="images/pic2.jpg" class="img-responsive" alt=""></a>
-						    <h5 class="top"><a href="single.php">Consetetur sadipscing elit</a></h5>
-							<p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labore dolore magna aliquyam eratsed diam justo duo dolores rebum.</p>
-						    <p>On Jun 27 <a class="span_link" href="#"><span class="glyphicon glyphicon-comment"></span>0 </a><a class="span_link" href="#"><span class="glyphicon glyphicon-eye-open"></span>56 </a><a class="span_link" href="single.php"><span class="glyphicon glyphicon-circle-arrow-right"></span></a></p>
-					 </div>
-					 <div class="clearfix"> </div>
-				 </div>
-	            </div>
-					<!--//top-news-->
+			  <div class="row col-lg-12 text-center" style="background:#fff;padding-top:45px;margin-left: auto;">
+         <h2 class="title">Here is our team</h2>
+         <div class="team" style="padding-top:20px;">
+           <div class="row">
+             <div class="col-md-4">
+               <div class="team-player">
+                 <div class="card card-plain" style="border:0px;">
+                   <div class="col-md-6 ml-auto mr-auto">
+                     <img src="images/bau g.png" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid">
+                   </div>
+                   <h4 class="card-title">Kunj Behari Mahipal
+                     <br>
+                     <small class="card-description text-muted">Industrial Project and NGO Consultant</small>
+                   </h4>
+                   <div class="card-body">
+                    <p style=" " class="card-description">
+                       Registration Service, Trust Registration Service, Trademark Registration Service, Patent Services, Roc Filling, Registration Services, Direct Tax, Digital Signature Certificate Services
+
+</p>
+                   </div>
+                   <div class="card-footer justify-content-center">
+                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fab fa-twitter"></i></a>
+                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fab fa-instagram"></i></a>
+                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fab fa-facebook-square"></i></a>
+                   </div>
+                 </div>
+               </div>
+             </div>
+             <div class="col-md-4">
+               <div class="team-player">
+                 <div class="card card-plain" style="border:0px;">
+                   <div class="col-md-6 ml-auto mr-auto">
+                     <img src="images/shekhar sir.jpg" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid">
+                   </div>
+                   <h4 class="card-title">Chander Shekhar, Adv.
+                     <br>
+                     <small class="card-description text-muted">Industrial Project/NOCs Consultant
+</small>
+                   </h4>
+                   <div class="card-body">
+                     <p style=" margin-left: 10px;" class="card-description">
+                       
+Computer Training Institutes, Computer Training Institutes For C Sharp Dot Net, Tally, Computer Basic etc
+
+</p>
+                   </div>
+                   <div class="card-footer justify-content-center">
+                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fab fa-twitter"></i></a>
+                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fab fa-instagram"></i></a>
+                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fab fa-facebook-square"></i></a>
+                   </div>
+                 </div>
+               </div>
+             </div>
+             <div class="col-md-4">
+               <div class="team-player">
+                 <div class="card card-plain" style="border:0px;">
+                   <div class="col-md-6 ml-auto mr-auto">
+                     <img src="images/anand sir.png" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid">
+                   </div>
+                   <h4 class="card-title">CA. Anand Shanker
+                     <br>
+                     <small class="card-description text-muted">Industrial Finance and Incentive Consultant</small>
+                   </h4>
+				   
+                   <div class="card-body">
+                     <p class="card-description">
+                        Tax Consultancy, 
+Online Tax Return Filing, 
+Chartered Accountants </p>
+                   </div>
+                   <div class="card-footer justify-content-center">
+                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fab fa-twitter"></i></a>
+                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fab fa-instagram"></i></a>
+                     <a href="#pablo" class="btn btn-link btn-just-icon"><i class="fab fa-facebook-square"></i></a>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
+         </div>
+       </div>
+				
 			  
 		     
-			<?php include("news.php"); ?>
-			<div class="clearfix"> </div>
+		
 	<!--/footer-->
 	<?php include("footer.php"); ?>
 	
