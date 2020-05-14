@@ -52,18 +52,18 @@ tr{
    <tr>
     <td >3</td>
     <td > Trademarks Act 1999 in the new elements</td>
-	 <td ><a title="Acts" href="ipindia\trade\ACTS/1_107_1_new-elements-in-the-trademarks-act-1999act""" target="_blank"><img class="pdf""Icon" src="images/file-pdf"".jpg" alt="Acts" width="20" height="20"/>17 kb</a></td>
+	 <td ><a title="Acts" href="ipindia\trade\ACTS/1_107_1_new-elements-in-the-trademarks-act-1999act.pdf" target="_blank"><img class="pdfIcon"" src="images/file-pdf.jpg" alt="Acts" width="20" height="20"/>17 kb</a></td>
   </tr>
   <tr>
     <td >4</td>
     <td > TradeMarks (Amendment) Act, 2010</td>
-	 <td ><a title="Acts" href="ipindia\trade\ACTS/1_46_1_tmr-amendment-act-2010""" target="_blank"><img class="pdf""Icon" src="images/file-pdf"".jpg" alt="Acts" width="20" height="20"/>95 kb</a></td>
+	 <td ><a title="Acts" href="ipindia\trade\ACTS/1_46_1_tmr-amendment-act-2010.pdf" target="_blank"><img class="pdfIcon"" src="images/file-pdf.jpg" alt="Acts" width="20" height="20"/>95 kb</a></td>
   </tr>
   <tr>
     <td >5</td>
     <td > Trade Marks Act 1999 (as amended till date)
 </td>
-	<td ><a title="Acts" href="ipindia\trade\ACTS/1_43_1_trade-marks-act""" target="_blank"><img class="pdf""Icon" src="images/file-pdf"".jpg" alt="Acts" width="20" height="20"/>240 kb</a></td> 
+	<td ><a title="Acts" href="ipindia\trade\ACTS/1_43_1_trade-marks-act.pdf" target="_blank"><img class="pdfIcon"" src="images/file-pdf.jpg" alt="Acts" width="20" height="20"/>240 kb</a></td> 
   </tr>
   <tr>
  
