@@ -33,7 +33,7 @@ tr{
    <tr>
     <td >1</td>
     <td >Manual of Designs Practice and Procedure</td>
-	<td><a href="ipindia\design\manual\1_30_1_manual-designs-practice-and-procedure""" target="_blank"><img class="pdf""Icon" src="images/file-pdf"".jpg"  width="20" height="20"/>  (552 KB)</a></td>
+	<td><a href="ipindia\design\manual\1_30_1_manual-designs-practice-and-procedure.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/>  (552 KB)</a></td>
   </tr>
   
    </table>

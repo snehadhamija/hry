@@ -30,11 +30,15 @@ tr{
     <th width="50%" ><span> Title</span></th>
 	<th width="20%" ><span>   Download </span>   </th>
   </tr>
-   
+    <tr>
+    <td >1</td>
+    <td > The Designs Act 2000</td>
+	<td><a href="designact1.php" target="_blank">Html Page</a></td>
+  </tr>
   <tr>
     <td >2</td>
     <td > Act of 2000</td>
-	<td><a href="ipindia\design\act\1_58_1_design_act_1_""" target="_blank"><img class="pdf""Icon" src="images/file-pdf"".jpg"  width="20" height="20"/>  (58 KB)</a></td>
+	<td><a href="ipindia\design\act\1_58_1_design_act_1_.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/>  (58 KB)</a></td>
   </tr>
    
    </table>
