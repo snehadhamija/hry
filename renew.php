@@ -47,23 +47,23 @@ table tr .cen {
 							<td  width="20%" class="text-left"> The new industrial units/projects falling under <font size="3"
 							color="red"> Red</font>, <font size="3" color="orange">
 							Orange</font> and <font size="3" color="green"> Green</font> Categories
-						listed as <a href="haryana get NOC/Renew Consent/Annexure-I.pdf" class="links"><font
+						listed as <a href="haryana get NOC/Renew Consent/Annexure-I.pdf" class="links" target="_blank"><font
 							size="3" color="red">Annexure-I</font></a>, <a href="haryana get NOC/Renew Consent/Annexure-II.pdf"
-							class="links"><font size="3" color="orange">Annexure-II</font></a>
-						& <a href="haryana get NOC/Renew Consent/Annexure-III.pdf" class="links"><font size="3"
+							class="links"  target="_blank"><font size="3" color="orange">Annexure-II</font></a>
+						& <a href="haryana get NOC/Renew Consent/Annexure-III.pdf" class="links" target="_blank"><font size="3"
 							color="green">Annexure-III</font></a> respectively, after completing
 						the construction and installation of their project with valid CTE,
 						shall apply for 1st CTO before commissioning their proposed
 						production/activities and even before starting the trial run of
 						such activities/trial production, through the online portal of the
-						HEPC i.e. <a href="http://investharyana.in" class="links"><font
+						HEPC i.e. <a href="http://investharyana.in" class="links" target="_blank"><font
 							size="3" color="blue"> http://investharyana.in </font></a> alongwith
 						the documents as per check list given at <a href="haryana get NOC/Renew Consent/Annexure-IX.pdf"
-							class="links"><font size="3" color="green">Annexure-IX</font></a>
+							class="links" target="_blank"><font size="3" color="green">Annexure-IX</font></a>
 						and requisite consent fee as prescribed by the Board, which will
 						be deposited through online payment gateway of HEPC, as per
 						schedule available on the website of the Board i.e. <a
-							href="https://hspcb.gov.in" class="links"><font size="3"
+							href="https://hspcb.gov.in" class="links" target="_blank"><font size="3"
 							color="blue"> hspcb.gov.in </font></a>
 					</td>
 
@@ -71,7 +71,7 @@ table tr .cen {
 
 						<td  width="2%">2.</td>
 						<td  width="20%" class="text-left">The industrial units/projects failing under white Category as
-						per <a href="haryana get NOC/Renew Consent/Annexure-IV.pdf" class="links"><font size="3">Annexure-IV</font></a>,
+						per <a href="haryana get NOC/Renew Consent/Annexure-IV.pdf" class="links" target="_blank"><font size="3">Annexure-IV</font></a>,
 						are exempted from Consent Management for obtaining CTE and CTO
 						under Water Act, 1974 and Air Act, 1981 and there is no necessity
 						for obtaining the CTE and CTO by the industries covered under
@@ -108,7 +108,7 @@ table tr .cen {
 						the prescribed testing fees for analyzing their samples of
 						effluent/air emission/noise, as applicable, only from the Board's
 						laboratories which is given at <a href="#"
-							class="links"><font size="3" color="blue"> Annexure-F.
+							class="links"><font size="3" color="blue" target="_blank"> Annexure-F.
 						</font></a>
 					</td>
 

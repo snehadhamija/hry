@@ -6218,3 +6218,6 @@ Subject to the provisions of rules 116 and 117, in all proceedings before the Re
 </table>
 
 
+<div class="clearfix"> </div>
+	<!--/footer-->
+	<?php include("footer.php"); ?>

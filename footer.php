@@ -47,9 +47,10 @@
                         <h4 class="pb-lg-3 pb-3">Get In Touch</h4>
                         <div class="wls-hours-list">
                            <ul style="margin:0px;padding:0px;">
-                              <li class="d-flex">Contact:<span class="time ml-auto">01666-232543, 234565</span></li>
-                              <li class="d-flex">E-mail <span class="time ml-auto">kboffice.india@gmail.com</span></li>
-                              <li class="d-flex">Working Hours  <span class="time ml-auto">9am - 7pm</span></li>
+                              <li class="d-flex"><i style="font-size:24px" class="fa">&#xf095;</i>
+<span class="time ml-auto">01666-232543, 234565</span></li>
+                              <li class="d-flex"><i style="font-size:24px" class="fa">&#xf0e0;</i> <span class="time ml-auto">kboffice.india@gmail.com</span></li>
+                              <li class="d-flex"><i style="font-size:24px" class="fa fa-clock-o" aria-hidden="true"></i> <span class="time ml-auto">9 AM - 7 PM</span></li>
                            </ul>
                         </div>
                      </div>

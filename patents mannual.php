@@ -3,7 +3,7 @@ table, th, td {
   border: 3px  solid silver;
 }
 tr{
-  text-indent: 25px;
+  text-indent: 2px;
 }
 
 </style>
@@ -31,7 +31,7 @@ tr{
 	<th width="20%" ><span>   Download </span>   </th>
   </tr>
    
-<tr><td>1</td><td>Manual of Patent Office Practice and Procedure -2019 (In supersession of &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; earlier manual)</td><td><a href="ipindia\patents\manual\1.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/> (619 KB)</a></td></tr>
+<tr><td>1</td><td>Manual of Patent Office Practice and Procedure -2019 (In supersession of earlier manual)</td><td><a href="ipindia\patents\manual\1.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/> (619 KB)</a></td></tr>
 <tr><td>2</td><td>Patent Office Procedures</td><td><a href="ipindia\patents\manual\2.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/> (928 KB)</a></td></tr>
 <tr><td>3</td><td>First stake holders' meeting held successfully in Delhi</td><td><a href="ipindia\patents\manual\3.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/> (47 KB)</a></td></tr>
 <tr><td>4</td><td>Stakeholders Meetings on Draft Manual of Patent Practice and Procedure</td><td><a href="ipindia\patents\manual\4.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/> (51 KB)</a></td></tr>
@@ -53,7 +53,7 @@ tr{
 <tr><td>20</td><td>Piramal Life Sciences, Mumbai</td><td><a href="ipindia\patents\manual\20.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/> (1.78 MB)</a></td></tr>
 <tr><td>21</td><td>Japan Intellectual Property Association (JIPA), Tokyo</td><td><a href="ipindia\patents\manual\21.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/> (250 KB)</a></td></tr>
 <tr><td>22</td><td>Japan Intellectual Property Association (JIPA), Tokyo</td><td><a href="ipindia\patents\manual\22.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/> (324 KB)</a></td></tr>
-<tr><td>23</td><td>Japan Intellectual Property Association (Japanese Patent Office), Examination  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Standards Office</td><td><a href="ipindia\patents\manual\23.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/> (805 KB)</a></td></tr>
+<tr><td>23</td><td>Japan Intellectual Property Association (Japanese Patent Office), Examination Standards Office</td><td><a href="ipindia\patents\manual\23.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/> (805 KB)</a></td></tr>
 <tr><td>24</td><td>Interpharma Switzerland</td><td><a href="ipindia\patents\manual\24.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/> (846 KB)</a></td></tr>
 <tr><td>25</td><td>INTERPAT Secretariat United Kingdom</td><td><a href="ipindia\patents\manual\25.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/> (846 KB)</a></td></tr>
 <tr><td>26</td><td>Indian Pharmaceuticals Alliance, Mumbai</td><td><a href="ipindia\patents\manual\26.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/> (843 KB)</a></td></tr>

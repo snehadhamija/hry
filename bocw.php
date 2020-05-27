@@ -84,11 +84,11 @@
 								The user has to create a login id on web portal using operational email id and mobile number
 							</td>
 							<td>Project Report</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/fee_structure/bocw_fee_structure.xlsx" target="_blank">Fees Structure</a></td>
+							<td><a href="e-services act/bocw/bocw_fee_structure.pdf" target="_blank">Fees Structure</a></td>
 							<td>30 days(Pursuance to the provisions stipulated under section 7 of BOCW Act, 1996, on receipt of the application alongwith required documents for registration of establishment from the 
 							Management on the website of Department i.e. <a href="http://www.hrylabour.gov.in">http://www.hrylabour.gov.in</a>. The application along with required documents at first instance will be dealt by the Assistant who will process the case well within 20 days. If all of the documents along with the application along with required documents found in proper order in accordance with the Scrutiny Sheet as well as Checklist, the Assistant, will further process the case to the Joint DIr, IS&H. If the application along with required documents not found in accordance with the provisions/checklist, objections have been raised online. 
 							After that Joint Dir, IS&H will go through the application along with required to see any discrepancies left at the level of Assistant. During scrutiny, if the application along with required documents found in accordance with the provisions/checklist the same will be approved and published.  If, application along with required documents not found in accordance with the provisions/checklist the same application will be return to the management for the compliance for the observations. Total time for the entire process at the level of Joint Dir, IS&H has been given 10 days.)</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/checklist_bocw.xlsx" target="_blank">Checklist attached</a></td>
+							<td><a href="e-services act/bocw/checklist_bocw.pdf" target="_blank">Checklist attached</a></td>
 						</tr>
 						<tr>
 							<td>
@@ -224,11 +224,11 @@
 								The user shall use the login credentials creating above to login into the already submitted application and submit amendement application by adopting the rest of the procedure explain above.
 							</td>
 							<td>Project Report</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/fee_structure/bocw_fee_structure.xlsx" target="_blank">Fees Structure</a></td>
+							<td><a href="e-services act/bocw/bocw_fee_structures.pdf" target="_blank">Fees Structure</a></td>
 							<td>30 days(Pursuance to the provisions stipulated under section 7 of BOCW Act, 1996, on receipt of the application alongwith required documents for registration of establishment from the 
 							Management on the website of Department i.e. <a href="http://www.hrylabour.gov.in">http://www.hrylabour.gov.in</a>. The application along with required documents at first instance will be dealt by the Assistant who will process the case well within 20 days. If all of the documents along with the application along with required documents found in proper order in accordance with the Scrutiny Sheet as well as Checklist, the Assistant, will further process the case to the Joint DIr, IS&H. If the application along with required documents not found in accordance with the provisions/checklist, objections have been raised online. 
 							After that Joint Dir, IS&H will go through the application along with required to see any discrepancies left at the level of Assistant. During scrutiny, if the application along with required documents found in accordance with the provisions/checklist the same will be approved and published.  If, application along with required documents not found in accordance with the provisions/checklist the same application will be return to the management for the compliance for the observations. Total time for the entire process at the level of Joint Dir, IS&H has been given 10 days.)</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/checklist_bocw.xlsx" target="_blank">Checklist attached</a></td>
+							<td><a href="e-services act/bocw/checklist_bocws.pdf" target="_blank">Checklist attached</a></td>
 						</tr>
 						<tr>
 							<td>&nbsp;</td>
@@ -311,7 +311,7 @@
 								The user must have a valid registeration certificate under Shop Act (if covered under Shop & Commercial Establishment Act) or a valid Factory license if covered under Facroty Act. In case of a Government organization, user just has to fill basic information performa (BIP)
 							</td>
 							<td>
-								<a href="http://storage.hrylabour.gov.in/uploads/fee_structure/contract_employer_fee_structure.xlsx" target="_blank">Fees Structure</a>
+								<a href="e-services act/bocw/contract_employer_fee_structure.pdf" target="_blank">Fees Structure</a>
 							</td>
 							<td>26 days(Breakup mandated timeline for registration of Principal Employer under the Contract Labour (Regulation & Abolition) Act, 1970 – Timeline 26 days.<br>
 							(i) The applicant can make an online application only through the respective account of registration under the Shops and Commercial Establishments Act, 1958, in the case of service sector and the respective account under the Factories Act, 1948. However, for free flow working, the registration for engaging contract labour has been made possible even if the registration under the Factories Act, 1948 has not been approved. Therefore, examination of the application in reference to data at the back end needs to be given at least <strong>five days. </strong>
@@ -403,7 +403,7 @@
 							<td>
 								The employer who desires to have registration certificate amended shall make an online application in Form No.1 to the above authority stating therein the nature of amendment required and reasons thereof. 
 							</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/fee_structure/contract_employer_fee_structure.xlsx" target="_blank">Fees Structure</a></td>
+							<td><a href="e-services act/bocw/contract_employer_fee_structures.pdf" target="_blank">Fees Structure</a></td>
 							<td>26 days(Breakup mandated timeline for registration of Principal Employer under the Contract Labour (Regulation & Abolition) Act, 1970 – Timeline 26 days.<br>
 							(i) The applicant can make an online application only through the respective account of registration under the Shops and Commercial Establishments Act, 1958, in the case of service sector and the respective account under the Factories Act, 1948. However, for free flow working, the registration for engaging contract labour has been made possible even if the registration under the Factories Act, 1948 has not been approved. Therefore, examination of the application in reference to data at the back end needs to be given at least <strong>five days. </strong>
 							(ii) If there is no objection, the application will be forwarded to the final authority for approval. However, in the case of objection communicated online the applicant have to be given <strong>five clear working days</strong> to rectify / clarify.  
@@ -420,22 +420,13 @@
 							<td>&nbsp;</td>
 						</tr>
 					</table>
-   </div>
-  </div>
-
-  
-
-  
-  
-  
-  
-  
-  
-  
+</div>
 </div>
 <div class="clearfix"> </div>
+	<!--/footer-->
+	<?php include("footer.php"); ?>
 			   
-			 </div>
+		
 <script>
 var accHeading = document.querySelectorAll(".accordion");
 var accPanel = document.querySelectorAll(".accordion-panel");

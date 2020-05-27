@@ -23,9 +23,9 @@
     margin-left: 38px;	
 	}
 	</style>
-		<p> <a href="CLUBuilding_Plan/Workflow_CLU.pdf">Workflow & Checklist for Change of land use(CLU)</a></p>
-        <p> <a href="CLUBuilding_Plan/Workflow_Building%20Plan.pdf">Workflow & Checklist for Building Plan & Inspection Procedure.</a></p>
-        <p> <a href="CLUBuilding_Plan/Workflow_OccupationCertificate.pdf">Workflow & Checklist for Occupation Certificate & Inspection Procedure.</a></p>
+		<p> <a href="CLUBuilding_Plan/Workflow_CLU.pdf" target="_blank">Workflow & Checklist for Change of land use(CLU)</a></p>
+        <p> <a href="CLUBuilding_Plan/Workflow_Building%20Plan.pdf" target="_blank">Workflow & Checklist for Building Plan & Inspection Procedure.</a></p>
+        <p> <a href="CLUBuilding_Plan/Workflow_OccupationCertificate.pdf" target="_blank">Workflow & Checklist for Occupation Certificate & Inspection Procedure.</a></p>
      </div>
        <div class="clearfix"> </div>
 	<!--/footer-->

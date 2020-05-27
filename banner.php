@@ -1,6 +1,17 @@
-<div class="banner-section">
-		   <h3 class="tittle" align="center">One stop solution for MSME's & SMES's <i class=""></i></h3>
+	<div class="banner-section">
+	<div class="search-box">
+					    <div class="b-search">
+								<form>
+										<input type="text" value="Search" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}">
+										<input type="submit" value="">
+								</form>
+							</div>
+						</div>
+
+
+		   
 			<div class="banner">
+		
                  <div  class="callbacks_container">
 					<ul class="rslides" id="slider4" style="height:310px;">
 					       <li>

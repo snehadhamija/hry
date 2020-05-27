@@ -15,6 +15,7 @@
 	<br>
     <br>
 
+
 <div class="note" style="clear:both">Please go to Invest Haryana Portal of <a href="https://investharyana.in/#/">Haryana Enterprise Promotion Centre.</a></div>
     <h2 class="blu" style="font-size:20px; font-weight:700; padding:7px;color:#069;">Overview</h2> 
     <p>his section provides online services to users who are covered under Shops and Commercial Establishments Act 1958 and related services. This section is to be used for registration, licensing, renewal, amendment and submission of annual returns for following Acts:</p>
@@ -93,7 +94,7 @@
 								Details of the shop/commercial establishment as per Form F & B
 							</td>
 							<td>
-								<a href="http://storage.hrylabour.gov.in/uploads/fee_structure/shop_fee_structure.xlsx" target="_blank">Fees Structure</a>
+								<a href="e-services act/shop/shop_fee_structure.pdf" target="_blank">Fees Structure</a>
 							</td>
 							<td>1 day(Breakup of mandated timeline (one day and 15 days)
 							(i) For issue of unverified registration invalid for KYC – the inspector has to examine the information provided in the application and whether it is complete or not.
@@ -215,7 +216,7 @@
 						</tr>
 						<tr>
 							<td>
-								The detailed guidelines can be downloaded here (<a href="http://storage.hrylabour.gov.in/uploads/checklist/shop_registerationg-renewal_Guidelines.doc" target="_blank">Guidelines</a>)
+								The detailed guidelines can be downloaded here (<a href="e-services act/shop/shop_registerationg-renewal_Guidelines.pdf" target="_blank">Guidelines</a>)
 							</td>
 							<td>&nbsp;</td>
 							<td>&nbsp;</td>
@@ -229,7 +230,7 @@
 								The procedure remains same as above
 							</td>
 							<td>Details of the shop/commercial establishment as per Form F & B</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/fee_structure/shop_fee_structure.xlsx" target="_blank">Fees Structure</a></td>
+							<td><a href="e-services act/shop/shop_fee_structures.pdf" target="_blank">Fees Structure</a></td>
 							<td>1 day(Breakup of mandated timeline (one day and 15 days)
 							(i) For issue of unverified registration invalid for KYC – the inspector has to examine the information provided in the application and whether it is complete or not.
 							(ii) However, from the available information, the inspector will check from the map or from local knowledge as to whether the address given by the applicant exists or is fake.
@@ -317,7 +318,7 @@
 								The user must have a valid registeration certificate under Shop Act (if covered under Shop & Commercial Establishment Act) or a valid Factory license if covered under Facroty Act. In case of a Government organization, user just has to fill basic information performa (BIP)
 							</td>
 							<td>
-								<a href="http://storage.hrylabour.gov.in/uploads/fee_structure/contract_employer_fee_structure.xlsx" target="_blank">Fees Structure</a>
+								<a href="e-services act/shop/contract_employer_fee_structure.pdf" target="_blank">Fees Structure</a>
 							</td>
 							<td>26 days(Breakup mandated timeline for registration of Principal Employer under the Contract Labour (Regulation & Abolition) Act, 1970 – Timeline 26 days.<br>
 							(i) The applicant can make an online application only through the respective account of registration under the Shops and Commercial Establishments Act, 1958, in the case of service sector and the respective account under the Factories Act, 1948. However, for free flow working, the registration for engaging contract labour has been made possible even if the registration under the Factories Act, 1948 has not been approved. Therefore, examination of the application in reference to data at the back end needs to be given at least <strong>five days. </strong>
@@ -409,7 +410,7 @@
 							<td>
 								The employer who desires to have registration certificate amended shall make an online application in Form No.1 to the above authority stating therein the nature of amendment required and reasons thereof. 
 							</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/fee_structure/contract_employer_fee_structure.xlsx" target="_blank">Fees Structure</a></td>
+							<td><a href="e-services act/shop/contract_employer_fee_structures.pdf" target="_blank">Fees Structure</a></td>
 							<td>26 days(Breakup mandated timeline for registration of Principal Employer under the Contract Labour (Regulation & Abolition) Act, 1970 – Timeline 26 days.<br>
 							(i) The applicant can make an online application only through the respective account of registration under the Shops and Commercial Establishments Act, 1958, in the case of service sector and the respective account under the Factories Act, 1948. However, for free flow working, the registration for engaging contract labour has been made possible even if the registration under the Factories Act, 1948 has not been approved. Therefore, examination of the application in reference to data at the back end needs to be given at least <strong>five days. </strong>
 							(ii) If there is no objection, the application will be forwarded to the final authority for approval. However, in the case of objection communicated online the applicant have to be given <strong>five clear working days</strong> to rectify / clarify.  
@@ -454,14 +455,14 @@
 						<tr>
 							<td>As per Section 12 of the Contract Labour (R&A) Act, a contractor executing any contract work by engaging 20 or more contract labourers has to obtain a licence under the Act. The term contractor includes a sub contractor.</td>
 							<td>Form No. 4</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/fee_structure/contractors_fee_structure.xlsx" target="_blank">Fees Structure</a></td>
+							<td><a href="e-services act/shop/contractors_fee_structure.pdf" target="_blank">Fees Structure</a></td>
 							<td>26 days((i) The applicant can make an online application only through the respective account of registration of his office under the Shops and Commercial Establishments Act, 1958. Therefore, examination of the application in reference to data at the back end needs to be given at least <strong>five days. </strong>
 							(ii) If there is no objection, the application will be forwarded to the final authority for approval. However, in the case of objection communicated online the applicants have to be given <strong>five clear working days</strong> to rectify / clarify.  
 							(iii) On receipt of clarification / reply online, the branch is given <strong>five days</strong> to re-examine and to resubmit to the officer. 
 							(iv) The officer concerned is given <strong>five days</strong> to consider and recommend the approval and forward to the Licensing Authority i.e. Deputy Labour Commissioner. 
 							(v) The Deputy Labour Commissioner is given to <strong>five days</strong> for allowing or object to the application.  
 							Practically, the system is self stabilized and license is being issued well within the stipulated time in about 20 days)</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/checklist_contract.xlsx" target="_blank" class="checklist">Checklist Attached</a></td>
+							<td><a href="e-services act/shop/checklist_contract.pdf" target="_blank" class="checklist">Checklist Attached</a></td>
 						</tr>	
 						<tr>
 							<td>The Local District Labour Commissioners have been declared as Licensing Officers who will grant licenses to the contractors.</td>
@@ -536,14 +537,14 @@
 						<tr>
 							<td>The application for renewal shall be made</td>
 							<td>Form No. 4</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/fee_structure/contractors_fee_structure.xlsx" target="_blank">Fees Structure</a></td>
+							<td><a href="e-services act/shop/contractors_fee_structures.pdf" target="_blank">Fees Structure</a></td>
 							<td>26 days((i) The applicant can make an online application only through the respective account of registration of his office under the Shops and Commercial Establishments Act, 1958. Therefore, examination of the application in reference to data at the back end needs to be given at least <strong>five days. </strong>
 							(ii) If there is no objection, the application will be forwarded to the final authority for approval. However, in the case of objection communicated online the applicants have to be given <strong>five clear working days</strong> to rectify / clarify.  
 							(iii) On receipt of clarification / reply online, the branch is given <strong>five days</strong> to re-examine and to resubmit to the officer. 
 							(iv) The officer concerned is given <strong>five days</strong> to consider and recommend the approval and forward to the Licensing Authority i.e. Deputy Labour Commissioner. 
 							(v) The Deputy Labour Commissioner is given to <strong>five days</strong> for allowing or object to the application.  
 							Practically, the system is self stabilized and license is being issued well within the stipulated time in about 20 days)</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/checklist_contract.xlsx" target="_blank" class="checklist">Checklist Attached</a></td>							
+							<td><a href="e-services act/shop/checklist_contracts.pdf" target="_blank" class="checklist">Checklist Attached</a></td>							
 						</tr>
 						<tr>
 							<td>Rest of the procedure remains same as above </td>
@@ -576,7 +577,7 @@
 						</tr>
 						<tr>
 							<td>The user must have valid license under The Shops & Commercial Establishments Act</td>							
-							<td><a href="http://storage.hrylabour.gov.in/uploads/fee_structure/Interstate_act_fees.xlsx" target="_blank">Fees Structure</a></td>
+							<td><a href="e-services act/shop/Interstate_act_fees.pdf" target="_blank">Fees Structure</a></td>
 							<td>26 days(The applicant can make an online application only through the respective account of registration under the Shops and Commercial Establishments Act, 1958, in the case of service sector and the respective account under the Factories Act, 1948. However, for free flow working, the registration for engaging contract labour has been made possible even if the registration under the Factories Act, 1948 has not been approved. Therefore, examination of the application in reference to data at the back end needs to be given at least five days. <br>
 							- If there is no objection, the application will be forwarded to the final authority for approval. However, in the case of objection communicated online the applicant have to be given five clear working days to rectify / clarify.  <br>
 							- On receipt of clarification / reply online, the branch is given five days to re-examine and to resubmit to the officer. 
@@ -732,7 +733,7 @@
 						</tr>
 						<tr>
 							<td>Amendment can be done any time if there is change in no of workers employed under Principle employer. The applicant has to fill details of amendment in the form and pay fees</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/fee_structure/Interstate_act_fees.xlsx" target="_blank">Fees Structure</a></td>
+							<td><a href="e-services act/shop/Interstate_act_fee.pdf" target="_blank">Fees Structure</a></td>
 							<td>26 days(The applicant can make an online application only through the respective account of registration under the Shops and Commercial Establishments Act, 1958, in the case of service sector and the respective account under the Factories Act, 1948. However, for free flow working, the registration for engaging contract labour has been made possible even if the registration under the Factories Act, 1948 has not been approved. Therefore, examination of the application in reference to data at the back end needs to be given at least five days. <br>
 							- If there is no objection, the application will be forwarded to the final authority for approval. However, in the case of objection communicated online the applicant have to be given five clear working days to rectify / clarify.  <br>
 							- On receipt of clarification / reply online, the branch is given five days to re-examine and to resubmit to the officer. 
@@ -784,7 +785,7 @@
 						<tr>
 							<td>The user must have valid license under Factory Act, 1948 or Shops & Commercial Establishment Act</td>
 							<td>NA</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/fee_structure/Motor_act_fees.xlsx" target="_blank">Fees Structure</a></td>
+							<td><a href="e-services act/shop/Motor_act_fees.pdf" target="_blank">Fees Structure</a></td>
 							<td></td>
 							<td>NA</td>
 						</tr>
@@ -889,7 +890,7 @@
 						<tr>
 							<td>The procedure remains same as above</td>
 							<td>NA</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/fee_structure/Motor_act_fees.xlsx" target="_blank">Fees Structure</a></td>
+							<td><a href="e-services act/shop/Motor_act_fee.pdf" target="_blank">Fees Structure</a></td>
 							<td></td>
 							<td>NA</td>
 						</tr>
@@ -1028,30 +1029,30 @@
 						</tr>
 						<tr>
 							<td>
-								The Comprehensive Procedure for synchronized / joint inspection under all Labour Laws and checklist for conducting inspections as per <a href="https://hrylabour.gov.in/staticdocs/labourpolicies/Final-Transparent Inspection Policy-2017.pdf" target="_blank">Transparent Inspection Policy.</a>
+								The Comprehensive Procedure for synchronized / joint inspection under all Labour Laws and checklist for conducting inspections as per <a href="e-services act/shop/Final-Transparent Inspection Policy-2017.pdf" target="_blank">Transparent Inspection Policy.</a>
 							</td>
 							<td>No documents are required to be submitted before conducting the inspection. However, Inspecting Authority may demand, at the time of inspection, production of record in only statutorily maintained registers to ensure that the compliance has been made. </td>
 							<td>NA</td>
 							<td>24 hours</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/The Equal Remuneration Act.jpg" target="_blank" class="checklist">Compliance Inspection under The Equal Remuneration Act, 1976</a></td>
+							<td><a href="e-services act/shop/The Equal Remuneration Act.jpg" target="_blank" class="checklist">Compliance Inspection under The Equal Remuneration Act, 1976</a></td>
 						</tr>
 						<tr>
 							<td>The inspections under different Labour Laws are conducted in accordance of the Transparent Inspection Policy, which is duly approved by the Hon’ble Chief Minister, Haryana.</td>
 							<td></td>
 							<td></td>
 							<td></td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/The Minimum Wages Act.pdf" target="_blank" class="checklist">Compliance Inspection under The Minimum Wages Act, 1948</a></td>
+							<td><a href="e-services act/shop/The Minimum Wages Act.pdf" target="_blank" class="checklist">Compliance Inspection under The Minimum Wages Act, 1948</a></td>
 						</tr>
 						<tr>
 							<td>The Transparent Inspection Policy categorizes the Shop and Commercial Establishment based upon the risk factor assessment.</td>
 							<td></td>
 							<td></td>
 							<td></td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/The Shops and Establishments Act.pdf" target="_blank" class="checklist">Compliance Inspection under The Shops and Establishments Act</a></td>
+							<td><a href="e-services act/shop/The Shops and Establishments Act.pdf" target="_blank" class="checklist">Compliance Inspection under The Shops and Establishments Act</a></td>
 						</tr>
 						<tr>
 							<td>
-								The risk factors are also identified for all the Labour Laws in Article 3 of Part B of Transparent Inspection Policy available on the URL <a href="https://hrylabour.gov.in/staticdocs/labourpolicies/Final-Transparent Inspection Policy-2017.pdf" target="_blank">https://hrylabour.gov.in/staticdocs/labourpolicies/Final-Transparent Inspection Policy-2017.pdf</a> as under:-
+								The risk factors are also identified for all the Labour Laws in Article 3 of Part B of Transparent Inspection Policy available on the URL <a href="e-services act/shop/Final-Transparent Inspection Policy-2017.pdf" target="_blank">Final-Transparent Inspection Policy-2017.pdf</a> as under:-
 								<p><strong>Inspection Criteria:</strong></p>
 								<p style="text-indent:20px">The primary task of the labour wing is maintenance of industrial peace and grievance redressal and the inspections under the various labour laws are conducted only to provide corollary support for compliance of labour laws, therefore, henceforth there shall be no quota of inspections for the field staff. </p>
 								<p style="text-indent:20px">Therefore, the fundamental criteria for the computerized identification of units based upon risk assessment for statutory inspections and also for the purpose of grievance redressal for corollary support for maintenance of industrial peace would be as follow:-</p>
@@ -1075,35 +1076,35 @@
 							<td></td>
 							<td></td>
 							<td></td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/The Payment of Bonus Act.pdf" target="_blank" class="checklist">Compliance Inspection under The Payment of Bonus Act, 1965</a></td>
+							<td><a href="e-services act/shop/The Payment of Bonus Act.pdf" target="_blank" class="checklist">Compliance Inspection under The Payment of Bonus Act, 1965</a></td>
 						</tr>
 						<tr>
 							<td>The Establishments have also been discretely exempting from regular inspections by Department Officers/Officials in the Transparent Inspection Policy and by introducing the Self Certification Scheme and Audited by Third Party Auditor.</td>
 							<td></td>
 							<td></td>
 							<td></td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/The Payment of Wages Act.jpg" target="_blank" class="checklist">Compliance Inspection under The Payment of Wages Act, 1936</a></td>
+							<td><a href="e-services act/shop/The Payment of Wages Act.jpg" target="_blank" class="checklist">Compliance Inspection under The Payment of Wages Act, 1936</a></td>
 						</tr>
 						<tr>
 							<td>The online computer system generate the list of establishment to be inspected by the Department Officers/Officials by random selection taking into consideration various risk & exemption criteria as laid in Transparent Inspection Policy, Self Certification Policy, Third Party Audit. The algorithm takes due care that the list is homogeneous by geographical location, strength of workers employed and longest non-inspected period and other criteria set in these policies.</td>
 							<td></td>
 							<td></td>
 							<td></td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/The Payment of Gratuity Act.jpg" target="_blank" class="checklist">Compliance Inspection under The Payment of Gratuity Act, 1972</a></td>
+							<td><a href="e-services act/shop/The Payment of Gratuity Act.jpg" target="_blank" class="checklist">Compliance Inspection under The Payment of Gratuity Act, 1972</a></td>
 						</tr>
 						<tr>
 							<td>The inspecting officers are allocated by the computer programmes taking due care that same inspecting Officers/Officials does inspect the same establishment twice consecutively. The data has been captured in the software system about the past year’s inspection and name of inspecting officers/officials.</td>
 							<td></td>
 							<td></td>
 							<td></td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/The Contract Labour.pdf" target="_blank" class="checklist">Compliance Inspection under The Contract Labour (Regulation and Abolition) Act, 1970</a></td>
+							<td><a href="e-services act/shop/The Contract Labour.pdf" target="_blank" class="checklist">Compliance Inspection under The Contract Labour (Regulation and Abolition) Act, 1970</a></td>
 						</tr>
 						<tr>
 							<td>The employer of the establishment gets at least fifteen days advance information about scheduled inspection with date and inspection team members by automated timely e-mail and is visible in the login account of users and officers/officials.</td>
 							<td></td>
 							<td></td>
 							<td></td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/Inspection_proforma_LDH.pdf" target="_blank" class="checklist">Checklist for labour laws</a></td>
+							<td><a href="e-services act/shop/Inspection_proforma_LDH.pdf" target="_blank" class="checklist">Checklist for labour laws</a></td>
 						</tr>
 						<tr>
 							<td>This inspection shall be Synchronized/ Joint Inspection i.e. the inspection team shall conduct the inspection on the day of inspection jointly for all labour laws including the Equal Remuneration Act 1976, the Maternity Benefit Act, 1961, the Minimum Wages Act, 1948, the Punjab Shops & Establishments Act, 1958, the Punjab Welfare fund Act, 1965, the Payment of Bonus Act, 1965, the Payment of wages Act, 1936, the Payment of Gratuity Act, 1972, the Contract Labour (Regulation and Abolition Act, 1970, the Industrial Establishments (National & Festival Holidays & Casual and Sick Leave) Act, 1965</td>
@@ -1127,12 +1128,14 @@
 							<td></td>
 						</tr>						
 					</table>
-   </div>
-  </div>
+
+</div>
 </div>
 <div class="clearfix"> </div>
+	<!--/footer-->
+	<?php include("footer.php"); ?>
 			   
-			 </div>
+		
 <script>
 var accHeading = document.querySelectorAll(".accordion");
 var accPanel = document.querySelectorAll(".accordion-panel");

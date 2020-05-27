@@ -3,7 +3,7 @@ table, th, td {
   border: 3px  solid silver;
 }
 tr{
-  text-indent: 25px;
+  text-indent: 2px;
 }
 
 </style>
@@ -33,10 +33,10 @@ tr{
   
   
 <tr><td>1</td><td>Draft Patents (2nd Amendment) Rules, 2019- published for Objections or suggestions</td><td><a href="ipindia\patent\rules\1.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/>(320 KB)</a></td></tr>
-<tr><td>2</td><td>Corrigendum in respect of Patents (Amendment) Rules, 2019 notified vide G.S.R. 663  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (E) dated the 17th September, 2019</td><td><a href="ipindia\patents\rules\2.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/>(928 KB)</a></td></tr>
+<tr><td>2</td><td>Corrigendum in respect of Patents (Amendment) Rules, 2019 notified vide G.S.R. 663 (E) dated the 17th September, 2019</td><td><a href="ipindia\patents\rules\2.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/>(928 KB)</a></td></tr>
 <tr><td>3</td><td>Patents Amendment Rules, 2019</td><td><a href="ipindia\patents\rules\3.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/>(452 KB)</a></td></tr>
 <tr><td>4</td><td>The Patents Rules, 2003 (incorporating all amendments till 01-12-2017)</td><td><a href="ipindia\patents\rules\4.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/>(4.71 MB)</a></td></tr>
-<tr><td>5</td><td>The Patents Rules, 2003 (incorporating all amendments till 01-12-2017)</td><td><a href="ipindia\patents\rules\5.html" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/>Html Page(278 KB)</a></td></tr>
+<tr><td>5</td><td>The Patents Rules, 2003 (incorporating all amendments till 01-12-2017)</td><td><a href="ipindia\patents\rules\5.html" target="_blank">Html Page</a></td></tr>
 <tr><td>6</td><td>Patent (Amendment) Rules 2017</td><td><a href="ipindia\patents\rules\6.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/>(106 KB)</a></td></tr>
 <tr><td>7</td><td>Patents (Amendment) Rules 2016</td><td><a href="ipindia\patents\rules\7.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/>(528 KB)</a></td></tr>
 <tr><td>8</td><td>Draft Patent (Amendment) Rules, 2015 are published for public comments</td><td><a href="ipindia\patents\rules\8.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/>(1.34 MB)</a></td></tr>

@@ -53,7 +53,7 @@ tr{
 					<tr>
 						<td align="left">&nbsp;</td>
 						<td width="45" align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
-						<td width="65" align="left"><a href="highlights.php?l=Bonded_Labour">Highlights</a></td>
+						<td width="65" align="left"><a href="highlights.php?l=Bonded_Labour" target="_blank">Highlights</a></td>
 						<td width="111" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/Bonded_Labour_System_Act.doc" target="_blank">Download Word Doc</a></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0"width="30" height="25"/></td>
@@ -95,7 +95,7 @@ tr{
 					<tr>
 						<td align="left">&nbsp;</td>
 						<td width="45" align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
-						<td width="65" align="left"><a href="highlights.php?l=Child_Labour">Highlights</a></td>
+						<td width="65" align="left"><a href="highlights.php?l=Child_Labour" target="_blank">Highlights</a></td>
 						<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td> 
 						<td width="165" align="left"><a href="labourActpdfdocs/Child_Labour_Act.doc" target="_blank">Download Word Doc</a></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
@@ -137,7 +137,7 @@ tr{
 					<tr>
 						<td align="left">&nbsp;</td>
 						<td align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
-						<td align="left"><a href="highlights.php?l=contract_labour">Highlights</a></td>
+						<td align="left"><a href="highlights.php?l=contract_labour" target="_blank">Highlights</a></td>
 						<td width="111" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/Contract_Labour_Act.doc" target="_blank">Download Word Doc</a></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
@@ -299,7 +299,7 @@ tr{
 					<tr>
 						<td align="left">&nbsp;</td>
 						<td width="45" align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
-						<td width="65" align="left"><a href="highlights.php?l=industrial_emploment">Highlights</a></td>
+						<td width="65" align="left"><a href="highlights.php?l=industrial_emploment" target="_blank">Highlights</a></td>
 						<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/Industrial_Employment_Act.doc" target="_blank">Download Word Doc</a></td>
 						<td width="54" align="right"></td>
@@ -341,7 +341,7 @@ tr{
 					<tr>
 						<td align="left">&nbsp;</td>
 						<td width="45" align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
-						<td width="65" align="left"><a href="highlights.php?l=interstate_migrant">Highlights</a></td>
+						<td width="65" align="left"><a href="highlights.php?l=interstate_migrant" target="_blank">Highlights</a></td>
 						<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/Inter_State_Migrant_Act.doc" target="_blank">Download Word Doc</a></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
@@ -483,7 +483,7 @@ tr{
 					<tr>
 						<td align="left">&nbsp;</td>
 						<td width="45" align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
-						<td width="65" align="left"><a href="highlights.php?l=motor_transport">Highlights</a></td>
+						<td width="65" align="left"><a href="highlights.php?l=motor_transport" target="_blank">Highlights</a></td>
 						<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/Motor_Transport_Workers_Act.doc" target="_blank">Download Word Doc</a></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
@@ -526,7 +526,7 @@ tr{
 						<tr>
 							<td align="left">&nbsp;</td>
 							<td width="45" align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
-							<td width="65" align="left"><a href="highlights.php?l=payment_bonus">Highlights</a></td>
+							<td width="65" align="left"><a href="highlights.php?l=payment_bonus" target="_blank">Highlights</a></td>
 							<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
 							<td width="165" align="left"><a href="labourActpdfdocs/Payment_of_ Bonus_Act.doc" target="_blank">Download Word Doc</a></td>
 							<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
@@ -569,7 +569,7 @@ tr{
 							<tr>
 								<td align="left">&nbsp;</td>
 								<td width="45" align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
-								<td width="65" align="left"><a href="highlights.php?l=payment_gratutity">Highlights</a></td>
+								<td width="65" align="left"><a href="highlights.php?l=payment_gratutity" target="_blank">Highlights</a></td>
 								<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/Payment_of_Gratuity_Act.doc" target="_blank">Download Word Doc</a></td>
 								<td width="54" align="right"></td>
@@ -611,7 +611,7 @@ tr{
 							<tr>
 								<td align="left">&nbsp;</td>
 								<td align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
-								<td align="left"><a href="highlights.php?l=payment_wages">Highlights</a></td>
+								<td align="left"><a href="highlights.php?l=payment_wages" target="_blank">Highlights</a></td>
 								<td width="111" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/Payment_of_Wages_Act.doc" target="_blank">Download Word Doc</a></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
@@ -653,7 +653,7 @@ tr{
 							<tr>
 								<td align="left">&nbsp;</td>
 								<td align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
-								<td align="left"><a href="highlights.php?l=highlights">Highlights</a></td>
+								<td align="left"><a href="highlights.php?l=highlights" target="_blank">Highlights</a></td>
 								<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/THE PUNJAB INDUSTRIAL ESTABLISHMENTS.doc" target="_blank">Download Word Doc</a></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
@@ -675,7 +675,7 @@ tr{
 							<tr>
 								<td align="left">&nbsp;</td>
 								<td align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
-								<td align="left"><a href="highlights.php?l=highlight">Highlights</a></td>
+								<td align="left"><a href="highlights.php?l=highlight" target="_blank">Highlights</a></td>
 								<td width="111" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/The_Punjab_Labour_Welfare_Fund_Act.doc" target="_blank">Download Word Doc</a></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
@@ -717,7 +717,7 @@ tr{
 							<tr>
 								<td align="left">&nbsp;</td>
 								<td width="45" align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
-								<td width="65" align="left"><a href="highlights.php?l=punjab_shops">Highlights</a></td>
+								<td width="65" align="left"><a href="highlights.php?l=punjab_shops" target="_blank">Highlights</a></td>
 								<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/The_Punjab_Shops_and_Commercial_Establishments_Act_and_Rules.doc" target="_blank">Download Word Doc</a></td>
 								<td width="54" align="right"></td>
@@ -901,7 +901,7 @@ tr{
 							<tr>
 								<td align="left">&nbsp;</td>
 								<td align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
-								<td align="left"><a href="highlights.php?l=trade_union">Highlights</a></td>
+								<td align="left"><a href="highlights.php?l=trade_union" target="_blank">Highlights</a></td>
 								<td width="111" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="#" target="_blank">Download Word Doc</a></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>

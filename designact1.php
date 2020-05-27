@@ -501,4 +501,6 @@ Controller under section 33;<br />
 (4) Notwithstanding anything contained in this Act, any proceeding pending in any court at the commencement of this Act may be continued in that court as if this Act has not been passed.<br />
 (5) Notwithstanding anything contained in sub-section (<em>2</em>), the date of expiration of the copyright in the design registered before the commencement of this Act shall, subject to the provisions of this Act, be the date immediately after the period of
  five years for which it was registered or the date immediately after the period of five years for which the extension of the period of copyright for a second period from the expiration of the original period has been made.</p>
-</div>
+<div class="clearfix"> </div>
+	<!--/footer-->
+	<?php include("footer.php"); ?>

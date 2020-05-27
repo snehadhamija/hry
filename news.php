@@ -14,39 +14,21 @@
 
 										   </div>
 											<div class="col-md-9 item-details">
-												<h5 class="inner two"><a href="#">Find New Machinery</a></h5>
+												<h5 class="inner two"><a href="reg for machine.php">Purchase/Sale Machinery Registration</a></h5>
 											 </div>
 											<div class="clearfix"></div>
 										</div>
-										<div class="editor-pics">
-										 <div class="col-md-3 item-pic">
-										   <img src="images/d.jpeg" class="img-responsive" alt="">
-
-										   </div>
-											<div class="col-md-9 item-details">
-												<h5 class="inner two"><a href="#">Find Old Machinery</a></h5>
-											 </div>
-											<div class="clearfix"></div>
-										</div>
-										<div class="editor-pics">
+																				<div class="editor-pics">
 										 <div class="col-md-3 item-pic">
 										   <img src="images/abc.jpeg" class="img-responsive" alt="">
 
 										   </div>
 											<div class="col-md-9 item-details">
-												<h5 class="inner two"><a href="#">Find Employer</a></h5>
+												<h5 class="inner two"><a href="registration.php">Employer/Employee Registration</a></h5>
 											 </div>
 											<div class="clearfix"></div>
 										</div>
-										<div class="editor-pics">
-										 <div class="col-md-3 item-pic">
-										   <img src="images/b.jpeg" class="img-responsive" alt="">
-
-										   </div>
-											<div class="col-md-9 item-details">
-												<h5 class="inner two"><a href="#">Find Employee </a></h5>
-											 </div>
-											<div class="clearfix"></div>
+										<div class="clearfix"></div>
 										</div>
 									</div>
 								<div class="media">	

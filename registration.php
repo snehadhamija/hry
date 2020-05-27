@@ -1,152 +1,289 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
- <?php include("view.php"); ?>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial;}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #464b64;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color:#464b64;
+  float: left;
+    color: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+  font-color:#ffffff;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #314152;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #314152;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+/* Full-width input fields */
+input[type=text], input[type=password], input[type=number]{
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus, input[type=number]:focus{
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit button */
+.registerbtn {
+  background-color: #464b64;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity: 1;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
+</style>
+</head>
+<?php include("HEAD.PHP"); ?>
 <body>
-	<!-- header-section-starts -->
-           <?php include("top-nav.php"); ?>
+	<!-- header-section-starts -->  
+     <?php include("top-nav.php"); ?>
 		
 	<div class="full">
-    <div class="col-md-3 top-nav register">
+    <div class="col-md-4 top-nav" style="position:relative;background: #464b64;">
 			<?php include("left-nav.php"); ?>
-			</div>
-	<div class="col-md-9 main">
-	<!-- register -->
-			<div class="sign-up-form">
-				 <h3 class="tittle">Registration <i class="glyphicon glyphicon-file"></i></h3>
-					<p>Having hands on experience in creating innovative designs,I do offer design 
-						solutions which harness</p>
-				<div class="sign-up">
-					 <h3 class="tittle reg">Personal Information <i class="glyphicon glyphicon-user"></i></h3>
-					<div class="sign-u">
-						<div class="sign-up1">
-							<h4 class="a">First Name* :</h4>
-						</div>
-						<div class="sign-up2">
-							<form>
-								<input type="text" class="text" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}">
+			<div class="col-md-8 main">
+			
+	<br>
+	<br>
+			<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
+   <h1 style="text-align:center; font-weight:600; font-size:50px;"> Registration for Employer/Employee</h1>
 
-							</form>
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="sign-u">
-						<div class="sign-up1">
-							<h4 class="b">Last Name* :</h4>
-						</div>
-						<div class="sign-up2">
-							<form>
-									<input type="text" class="text" value="Last Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Last Name';}">
 
-							</form>
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="sign-u">
-						<div class="sign-up1">
-							<h4 class="c">Email Address* :</h4>
-						</div>
-						<div class="sign-up2">
-							<form>
-								 <input type="text" class="text" value="Email Address" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email Address';}">
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Employer')"style="font-color:#FFFFFF;background-color:#464b64;">Employers</button>
+  <button class="tablinks" onclick="openCity(event, 'Employee')">Employee</button>
 
-							</form>
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					 <h3 class="tittle reg">Login Information <i class="glyphicon glyphicon-off"></i></h3>
-					<div class="sign-u">
-						<div class="sign-up1">
-							<h4 class="d">Password* :</h4>
-						</div>
-						<div class="sign-up2">
-							<form>
-								 <input type="password" class="Password" value="Password" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Password';}">
-
-							</form>
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="sign-u">
-						<div class="sign-up1">
-							<h4>Confirm Password* :</h4>
-						</div>
-						<div class="sign-up2">
-							<form>
-								
-											 <input type="password" class="Password" value="Confirm Password" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Confirm Password';}">
-	
-
-							</form>
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<form>
-						<input type="submit" value="Submit">
-					</form>
-				</div>
-			</div>
-<!-- //register -->
-<!-- //login-page -->
-			<div class="clearfix"> </div>
-	<!--/footer-->
-	     <div class="footer">
-				 <div class="footer-top">
-				    <div class="col-md-4 footer-grid">
-					     <h4>Lorem sadipscing </h4>
-				          <ul class="bottom">
-							 <li>Consetetur sadipscing elitr</li>
-							 <li>Magna aliquyam eratsed diam</li>
-						 </ul>
-				    </div>
-					  <div class="col-md-4 footer-grid">
-					     <h4>Message Us Now</h4>
-				            <ul class="bottom">
-						     <li><i class="glyphicon glyphicon-home"></i>Available 24/7 </li>
-							 <li><i class="glyphicon glyphicon-envelope"></i><a href="mailto:info@example.com">mail@example.com</a></li>
-						   </ul>
-				    </div>
-					<div class="col-md-4 footer-grid">
-					     <h4>Address Location</h4>
-				           <ul class="bottom">
-						     <li><i class="glyphicon glyphicon-map-marker"></i>2901 Glassgow Road, WA 98122-1090 </li>
-							 <li><i class="glyphicon glyphicon-earphone"></i>phone: (888) 123-456-7899 </li>
-						   </ul>
-				    </div>
-					<div class="clearfix"> </div>
-				 </div>
-	        </div>
-		<div class="copy">
-		    <p>&copy; 2016 Blogger. All Rights Reserved | Design by <a href="http://w3layouts.com/">W3layouts</a> </p>
-		</div>
-	 <div class="clearfix"> </div>
-	</div>
-	<div class="clearfix"> </div>
-</div>	
-		<!--//footer-->
-			<!--start-smooth-scrolling-->
-						<script type="text/javascript">
-									$(document).ready(function() {
-										/*
-										var defaults = {
-								  			containerID: 'toTop', // fading element id
-											containerHoverID: 'toTopHover', // fading element hover id
-											scrollSpeed: 1200,
-											easingType: 'linear' 
-								 		};
-										*/
-										
-										$().UItoTop({ easingType: 'easeOutQuart' });
-										
-									});
-								</script>
-		<a href="#home" id="toTop" class="scroll" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
 </div>
 
+<div id="Employer" class="tabcontent">
+ 
+<form action="/action_page.php">
+  <div class="container">
+    <h1 style="text-align:center; font-weight:600; font-size:40px;">Register for Employers </h1>
+
+    <hr>
+	<h3> Type of  Employer</h3>
+ <div class="New"><span><input type="radio" value="1" name="Employer" onchange="form4_buttonActive();"><label style="font-size:15px;"> &nbsp; &nbsp;Fresher</label></span> &nbsp; &nbsp; &nbsp; &nbsp
+<span><input  &nbsp; &nbsp; type="radio" value="2" name="Employer" onchange="form4_buttonActive();"><label style="font-size:15px;">&nbsp; &nbsp;Experienced &nbsp;  &nbsp; &nbsp &nbsp;</label></span><span><input &nbsp; &nbsp; type="radio" value="3" name="Employer" onchange="form4_buttonActive();"><label style="font-size:15px;"> &nbsp; &nbsp; Both Type</label></span>
+</div>
+<label for="Company Name"><b style="font-size:22px;font-weight:700;">Company Name</b></label>
+    <input type="text"style="font-size:17px;" placeholder="Enter Company Name" name="Company Name" required>
+    <label for="Name" ><b style="font-size:22px;font-weight:700;">Person Name</b></label>
+    <input type="text" style="font-size:17px;" placeholder="Enter Name Person" name="Name" required>
+
+    <label for="Email"><b style="font-size:22px;font-weight:700;">E-mail Id</b></label>
+    <input type="text" style="font-size:17px;" placeholder="Enter Email Id" name="Email" required>
+
+    <label for="Contact Person"><b style="font-size:25px; font-weight:600;">Contact Person</b></label>
+    <input type="number" style="font-size:17px;" placeholder="Contact Person" name="Contact Person" required><br>
+	<label for="Company Contact"><b style="font-size:25px; font-weight:600;">Category Of </b></label>
+    <input type="number" style="font-size:17px;" placeholder="Enter " name="product" required>
+	<label for="Company Contact"><b style="font-size:25px; font-weight:600;">Sub-Category Of </b></label>
+    <input type="number" style="font-size:17px;" placeholder="Enter Sub category of " name="product" required>
+	<label for="Model"><b style="font-size:25px; font-weight:600;">Model</b></label>
+	<input type="number" style="font-size:17px;" placeholder="Model" name="Contact Person" required><br>
+	<label for="Company Contact"><b style="font-size:25px; font-weight:600;">Expected Cost</b></label>
+    <input type="Number" style="font-size:17px;" placeholder="Enter Exp.Cost" name="Cost" required><br>
+	  <label for="Address" ><b style="font-size:22px;font-weight:700;">Present Address</b></label>
+
+	<label for="Address" ><b style="font-size:22px;font-weight:700;"></b></label>
+	<input type="number" style="font-size:17px; width:22%;" placeholder="H.No" name="Present  Address">&nbsp;
+<input type="text" style="font-size:17px; width:30%;" placeholder="Address 1" name="Present  Address">&nbsp 
+<input type="text" style="font-size:17px; width:30%;" placeholder="Address 2" name="Present  Address"><br>
+<input type="checkbox" id="Address" name="Address" value="address">
+<label for="Address"> Same As Above</label><br>
+  <label for="Address" ><b style="font-size:22px;font-weight:700;">Permanent Address</b></label>
+<input type="number" style="font-size:17px; width:19%;" placeholder="H.No" name="Present  Address">&nbsp;
+<input type="text" style="font-size:17px; width:30%;" placeholder="Address 1" name="Present  Address">&nbsp 
+<input type="text" style="font-size:17px; width:30%;" placeholder="Address 2" name="Present  Address"><br>
+        <label for="state" ><b style="font-size:22px;font-weight:700;">Country</b></label> &nbsp; &nbsp;
+ <input type="text" style="font-size:17px; width:300px;" placeholder="Enter Country" name="Country">&nbsp &nbsp
+ <label for="state" ><b style="font-size:22px;font-weight:700;">State</b></label> &nbsp; &nbsp;
+ <input type="text" style="font-size:17px; width:300px;" placeholder="Enter State" name="Company Contact">&nbsp &nbsp
+ <label for="state" ><b style="font-size:22px;font-weight:700;">Pincode</b></label> &nbsp; &nbsp;
+ <input type="number" style="font-size:17px; width:200px;" placeholder="Enter Pincode" name="Company Contact"><br>
+          <label for="Company Contact"><b style="font-size:25px; font-weight:600;">Contact Details</b></label> &nbsp &nbsp
+          <input type="number" style="font-size:17px; width:15%" placeholder="Code" name="Company Contact">&nbsp &nbsp
+	
+    <input type="number" style="font-size:17px;  width:65%;" placeholder="Telphone No" name="Company Contact"><br>
+	  <label for="Company Contact"><b style="font-size:25px; font-weight:600;">Company Contact</b></label> &nbsp &nbsp
+	 <input type="number" style="font-size:17px; " placeholder="10 Digit Whatsapp No" name="Company Contact">
+	<br>
+       
+        
+         
+<label for="description"><b style="font-size:25px; font-weight:600;">Description of Your (Like as Capacity, Model, MFG Date)</b></label><br>
+<textarea id="description" style="width:100%; height:100px">Enter the desccription of </textarea>
+    <hr>
+    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+
+    <button type="submit" class="registerbtn">Register</button>
+  </div>
+  
+ <!-- <div class="container signin">
+    <p>Already have an account? <a href="#">Sign in</a>.</p>
+  </div> -->
+</form>
+</div>
+
+
+<div id="Employee" class="tabcontent">
+
+ 
+ <form action="/action_page.php">
+  <div class="container">
+    <h1 style="text-align:center; font-weight:600; font-size:40px;">Register for Employee </h1>
+
+    <hr>
+	<h3> Type of  Employee</h3>
+ <div class="New"><span><input type="radio" value="1" name="Employer" onchange="form4_buttonActive();"><label style="font-size:15px;"> &nbsp; &nbsp;New </label></span> &nbsp; &nbsp; &nbsp; &nbsp
+<span><input  &nbsp; &nbsp; type="radio" value="2" name="Employer" onchange="form4_buttonActive();"><label style="font-size:15px;">&nbsp; &nbsp;Old  &nbsp;  &nbsp; &nbsp &nbsp;</label></span><span><input &nbsp; &nbsp; type="radio" value="3" name="Employer" onchange="form4_buttonActive();"><label style="font-size:15px;"> &nbsp; &nbsp; Both Type</label></span>
+</div>
+<label for="Company Name"><b style="font-size:22px;font-weight:700;">Company Name</b></label>
+    <input type="text"style="font-size:17px;" placeholder="Enter Company Name" name="Company Name" required>
+    <label for="Name" ><b style="font-size:22px;font-weight:700;">Person Name</b></label>
+    <input type="text" style="font-size:17px;" placeholder="Enter Name Person" name="Name" required>
+
+    <label for="Email"><b style="font-size:22px;font-weight:700;">E-mail Id</b></label>
+    <input type="text" style="font-size:17px;" placeholder="Enter Email Id" name="Email" required>
+
+    <label for="Contact Person"><b style="font-size:25px; font-weight:600;">Contact Person</b></label>
+    <input type="number" style="font-size:17px;" placeholder="Contact Person" name="Contact Person" required><br>
+	<label for="Company Contact"><b style="font-size:25px; font-weight:600;">Category Of </b></label>
+    <input type="number" style="font-size:17px;" placeholder="Enter " name="product" required>
+	<label for="Company Contact"><b style="font-size:25px; font-weight:600;">Sub-Category Of </b></label>
+    <input type="number" style="font-size:17px;" placeholder="Enter Sub category of " name="product" required>
+	<label for="Model"><b style="font-size:25px; font-weight:600;">Model</b></label>
+	<input type="number" style="font-size:17px;" placeholder="Model" name="Contact Person" required><br>
+	<label for="Company Contact"><b style="font-size:25px; font-weight:600;">Expected Cost</b></label>
+    <input type="Number" style="font-size:17px;" placeholder="Enter Exp.Cost" name="Cost" required><br>
+	  <label for="Address" ><b style="font-size:22px;font-weight:700;">Present Address</b></label>
+
+	<label for="Address" ><b style="font-size:22px;font-weight:700;"></b></label>
+	<input type="number" style="font-size:17px; width:22%;" placeholder="H.No" name="Present  Address">&nbsp;
+<input type="text" style="font-size:17px; width:30%;" placeholder="Address 1" name="Present  Address">&nbsp 
+<input type="text" style="font-size:17px; width:30%;" placeholder="Address 2" name="Present  Address"><br>
+<input type="checkbox" id="Address" name="Address" value="address">
+<label for="Address"> Same As Above</label><br>
+  <label for="Address" ><b style="font-size:22px;font-weight:700;">Permanent Address</b></label>
+<input type="number" style="font-size:17px; width:19%;" placeholder="H.No" name="Present  Address">&nbsp;
+<input type="text" style="font-size:17px; width:30%;" placeholder="Address 1" name="Present  Address">&nbsp 
+<input type="text" style="font-size:17px; width:30%;" placeholder="Address 2" name="Present  Address"><br>
+        <label for="state" ><b style="font-size:22px;font-weight:700;">Country</b></label> &nbsp; &nbsp;
+ <input type="text" style="font-size:17px; width:300px;" placeholder="Enter Country" name="Country">&nbsp &nbsp
+ <label for="state" ><b style="font-size:22px;font-weight:700;">State</b></label> &nbsp; &nbsp;
+ <input type="text" style="font-size:17px; width:300px;" placeholder="Enter State" name="Company Contact">&nbsp &nbsp
+ <label for="state" ><b style="font-size:22px;font-weight:700;">Pincode</b></label> &nbsp; &nbsp;
+ <input type="number" style="font-size:17px; width:200px;" placeholder="Enter Pincode" name="Company Contact"><br>
+          <label for="Company Contact"><b style="font-size:25px; font-weight:600;">Contact Details</b></label> &nbsp &nbsp
+          <input type="number" style="font-size:17px; width:15%" placeholder="Code" name="Company Contact">&nbsp &nbsp
+	
+    <input type="number" style="font-size:17px;  width:65%;" placeholder="Telphone No" name="Company Contact"><br>
+	  <label for="Company Contact"><b style="font-size:25px; font-weight:600;">Company Contact</b></label> &nbsp &nbsp
+	 <input type="number" style="font-size:17px; " placeholder="10 Digit Whatsapp No" name="Company Contact">
+	<br>
+       
+        
+         
+<label for="description"><b style="font-size:25px; font-weight:600;">Description of Your <small>(Like as Capacity, Model, MFG Date)</small></b></label><br>
+<textarea id="description" style="width:100%; height:100px">Enter the desccription of </textarea>
+    <hr>
+    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+
+    <button type="submit" class="registerbtn">Register</button>
+  </div>
+  
+ <!-- <div class="container signin">
+    <p>Already have an account? <a href="#">Sign in</a>.</p>
+  </div> -->
+</form>
+</div>
+
+
+<div id="Both" class="tabcontent">
+  <h3>Both</h3>
+  <p>Both is the capital of Japan.</p>
+</div>
+<div class="clearfix"> </div>
+	<!--/footer-->
+	<?php include("footer.php"); ?>
+	<script>
+document.getElementsByClassName('tablinks')[0].click()
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+</script>
+
+
+   
 </body>
-</html>
+</html> 

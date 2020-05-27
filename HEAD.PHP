@@ -19,7 +19,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <link href="css/fontawesome-all.min.css" rel="stylesheet" type="text/css" media="all">
 <link href="css/bootstrap-c.css" rel="stylesheet" type="text/css" />
 <link href="css/panel.css" rel="stylesheet" type="text/css" />
+<link href="css/submenu.css" rel="stylesheet" type="text/css" />
     <link href="css/ace-responsive-menu.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- /menu bar link -->
 <!--/script-->
 <script type="text/javascript" src="js/move-top.js"></script>

@@ -14,10 +14,10 @@ $response = json_decode($response,TRUE);
    
 ?>
 
-   <div class="logo">
+   <div class="logo" class="column">
       <a href="index.php"><img src="images/logo.png" style="background:white; width:99%;margin-bottom:10px;" /></a>
   </div>
-  <div class="demo">
+  <div class="demo" class="column">
    <span class="menu"> </span>
 
 	<nav>
@@ -35,7 +35,7 @@ $response = json_decode($response,TRUE);
 					
         <!-- Responsive Menu Structure-->
         <!--Note: declare the Menu style in the data-menu-style="horizontal" (options: horizontal, vertical, accordion) -->
-        <ul id="respMenu" class="ace-responsive-menu cl-effect-16" data-menu-style="vertical">
+        <ul id="respMenu" class="ace-responsive-menu cl-effect-16" data-menu-style="vertical" class="column">
         <?php 
 		 // get menu name
 		 foreach($response as $key => $value) 

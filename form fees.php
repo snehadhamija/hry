@@ -3,7 +3,7 @@ table, th, td {
   border: 3px  solid silver;
 }
 tr{
-  text-indent: 25px;
+  text-indent: 2px;
 }
 
 </style>

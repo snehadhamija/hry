@@ -69,13 +69,7 @@ table tr .cen {
 							<td width="4%"><a href="haryana get NOC/protection of envirenment/waste/stone_cr.pdf" target="_blank">Download</a></td>
 							<td width="4%"></td>
 						</tr>
-						<tr>
-							<td width="2%">4.</td>
-							<td width="20%" class="text-left">Siting Norms of
-									Stone Crushers- Notifications thereof</td>
-							<td width="4%"><a href="#" target="_blank"> Download</a></td>
-							<td width="4%"></td>
-						</tr>
+						
 					<!--	<tr>
 							<td width="2%">4.</td>
 							<td width="20%" class="text-left">Siting Norms of Stone Crushers- Notifications thereof</td>

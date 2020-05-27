@@ -97,12 +97,12 @@
 								Signed & scanned copy of Form 2							
 							</td>
 							<td>
-								<a href="http://storage.hrylabour.gov.in/uploads/fee_structure/factory_fee_structure.xlsx" target="_blank">Fees Structure</a>
+								<a href="e-services act/factory/factory_fee_structure.pdf" target="_blank">Fees Structure</a>
 							</td>
 							<td>45 days (Pursuance to the provisions stipulated under section 6 of Factories Act, 1948 and Rules 7, 8, 10 & 14, PFR, 1952, on receipt of the application along with required documents for factory license from the Management on the website of Department i.e. http://www.hrylabour.gov.in. The plans at first instance will be dealt by the Assistant who will process the case well within 20 days. If all of the documents along with the application along with required documents found in proper order in accordance with the Scrutiny Sheet as well as Checklist, the Assistant, will further process the case to the DD/JD. If the application along with required documents not found in accordance with the provisions/checklist, objections have been raised online. <br>
 								After that DD/Joint Dir, IS&H will go through the application along with required documents to see any discrepancies left at the level of Assistant. During scrutiny, if the application along with required documents found in accordance with the provisions/checklist the same will be forwarded to ACIF, HQ. Total time for the entire process at the level of DD/JD, IS&H has been given 14 days.  <br>
 							After that ACIF will go through the application along with required to see any discrepancies left at the level of Assistant, DD/JD, IS&H. During scrutiny, if the application along with required documents found in accordance with the provisions/checklist the same will be approved and published.  If, application along with required documents not found in accordance with the provisions/checklist the same application will be return to the management for the compliance for the observations. Total time for the entire process at the level of DD/JD, IS&H has been given 10 days.)</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/checklist_factory.xlsx" target="_blank" class="checklist">Checklist Attached</a></td> 
+							<td><a href="e-services act/factory/checklist_factory.pdf" target="_blank" class="checklist">Checklist Attached</a></td> 
 						</tr>
 						<tr>
 							<td>
@@ -360,11 +360,11 @@
 						<tr>
 							<td>If the user have got the license offline previously then he have to upload the copy of the previous factory license otherwise if the license was genereted online last time then the user do not need to provide previous license.</td>
 							<td>Copy of Previous Factory License</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/fee_structure/factory_fee_structure.xlsx" target="_blank">Fees Structure</a></td>
+							<td><a href="e-services act/factory/factory_fee_structures.pdf" target="_blank">Fees Structure</a></td>
 							<td>45 days (Pursuance to the provisions stipulated under section 6 of Factories Act, 1948 and Rules 7, 8, 10 & 14, PFR, 1952, on receipt of the application along with required documents for factory license from the Management on the website of Department i.e. http://www.hrylabour.gov.in. The plans at first instance will be dealt by the Assistant who will process the case well within 20 days. If all of the documents along with the application along with required documents found in proper order in accordance with the Scrutiny Sheet as well as Checklist, the Assistant, will further process the case to the DD/JD. If the application along with required documents not found in accordance with the provisions/checklist, objections have been raised online. <br>
 								After that DD/Joint Dir, IS&H will go through the application along with required documents to see any discrepancies left at the level of Assistant. During scrutiny, if the application along with required documents found in accordance with the provisions/checklist the same will be forwarded to ACIF, HQ. Total time for the entire process at the level of DD/JD, IS&H has been given 14 days.  <br>
 							After that ACIF will go through the application along with required to see any discrepancies left at the level of Assistant, DD/JD, IS&H. During scrutiny, if the application along with required documents found in accordance with the provisions/checklist the same will be approved and published.  If, application along with required documents not found in accordance with the provisions/checklist the same application will be return to the management for the compliance for the observations. Total time for the entire process at the level of DD/JD, IS&H has been given 10 days.)</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/checklist_factory.xlsx" target="_blank" class="checklist">Checklist Attached</a></td>
+							<td><a href="e-services act/factory/checklist_factorys.pdf" target="_blank" class="checklist">Checklist Attached</a></td>
 						</tr>	
 						<tr>
 							<td>Rest procedure will remain same as explained for Fresh Registration</td>
@@ -429,7 +429,7 @@
 								After that ACIF will go through the Factory building plans to see any discrepancies left at the level of draftsman, DD/JD, IS&H. During scrutiny, if the factory building plan found in accordance with the provisions/checklist the same plan will be forwarded to CIF, HQ.  if, Factory building plan not found in accordance with the provisions/checklist the same plan has been return to the management for the compliance for the observations. Total time for the entire process at the level of ACIF has been given 7 days. 
 								After that CIF Haryana will go through the Factory building plans to see any discrepancies left at the level of draftsman, DD/JD, IS&H and ACIF. During scrutiny, if the factory building plan found in accordance with the provisions/checklist the same plan will be approved and published. Total time for the entire process at the level of CIF Haryana has been given 3 days.
 							)</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/checklist_buildingplan.xlsx" target="_blank">Checklist Attached</a></td>
+							<td><a href="e-services act/factory/checklist_buildingplan.pdf" target="_blank">Checklist Attached</a></td>
 						</tr>
 						<tr>
 							<td>
@@ -659,7 +659,7 @@
 								After that ACIF will go through the Factory building plans to see any discrepancies left at the level of draftsman, DD/JD, IS&H. During scrutiny, if the factory building plan found in accordance with the provisions/checklist the same plan will be forwarded to CIF, HQ.  if, Factory building plan not found in accordance with the provisions/checklist the same plan has been return to the management for the compliance for the observations. Total time for the entire process at the level of ACIF has been given 7 days. 
 								After that CIF Haryana will go through the Factory building plans to see any discrepancies left at the level of draftsman, DD/JD, IS&H and ACIF. During scrutiny, if the factory building plan found in accordance with the provisions/checklist the same plan will be approved and published. Total time for the entire process at the level of CIF Haryana has been given 3 days.
 							)</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/checklist_buildingplan.xlsx" target="_blank">Checklist Attached</a></td>
+							<td><a href="e-services act/factory/checklist_buildingplans.pdf" target="_blank">Checklist Attached</a></td>
 						</tr>
 						<tr>
 							<td>&nbsp;</td>
@@ -749,7 +749,7 @@
 								The user must have a valid registeration certificate under Shop Act (if covered under Shop & Commercial Establishment Act) or a valid Factory license if covered under Facroty Act. In case of a Government organization, user just has to fill basic information performa (BIP)
 							</td>
 							<td>
-								<a href="http://storage.hrylabour.gov.in/uploads/fee_structure/contract_employer_fee_structure.xlsx" target="_blank">Fees Structure</a>
+								<a href="e-services act/factory/contract_employer_fee_structure.pdf" target="_blank">Fees Structure</a>
 							</td>
 							<td>26 days(Breakup mandated timeline for registration of Principal Employer under the Contract Labour (Regulation & Abolition) Act, 1970 – Timeline 26 days.<br>
 								(i) The applicant can make an online application only through the respective account of registration under the Shops and Commercial Establishments Act, 1958, in the case of service sector and the respective account under the Factories Act, 1948. However, for free flow working, the registration for engaging contract labour has been made possible even if the registration under the Factories Act, 1948 has not been approved. Therefore, examination of the application in reference to data at the back end needs to be given at least <strong>five days. </strong>
@@ -841,7 +841,7 @@
 							<td>
 								The employer who desires to have registration certificate amended shall make an online application in Form No.1 to the above authority stating therein the nature of amendment required and reasons thereof. 
 							</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/fee_structure/contract_employer_fee_structure.xlsx" target="_blank">Fees Structure</a></td>
+							<td><a href="e-services act/factory/contract_employer_fee_structures.pdf" target="_blank">Fees Structure</a></td>
 							<td>26 days(Breakup mandated timeline for registration of Principal Employer under the Contract Labour (Regulation & Abolition) Act, 1970 – Timeline 26 days.<br>
 								(i) The applicant can make an online application only through the respective account of registration under the Shops and Commercial Establishments Act, 1958, in the case of service sector and the respective account under the Factories Act, 1948. However, for free flow working, the registration for engaging contract labour has been made possible even if the registration under the Factories Act, 1948 has not been approved. Therefore, examination of the application in reference to data at the back end needs to be given at least <strong>five days. </strong>
 								(ii) If there is no objection, the application will be forwarded to the final authority for approval. However, in the case of objection communicated online the applicant have to be given <strong>five clear working days</strong> to rectify / clarify.  
@@ -879,7 +879,7 @@
 						<tr>
 							<td>The user must have valid license under Factory Act, 1948 or Shops & Commercial Establishment Act</td>
 							<td>NA</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/fee_structure/Motor_act_fees.xlsx" target="_blank">Fees Structure</a></td>
+							<td><a href="e-services act/factory/Motor_act_fees.pdf" target="_blank">Fees Structure</a></td>
 							<td></td>
 							<td>NA</td>
 						</tr>
@@ -984,7 +984,7 @@
 						<tr>
 							<td>The procedure remains same as above</td>
 							<td>NA</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/fee_structure/Motor_act_fees.xlsx" target="_blank">Fees Structure</a></td>
+							<td><a href="e-services act/factory/Motor_act_fee.pdf" target="_blank">Fees Structure</a></td>
 							<td></td>
 							<td>NA</td>
 						</tr>
@@ -1216,36 +1216,36 @@
 							<th>Checklist</th>
 						</tr>
 						<tr>
-							<td>The Comprehensive Procedure for synchronized / joint inspection under all Labour Laws and checklist for conducting inspections as per <a href="https://hrylabour.gov.in/staticdocs/labourpolicies/Final-Transparent Inspection Policy-2017.pdf" target="_blank">Transparent Inspection Policy.</a></td>
+							<td>The Comprehensive Procedure for synchronized / joint inspection under all Labour Laws and checklist for conducting inspections as per <a href="e-services act/factory/Final-Transparent Inspection Policy-2017.pdf" target="_blank">Transparent Inspection Policy.</a></td>
 							<td>No documents are required to be submitted before conducting the inspection. However, Inspecting Authority may demand, at the time of inspection, production of record in only statutorily maintained registers to ensure that the compliance has been made. </td>
 							<td>NA</td>
 							<td>24 hours</td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/checklist_inspection.xlsx" target="_blank">Checklist for Factories Act</a></td>
+							<td><a href="e-services act/factory/checklist_inspection.pdf" target="_blank">Checklist for Factories Act</a></td>
 						</tr>
 						<tr>
 							<td>The inspections under different Labour Laws are conducted in accordance of the Transparent Inspection Policy, which is duly approved by the Hon’ble Chief Minister, Haryana.</td>
 							<td></td>
 							<td></td>
 							<td></td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/The Equal Remuneration Act.jpg" target="_blank" class="checklist">Compliance Inspection under The Equal Remuneration Act, 1976</a></td>
+							<td><a href="e-services act/factory/The Equal Remuneration Act.jpg" target="_blank" class="checklist">Compliance Inspection under The Equal Remuneration Act, 1976</a></td>
 						</tr>
 						<tr>
 							<td>The Transparent Inspection Policy categorizes the factories/ industries based upon the risk factor assessment.</td>
 							<td></td>
 							<td></td>
 							<td></td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/The Minimum Wages Act.pdf" target="_blank" class="checklist">Compliance Inspection under The Minimum Wages Act, 1948</a></td>
+							<td><a href="e-services act/factory/The Minimum Wages Act.pdf" target="_blank" class="checklist">Compliance Inspection under The Minimum Wages Act, 1948</a></td>
 						</tr>
 						<tr>
 							<td>The risk factors are different under different Labour Laws.</td>
 							<td></td>
 							<td></td>
 							<td></td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/The Shops and Establishments Act.pdf" target="_blank" class="checklist">Compliance Inspection under The Shops and Establishments Act</a></td>
+							<td><a href="e-services act/factory/The Shops and Establishments Act.pdf" target="_blank" class="checklist">Compliance Inspection under The Shops and Establishments Act</a></td>
 						</tr>
 						<tr>
 							<td>
-								The risk factor in case of manufacturing process is the danger to the life and body of the workers working therein. The detail of the categorization of factories and their frequency of inspections based upon risk is given in Article 2 of Part A of the Transparent Inspection Policy available on Department website at URL <a href="https://hrylabour.gov.in/staticdocs/labourpolicies/Final-Transparent Inspection Policy-2017.pdf" target="_blank">https://hrylabour.gov.in/staticdocs/labourpolicies/Final-Transparent Inspection Policy-2017.pdf </a>  as under:- <br>
+								The risk factor in case of manufacturing process is the danger to the life and body of the workers working therein. The detail of the categorization of factories and their frequency of inspections based upon risk is given in Article 2 of Part A of the Transparent Inspection Policy available on Department website at URL <a href="e-services act/factory/Final-Transparent Inspection Policy-2017.pdf" target="_blank">https://hrylabour.gov.in/staticdocs/labourpolicies/Final-Transparent Inspection Policy-2017.pdf </a>  as under:- <br>
 								<strong>Criteria for Inspection:</strong>
 								<ul>
 									<li>
@@ -1270,7 +1270,7 @@
 							<td></td>
 							<td></td>
 							<td></td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/The Payment of Bonus Act.pdf" target="_blank" class="checklist">Compliance Inspection under The Payment of Bonus Act, 1965</a></td>
+							<td><a href="e-services act/factory/The Payment of Bonus Act.pdf" target="_blank" class="checklist">Compliance Inspection under The Payment of Bonus Act, 1965</a></td>
 						</tr>
 						<tr>
 							<td>
@@ -1298,7 +1298,7 @@
 							<td></td>
 							<td></td>
 							<td></td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/The Payment of Wages Act.jpg" target="_blank" class="checklist">Compliance Inspection under The Payment of Wages Act, 1936</a></td>
+							<td><a href="e-services act/factory/The Payment of Wages Act.jpg" target="_blank" class="checklist">Compliance Inspection under The Payment of Wages Act, 1936</a></td>
 						</tr>
 						<tr>
 							<td>
@@ -1316,21 +1316,21 @@
 							<td></td>
 							<td></td>
 							<td></td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/The Payment of Gratuity Act.jpg" target="_blank" class="checklist">Compliance Inspection under The Payment of Gratuity Act, 1972</a></td>
+							<td><a href="e-services act/factory/The Payment of Gratuity Act.jpg" target="_blank" class="checklist">Compliance Inspection under The Payment of Gratuity Act, 1972</a></td>
 						</tr>
 						<tr>
 							<td>The online computer system generate the list of factories / industries to be inspected by the Department Officers/Officials by random selection taking into consideration various risk & exemption criteria as laid in Transparent Inspection Policy, Self Certification Policy, Third Party Audit. The algorithm takes due care that the list is homogeneous by geographical location, strength of workers employed and longest non-inspected period and other criteria set in these policies.</td>
 							<td></td>
 							<td></td>
 							<td></td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/The Contract Labour.pdf" target="_blank" class="checklist">Compliance Inspection under The Contract Labour (Regulation and Abolition) Act, 1970</a></td>
+							<td><a href="e-services act/factory/The Contract Labour.pdf" target="_blank" class="checklist">Compliance Inspection under The Contract Labour (Regulation and Abolition) Act, 1970</a></td>
 						</tr>
 						<tr>
 							<td>The inspecting officers are allocated by the computer programmes taking due care that same inspecting Officers/Officials does inspect the same factory/industry twice consecutively. The data has been captured in the software system about the past year’s inspection and name of inspecting officers/officials.</td>
 							<td></td>
 							<td></td>
 							<td></td>
-							<td><a href="http://storage.hrylabour.gov.in/uploads/checklist/Inspection_proforma_LDH.pdf" target="_blank" class="checklist">Checklist for labour laws</a></td>
+							<td><a href="e-services act/factory/Inspection_proforma_LDH.pdf" target="_blank" class="checklist">Checklist for labour laws</a></td>
 						</tr>
 						<tr>
 							<td>The employer of the factory/ industry gets at least fifteen days advance information about scheduled inspection with date and inspection team members by automated timely e-mail and is visible in the login account of users and officers/officials.</td>

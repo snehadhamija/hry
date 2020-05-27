@@ -46,15 +46,15 @@ table tr  {
 								<td  width="2%">1.</td>
 								<td  width="20%" class="text-left"> The new industrial units/projects falling under <font
 							size="3" color="red"> Red</font>, <font size="3" color="orange">
-								Orange</font> and <font size="3" color="green"> Green</font> Categories listed as <a href="haryana get NOC/New UnitsAnnexure-I.pdf" class="links"><font
+								Orange</font> and <font size="3" color="green"> Green</font> Categories listed as <a href="haryana get NOC/New Units/Annexure-I.pdf" class="links"  target="_blank"><font
 								size="3" color="red">Annexure-I</font></a>, <a
-							href="haryana get NOC/New UnitsAnnexure-II.pdf" class="links"><font size="3"
+							href="haryana get NOC/New Units/Annexure-II.pdf" class="links" target="_blank"><font size="3"
 								color="orange">Annexure-II</font></a> & <a href="haryana get NOC/New Units/Annexure-III.pdf"
-							class="links"><font size="3" color="green">Annexure-III</font></a> respectively, shall apply for Consent to Establish of the Board through the on-line portal of 
+							class="links" target="_blank"><font size="3" color="green">Annexure-III</font></a> respectively, shall apply for Consent to Establish of the Board through the on-line portal of 
 							Haryana Enterprises Promotion Centre (HEPC) i.e. <a
-							href="http://investharyana.in" target="_blank" class="links"><font size="3"
+							href="http://investharyana.in" target="_blank" class="links" target="_blank"><font size="3"
 								color="blue"> http://investharyana.in </font></a>, in the prescribed form alongwith requisite NOC/CTE fee as prescribed by the Board from time to time and will be deposited through online payment gateway as per fees schedule available on the website of the Board i.e. <a
-							href="https://www.hspcb.org.in" class="links"><font size="3"
+							href="https://www.hspcb.org.in" class="links" target="_blank"><font size="3"
 								color="blue"> www.hspcb.org.in </font></a><br>
 							</td>
 							
@@ -68,7 +68,7 @@ table tr  {
 					
 							<td  width="2%">3.</td>
 							<td  width="20%" class="text-left">  All documents applicable for respective industrial units/ projects mentioned in the checklist given at <a href="haryana get NOC/New Units/Annexure-V.pdf"
-							class="links"><font size="3" color="blue">Annexure-V</font></a>, will be submitted by the units while applying for CTE, by uploading the same on the online portal.
+							class="links" target="_blank"><font size="3" color="blue">Annexure-V</font></a>, will be submitted by the units while applying for CTE, by uploading the same on the online portal.
 					</td>
 
 
@@ -76,9 +76,9 @@ table tr  {
 						
 							<td  width="2%">4.</td>
 							<td  width="20%" class="text-left">  The units while submitting the application for obtaining CTE, shall also submit a performance security through online payment gateway as per the slab given at <a
-							href="haryana get NOC/New Units/Annexure-VI.pdf" class="links"><font size="3"
+							href="haryana get NOC/New Units/Annexure-VI.pdf" class="links" target="_blank"><font size="3"
 								color="blue">Annexure-VI</font></a> or revised from time to time,
-							alongwith undertaking by the applicant as per specimen given at <a href="haryana get NOC/New Units/Annexure-VII.pdf" class="links"><font size="3"
+							alongwith undertaking by the applicant as per specimen given at <a href="haryana get NOC/New Units/Annexure-VII.pdf" class="links" target="_blank"><font size="3"
 								color="blue">Annexure-VII</font></a>, signifying adherence to the prescribed standards, all the conditions of CTE and indicating awareness about the provisions of the Water Act, 1974/Air Act, 1981 and applicable Rules and self certification regarding not starting of any construction or installation work at site.
 					</td>
 						</tr> <tr>
