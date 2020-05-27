@@ -14,7 +14,7 @@
 
 										   </div>
 											<div class="col-md-9 item-details">
-												<h5 class="inner two"><a href="reg for machine.php">Purchase/Sale Machinery Registration</a></h5>
+												<h5 class="inner two"><a href="reg for machine.php">Purchase/Sale Machinery </a></h5>
 											 </div>
 											<div class="clearfix"></div>
 										</div>
@@ -24,7 +24,7 @@
 
 										   </div>
 											<div class="col-md-9 item-details">
-												<h5 class="inner two"><a href="registration.php">Employer/Employee Registration</a></h5>
+												<h5 class="inner two"><a href="registration.php">Employer/Employee </a></h5>
 											 </div>
 											<div class="clearfix"></div>
 										</div>

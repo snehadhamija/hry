@@ -21,6 +21,7 @@ tr{
     <div class="col-md-8 main">
 	<br>
 	<br>
+			
    <div style="text-align: right;"> <h4><a href="indix.php">Go Back</a></h4></div>
    <div style="text-align: right;"> <h3>Annexure-IV</h3></div>
    <div>

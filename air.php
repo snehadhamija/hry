@@ -25,10 +25,11 @@ table tr .cen {
 
     <div class="col-md-8 main">
 	<br>
-    <br>
+    <br>	<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
     <center><h1><u><b>AIR POLLUTION</b></u></h1></center>
 	<br>
 	<br>
+
 	<P style="font-weight:400; font-size:20px; text-align:justify; padding:10px;">The Air (Prevention and Control of Pollution) Act was enacted in 1981 and amended in 1987 to provide for the prevention, control and abatement of air pollution in India.</P>
     	<table id="sailorTable" class="table table-striped table-bordered mt-0" width="100%">
 							<thead>

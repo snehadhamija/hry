@@ -26,9 +26,12 @@ table tr .cen {
     <div class="col-md-8 main">
 	<br>
     <br>
-    <center><h1><u><b>AIR POLLUTION</b></u></h1></center>
+	<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
+    <center><h1><u><b>Waste Management</b></u></h1></center>
 	<br>
 	<br>
+		
+		
 	<p style="font-weight:400; font-size:20px; text-align:justify; padding:10px;">Hazardous Waste Management Rules are notified to ensure safe handling , generation, processing, treatment, package, storage, transportation, use reprocessing, collection, conversion, and offering for sale, destruction and disposal of Hazardous Waste. These Rules came into effect in the year 1989 and have been amended later in the years 2000, 2003 and with final notification of the Hazardous Waste ( Management, Handling and Transboundary Movement) Rules, 2008 in supersession of former notification. The Rules lay down corresponding duties of various authorities such as MoEF, CPCB, State/UT Govts., SPCBs/PCCs, DGFT, Port Authority and Custom Authority while State Pollution Control Boards/ Pollution Control Committees have been designated with wider responsibilities touching across almost every aspect of Hazardous wastes generation, handing and their disposal.</p>
     	
         <table id="sailorTable" class="table table-striped table-bordered mt-0" width="100%">

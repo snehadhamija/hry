@@ -25,6 +25,7 @@ table tr .cen {
     <div class="col-md-8 main">
 	<br>
 	<br>
+	<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
 	<b><u><h3 style="text-align:center;">List Of Towns Where Final Development Plan Stands Published.</h3></b></u>
 	<br>
 	<br>

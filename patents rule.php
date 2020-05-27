@@ -19,7 +19,7 @@ tr{
 
     <div class="col-md-8 main">
 	<br>
-	<br>
+	<br><a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
 	<b><u><h1 style="text-align:center;">Rules</h1></b></u>
 	<br>
 	<br>
@@ -32,7 +32,7 @@ tr{
   </tr>
   
   
-<tr><td>1</td><td>Draft Patents (2nd Amendment) Rules, 2019- published for Objections or suggestions</td><td><a href="ipindia\patent\rules\1.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/>(320 KB)</a></td></tr>
+<tr><td>1</td><td>Draft Patents (2nd Amendment) Rules, 2019- published for Objections or suggestions</td><td><a href="ipindia\patents\rules\1.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/>(320 KB)</a></td></tr>
 <tr><td>2</td><td>Corrigendum in respect of Patents (Amendment) Rules, 2019 notified vide G.S.R. 663 (E) dated the 17th September, 2019</td><td><a href="ipindia\patents\rules\2.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/>(928 KB)</a></td></tr>
 <tr><td>3</td><td>Patents Amendment Rules, 2019</td><td><a href="ipindia\patents\rules\3.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/>(452 KB)</a></td></tr>
 <tr><td>4</td><td>The Patents Rules, 2003 (incorporating all amendments till 01-12-2017)</td><td><a href="ipindia\patents\rules\4.pdf" target="_blank"><img class="pdfIcon" src="images/file-pdf.jpg"  width="20" height="20"/>(4.71 MB)</a></td></tr>

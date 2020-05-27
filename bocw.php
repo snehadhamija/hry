@@ -14,7 +14,7 @@
     <div class="col-md-8 main">
 	<br>
     <br>
-
+		<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
 <div class="note" style="clear:both">BOCW Establishment Act</a></div>
 	<p>Registration of establishment and deposition of cess /cess assessment and appeal thereof under the Building & Other Construction Workers (RE & CS) Act, 1996 and Cess Act</p>
     <h2 class="blu" style="font-size:20px; font-weight:700; padding:7px;color:#069;">Overview</h2> 

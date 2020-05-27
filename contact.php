@@ -24,6 +24,7 @@ width:100%;
 			<?php //include("left-nav.php"); ?>
 			</div>-->
 			<div class="col-md-12 main">
+			<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
 	 <div class="contact">
 		<!-- banner 
 <div class="innerpage-banner" id="home">

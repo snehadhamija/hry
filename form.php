@@ -15,6 +15,9 @@ table, th, td {
 		
 
     <div class="col-md-8 main">
+	<br>
+	<br>
+	<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
             <h4 style="text-align:center;">Form and Fees</h4>
 <script type="text/javascript">
 //<![CDATA[

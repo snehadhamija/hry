@@ -12,6 +12,7 @@
     <div class="col-md-8 main">
 	<br>
 	<br>
+	<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
 	<b><u><h1 style="text-align:center;">Procedure & Checklist for Building Plan & Occupation Certificate</h1></b></u>
 	<br>
 	<br>

@@ -21,7 +21,8 @@ tr{
     <div class="col-md-8 main">
 	<br>
 	<br>
-   <div style="text-align: right;"> <h4><a href="indix.php">Go Back</a></h4></div>
+			<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
+
    <div style="text-align: right;"> <h3>Annexure-I</h3></div>
    <div>
 	<b><u><h1 style="text-align:center;">List of Red Category of Industrial Sectors/Projects</h1></b></u></div>

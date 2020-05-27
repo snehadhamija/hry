@@ -20,6 +20,7 @@ tr{
     <div class="col-md-8 main">
 	<br>
 	<br>
+	<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
 <h2><span class="bold">Trade Marks Rules 2017</span></h2>
 <p>1. <a href="#1">Short title and commencement</a></p>
 <p>2. <a href="#2">Definitions</a></p>

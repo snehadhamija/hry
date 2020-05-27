@@ -18,7 +18,12 @@ tr{
 		
 
     <div class="col-md-8 main">
-            <h4 style="text-align:center;">Form and Fees</h4>
+	<br>
+	
+	<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a><br>
+	
+            <h2 style="text-align:center;">Form and Fees</h2><br>
+			<br>
 			<table width="80%"style="margin-left:100px;">
   <tr>
     <th width="10%" ><span>Sr. No</span></th>

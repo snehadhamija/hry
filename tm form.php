@@ -21,9 +21,13 @@ tr{
     <div class="col-md-8 main">
 	<br>
 	<br>
-	<h3>First Schedule:- Trade Mark Rules 2017</h3>
+	<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
+	<br>
+	<b><center><h2 style="font-weight:500;">First Schedule:- Trade Mark Rules 2017</h2></center></b>
+	<br>
+	<br>
 <table class="tableData responsiveTable" border="0" summary="Form" width="100%" cellspacing="0" cellpadding="0">
-<thead>
+<thead align="center">
 <tr>
 <th align="left" valign="top"><strong>Entry No</strong></th>
 <th align="left" valign="top"><strong>On what payable</strong></th>

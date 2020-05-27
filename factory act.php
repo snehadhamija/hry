@@ -14,7 +14,7 @@
     <div class="col-md-8 main">
 	<br>
     <br>
-
+		<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
 <div class="note" style="clear:both">Please go through the following information, tick the checkbox at the bottom of the page and click submit to continue to the Registration page.</div>
     <h2 class="blu" style="font-size:20px; font-weight:700; padding:7px;color:#069;">Overview</h2> 
     <p>This section provides online services to users who are covered under Factories Act, 1948 and related services. This section is to be used for registration, licensing, renewal, submission of annual returns and viewing of inspection report for following Acts:</p>

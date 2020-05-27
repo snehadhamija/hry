@@ -20,12 +20,12 @@ tr{
     <div class="col-md-8 main">
 	<br>
 	<br>
-	
+	<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
+	 <h2 align="center"><font color="#000000" family=""Open+Sans",sans-serif"><b><a name ="LIST OF CONTROLLED AREAS">LIST OF CONTROLLED AREAS</a></b></font></h2>
+	 <br>
+	 <br>
 <table >
-        <tr>
-    <td width="95%" colspan="5" height="19">
-    <p align="center"><font color="#000000" family=""Open+Sans",sans-serif"><b><a name ="LIST OF CONTROLLED AREAS">LIST OF CONTROLLED AREAS</a></b></font></td>
-  </tr>
+  
   <tr style=" background: #efefef none repeat scroll 0 0;    color: #3e4349;    font-size: 14px;">
     <td width="7%" height="19"><b><font family=""Open+Sans",sans-serif" color="#000000">Sr. No.</font></b></td>
     <td width="17%" height="19"><b><font family=""Open+Sans",sans-serif" color="#000000">District</font></b></td>

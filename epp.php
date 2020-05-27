@@ -11,9 +11,11 @@
 			<?php include("left-nav.php"); ?>
 		<!--banner-section-->
 	<div class="col-md-8 main">
+	
 		<div class="banner-section" style="width:100%;">
 		   <h3 class="tittle"></h3>
 			<div class="banner">
+			<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
             <h2><a href="https://haryanaindustries.gov.in/themes/backend/uploads/pdf/Haryana%20Book_Final1.pdf" target="_blank">Haryana Enterprises Promotion Policy 2015 - DOWNLOAD</a></h2>
 
 		 <div class="clearfix"> </div>

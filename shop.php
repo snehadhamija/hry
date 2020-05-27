@@ -14,8 +14,8 @@
     <div class="col-md-8 main">
 	<br>
     <br>
-
-
+<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
+		<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
 <div class="note" style="clear:both">Please go to Invest Haryana Portal of <a href="https://investharyana.in/#/">Haryana Enterprise Promotion Centre.</a></div>
     <h2 class="blu" style="font-size:20px; font-weight:700; padding:7px;color:#069;">Overview</h2> 
     <p>his section provides online services to users who are covered under Shops and Commercial Establishments Act 1958 and related services. This section is to be used for registration, licensing, renewal, amendment and submission of annual returns for following Acts:</p>

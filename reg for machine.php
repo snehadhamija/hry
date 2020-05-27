@@ -105,12 +105,12 @@ a {
 	<br>
 	<br>
 			<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
-   <h1 style="text-align:center; font-weight:600; font-size:50px;">Machinary Sale/Purchase</h1>
+   <h1 style="text-align:center; font-weight:600; font-size:50px;">Saller/Buyer</h1>
 
 
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Sale')"style="font-color:#FFFFFF;background-color:#464b64;">Sales</button>
-  <button class="tablinks" onclick="openCity(event, 'Purchase')">Purchase</button>
+  <button class="tablinks" onclick="openCity(event, 'Sale')"style="font-color:#FFFFFF;background-color:#464b64;">Saller</button>
+  <button class="tablinks" onclick="openCity(event, 'Purchase')">Buyer</button>
 
 </div>
 
@@ -118,12 +118,12 @@ a {
  
 <form action="/action_page.php">
   <div class="container">
-    <h1 style="text-align:center; font-weight:600; font-size:40px;"> Sales Machinary</h1>
+    <h2 style="text-align:center; font-weight:400; font-size:40px;"> Saller</h2>
 
     <hr>
 	<h3> Type of Machinary Sale</h3>
  <div class="New"><span><input type="radio" value="1" name="sale" onchange="form4_buttonActive();"><label style="font-size:15px;"> &nbsp; &nbsp;New Machinary</label></span> &nbsp; &nbsp; &nbsp; &nbsp
-<span><input  &nbsp; &nbsp; type="radio" value="2" name="sale" onchange="form4_buttonActive();"><label style="font-size:15px;">&nbsp; &nbsp;Old Machinary &nbsp;  &nbsp; &nbsp &nbsp;</label></span><span><input &nbsp; &nbsp; type="radio" value="3" name="sale" onchange="form4_buttonActive();"><label style="font-size:15px;"> &nbsp; &nbsp; Both Type</label></span>
+<span><input  &nbsp; &nbsp; type="radio" value="2" name="sale" onchange="form4_buttonActive();"><label style="font-size:15px;">&nbsp; &nbsp;Old Machinary &nbsp;  &nbsp; &nbsp &nbsp;</label></span><span><input &nbsp; &nbsp; type="radio" value="3" name="sale" onchange="form4_buttonActive();"><label style="font-size:15px;"> &nbsp; &nbsp; Any (Both) </label></span>
 </div>
 <label for="Company Name"><b style="font-size:22px;font-weight:700;">Company Name</b></label>
     <input type="text"style="font-size:17px;" placeholder="Enter Company Name" name="Company Name" required>
@@ -191,12 +191,12 @@ a {
  
  <form action="/action_page.php">
   <div class="container">
-    <h1 style="text-align:center; font-weight:600; font-size:40px;">Purchase Machinary</h1>
+     <h2 style="text-align:center; font-weight:400; font-size:40px;"> Saller</h2>
 
     <hr>
-	<h3> Type of Machinary Purchase</h3>
+	<h3> Buyer</h3>
  <div class="New"><span><input type="radio" value="1" name="sale" onchange="form4_buttonActive();"><label style="font-size:15px;"> &nbsp; &nbsp;New Machinary</label></span> &nbsp; &nbsp; &nbsp; &nbsp
-<span><input  &nbsp; &nbsp; type="radio" value="2" name="sale" onchange="form4_buttonActive();"><label style="font-size:15px;">&nbsp; &nbsp;Old Machinary &nbsp;  &nbsp; &nbsp &nbsp;</label></span><span><input &nbsp; &nbsp; type="radio" value="3" name="sale" onchange="form4_buttonActive();"><label style="font-size:15px;"> &nbsp; &nbsp; Both Type</label></span>
+<span><input  &nbsp; &nbsp; type="radio" value="2" name="sale" onchange="form4_buttonActive();"><label style="font-size:15px;">&nbsp; &nbsp;Old Machinary &nbsp;  &nbsp; &nbsp &nbsp;</label></span><span><input &nbsp; &nbsp; type="radio" value="3" name="sale" onchange="form4_buttonActive();"><label style="font-size:15px;"> &nbsp; &nbsp;Any (Both) </label></span>
 </div>
 <label for="Company Name"><b style="font-size:22px;font-weight:700;">Company Name</b></label>
     <input type="text"style="font-size:17px;" placeholder="Enter Company Name" name="Company Name" required>

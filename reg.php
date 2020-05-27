@@ -71,7 +71,7 @@ a {
 	<br>
 	<br>
 
-
+<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
 <form action="/action_page.php">
   <div class="container">
   <a href="index.php"><b style="margin-left:1000px; font-size:20px;font-weight:400;">Go Back</b></a>
