@@ -21,7 +21,7 @@ tr{
     <div class="col-md-8 main">
 	<br>
 	<br>
-	
+	<a href="index.php"><b style="margin-right:5px; font-size:20px;font-weight:400; float:right;margin-top:5px;">Go Back</b></a>
         
                                  
                             <div class="tab-pane" id="panel_tab2_example2">
@@ -87,12 +87,12 @@ tr{
                                         </td>
                                         <td>
                                             <br />
-                                            <a href="Draft_Plan\Saha\DDP_SAHA_2021_Exp_Note.pdf" target="_blank">View</a>
+                                            <a href="draft plan\Saha\DDP_SAHA_2021_Exp_Note.pdf" target="_blank">View</a>
                                         </td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_SAH_2021_DDP">01</a></td>
-                                        <td><a href="Draft_Plan\Saha\DDP_SAHA_2021_Map.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Saha\DDP_SAHA_2021_Map.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Saha\SAHA_DDP_2021.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Saha\SAHA_DDP_2021.pdf" target="_blank">View</a></td>
 
                                     </tr>
                                     <tr class="mainRow"> <td colspan="10"> DISTRICT - BHIWANI</td></tr>
@@ -111,12 +111,12 @@ tr{
                                         </td>
                                         <td>
                                             <br />
-                                            <a href="Draft_Plan\Mangar\Manger_2031_Notification.pdf" target="_blank">View</a>
+                                            <a href="draft plan\Mangar\Manger_2031_Notification.pdf" target="_blank">View</a>
                                         </td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_MAN_2031_DDP">11</a></td>
-                                        <td><a href="Draft_Plan\Mangar\DDP_2031_Manger.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Mangar\DDP_2031_Manger.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Mangar\MANGAR_DDP_2031.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Mangar\MANGAR_DDP_2031.pdf" target="_blank">View</a></td>
                                     </tr>
 
                                     <tr class="mainRow"> <td colspan="10">DISTRICT - Fatehabad</td></tr>
@@ -134,11 +134,11 @@ tr{
                                         </td>
                                         <td>
                                             <br />
-                                            <a href="Draft_Plan\Fatehabad\DDP_Fatehabad_1972_Notification.pdf" target="_blank">View</a>
+                                            <a href="draft plan\Fatehabad\DDP_Fatehabad_1972_Notification.pdf" target="_blank">View</a>
                                         </td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_FAT_1991_DDP">01</a></td>
                                         <td>
-                                            <a href="Draft_Plan\Fatehabad\DDP_Fatehabad_1972_Plan.pdf" target="_blank">View</a>
+                                            <a href="draft plan\Fatehabad\DDP_Fatehabad_1972_Plan.pdf" target="_blank">View</a>
                                         </td>
                                         <td>
                                             <a href="Draft_Plan/Fatehabad/ELU_Fatehbad.pdf" target="_blank">View</a>
@@ -155,12 +155,12 @@ tr{
                                         </td>
                                         <td>
                                             <br />
-                                            <a href="Draft_Plan\Fatehabad\RDDP_Exp_Note_2021_FT.pdf" target="_blank">View</a>
+                                            <a href="draft plan\Fatehabad\RDDP_Exp_Note_2021_FT.pdf" target="_blank">View</a>
                                         </td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_FAT_2021_RDDP">01</a></td>
-                                        <td><a href="Draft_Plan\Fatehabad\RDDP_FATEHABAD_Map.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Fatehabad\RDDP_FATEHABAD_Map.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Fatehabad\FATEHABAD_RDDP_2021.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Fatehabad\FATEHABAD_RDDP_2021.pdf" target="_blank">View</a></td>
                                     </tr>
                                     <tr>
                                         <td>5.</td>
@@ -194,15 +194,15 @@ tr{
                                         </td>
                                         <td>
                                             <br />
-                                            <a href="Draft_Plan\Ratia\RATIA_DDP_2021_Exp_Note.pdf" target="_blank">View</a>
+                                            <a href="draft plan\Ratia\RATIA_DDP_2021_Exp_Note.pdf" target="_blank">View</a>
                                         </td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_RAT_2021_DDP">01</a></td>
                                         <td>
-                                            <a href="Draft_Plan\Ratia\RATIA_DDP_2021.pdf" target="_blank">View</a>
+                                            <a href="draft plan\Ratia\RATIA_DDP_2021.pdf" target="_blank">View</a>
 
                                         </td>
                                         <td><a href="Draft_Plan/Ratia/ELU_Ratia.pdf" target="_blank">View</a></td>
-                                        <td><a href="Draft_Plan\Ratia\RATIA_DDP_2021(1).pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Ratia\RATIA_DDP_2021(1).pdf" target="_blank">View</a></td>
 
                                     </tr>
                                     <tr>
@@ -216,10 +216,10 @@ tr{
                                         </td>
                                         <td>
                                             <br />
-                                            <a href="Draft_Plan\Ratia\Ratia_2025_Exp_Note.pdf" target="_blank">View</a>
+                                            <a href="draft plan\Ratia\Ratia_2025_Exp_Note.pdf" target="_blank">View</a>
                                         </td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_RAT_2025_RDDP">01</a></td>
-                                        <td><a href="Draft_Plan\Ratia\RATIA_RDDP_2025.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Ratia\RATIA_RDDP_2025.pdf" target="_blank">View</a></td>
                                         <td></td>
                                         <td></td>
                                     </tr>
@@ -258,12 +258,12 @@ tr{
                                         </td>
                                         <td>
                                             <br />
-                                            <a href="Draft_Plan\Farukhnagar\DDP-2031Farukh Nagar_Notification.pdf" target="_blank">View</a>
+                                            <a href="draft plan\Farukhnagar\DDP-2031Farukh Nagar_Notification.pdf" target="_blank">View</a>
                                         </td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_FKH_2031_DDP">10</a></td>
-                                        <td><a href="Draft_Plan\Farukhnagar\DDP-2031 AD Farukh Nagar.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Farukhnagar\DDP-2031 AD Farukh Nagar.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Farukhnagar\FARUKHNAGAR_DDP_2031.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Farukhnagar\FARUKHNAGAR_DDP_2031.pdf" target="_blank">View</a></td>
                                     </tr>
 
 
@@ -280,11 +280,11 @@ tr{
                                             <br />
                                             13/04/2010
                                         </td>
-                                        <td><a href="Draft_Plan\Talwandi Rana\DDD_Talwandi Rana Ex note_2025.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Talwandi Rana\DDD_Talwandi Rana Ex note_2025.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_TAL_2025_DDP">02</a></td>
-                                        <td><a href="Draft_Plan\Talwandi Rana\Talwani Rana_2025.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Talwandi Rana\Talwani Rana_2025.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Talwandi Rana\TALWANDI-RANA_DDP_2025.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Talwandi Rana\TALWANDI-RANA_DDP_2025.pdf" target="_blank">View</a></td>
                                     </tr>
 
                                   
@@ -326,11 +326,11 @@ tr{
                                             <br />
                                             16/03/2007
                                         </td>
-                                        <td><a href="Draft_Plan\Safidon\DDP Safidon 16.3.2007 Notification.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Safidon\DDP Safidon 16.3.2007 Notification.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_SAF_2021_DDP">01</a></td>
-                                        <td><a href="Draft_Plan\Safidon\DDP_Safidon_201.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Safidon\DDP_Safidon_201.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Safidon\SAFIDON_DDP_2021.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Safidon\SAFIDON_DDP_2021.pdf" target="_blank">View</a></td>
                                     </tr>
 
                                     <tr>
@@ -343,11 +343,11 @@ tr{
                                             <br />
                                             07/03/2008
                                         </td>
-                                        <td><a href="Draft_Plan\Uchana\DDP Uchana_2025_Noti.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Uchana\DDP Uchana_2025_Noti.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_UCH_2025_DDP">01</a></td>
-                                        <td><a href="Draft_Plan\Uchana\UCHANA DDP_2025.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Uchana\UCHANA DDP_2025.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Uchana\UCHANA_DDP_2025.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Uchana\UCHANA_DDP_2025.pdf" target="_blank">View</a></td>
                                     </tr>
 
 
@@ -364,9 +364,9 @@ tr{
                                             <br />
                                             04/04/2007
                                         </td>
-                                        <td><a href="Draft_Plan\Kaithal\DDP_Kaithal_notification.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Kaithal\DDP_Kaithal_notification.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_KAI_2021_DDP">02</a></td>
-                                        <td><a href="Draft_Plan\Kaithal\Kaithal DDP_2021.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Kaithal\Kaithal DDP_2021.pdf" target="_blank">View</a></td>
                                         <td></td>
                                         <td></td>
                                     </tr>
@@ -381,11 +381,11 @@ tr{
                                             <br />
                                             21/02/2014
                                         </td>
-                                        <td><a href="Draft_Plan\Kaithal\KAITHAK DDP-2031 NOTIFICATION.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Kaithal\KAITHAK DDP-2031 NOTIFICATION.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_KAI_2031_DDP">02</a></td>
-                                        <td><a href="Draft_Plan\Kaithal\Kaithal-DDP-2031_Map.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Kaithal\Kaithal-DDP-2031_Map.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Kaithal\KAITHAL_DDP_2031.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Kaithal\KAITHAL_DDP_2031.pdf" target="_blank">View</a></td>
                                     </tr>
 
 
@@ -403,9 +403,9 @@ tr{
                                             CCP(NCR)/DDP/K-GCA/2004/2919<br />
                                             dt.<b>19/11/2004</b>
                                         </td>
-                                        <td><a href="Draft_Plan\Gharaunda\DDP_Gharaunda_2021_Notification.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Gharaunda\DDP_Gharaunda_2021_Notification.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_GHA_2021_DDP">02</a></td>
-                                        <td><a href="Draft_Plan\Gharaunda\DDP Gharaunda map.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Gharaunda\DDP Gharaunda map.pdf" target="_blank">View</a></td>
                                         <td></td>
                                         <td></td>
                                     </tr>
@@ -420,11 +420,11 @@ tr{
                                             <br />
                                             dt.<b>31/12/2007</b>
                                         </td>
-                                        <td><a href="Draft_Plan\Gharaunda\RDDP_notification_Gahaurada_2025.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Gharaunda\RDDP_notification_Gahaurada_2025.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_GHA_2025_RDDP">02</a></td>
-                                        <td><a href="Draft_Plan\Gharaunda\RDDPGHARUNDA_2025.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Gharaunda\RDDPGHARUNDA_2025.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Gharaunda\GHARAUNDHA_RDDP_2025.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Gharaunda\GHARAUNDHA_RDDP_2025.pdf" target="_blank">View</a></td>
                                     </tr>
 
 
@@ -440,11 +440,11 @@ tr{
                                             <br />21/10/2016 (Amendment)
                                         </td>
                                         <td>
-                                            <a href="Draft_Plan\Nilokheri-Taraori\DDP Nilokheri- Taraori 2021.pdf" target="_blank">View</a>
-                                            <br /><a href="Draft_Plan\Nilokheri-Taraori\Draft Amendment-DDP Karnal-2025-21.10.2016.pdf" target="_blank">View </a>(Amendment)
+                                            <a href="draft plan\Nilokheri-Taraori\DDP Nilokheri- Taraori 2021.pdf" target="_blank">View</a>
+                                            <br /><a href="draft plan\Nilokheri-Taraori\Draft Amendment-DDP Karnal-2025-21.10.2016.pdf" target="_blank">View </a>(Amendment)
                                         </td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_NIL_2021_DDP">01</a></td>
-                                        <td><a href="Draft_Plan\Nilokheri-Taraori\NILOKHERI_2021.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Nilokheri-Taraori\NILOKHERI_2021.pdf" target="_blank">View</a></td>
                                         <td></td>
                                         <td></td>
                                     </tr>
@@ -459,11 +459,11 @@ tr{
                                             <br />
                                             dt.<b>01/02/2008</b>
                                         </td>
-                                        <td><a href="Draft_Plan\Nilokheri-Taraori\DDP_2025_Nilokheri_Notification.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Nilokheri-Taraori\DDP_2025_Nilokheri_Notification.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_NIL_2025_DDP">01</a></td>
-                                        <td><a href="Draft_Plan\Nilokheri-Taraori\DDP_2025_Nilokheri_Map.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Nilokheri-Taraori\DDP_2025_Nilokheri_Map.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Nilokheri-Taraori\NILOKHERI-TARAORI_DDP_2025.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Nilokheri-Taraori\NILOKHERI-TARAORI_DDP_2025.pdf" target="_blank">View</a></td>
                                     </tr>
 
                                     <tr class="mainRow"> <td colspan="10">DISTRICT - Kurukshetra</td></tr>
@@ -480,11 +480,11 @@ tr{
                                             <br />
                                             dt.<b>02/01/2014</b>
                                         </td>
-                                        <td><a href="Draft_Plan\Kurukshetra\DDP Kurukshetra 2031_Notifica.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Kurukshetra\DDP Kurukshetra 2031_Notifica.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_KUR_2031_DDP">06</a></td>
-                                        <td><a href="Draft_Plan\Kurukshetra\DDPKurukshetra 2031_Map.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Kurukshetra\DDPKurukshetra 2031_Map.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Kurukshetra\KURUKSHETRA_DDP_2031.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Kurukshetra\KURUKSHETRA_DDP_2031.pdf" target="_blank">View</a></td>
                                     </tr>
 
                                     <tr>
@@ -497,11 +497,11 @@ tr{
                                             <br />
                                             dt.<b>14/03/2008</b>
                                         </td>
-                                        <td><a href="Draft_Plan\Shahabad\DDP_2025_Exp_note.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Shahabad\DDP_2025_Exp_note.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_SHA_2025_DDP">02</a></td>
-                                        <td><a href="Draft_Plan\Shahabad\DDP_2025_Map.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Shahabad\DDP_2025_Map.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Shahabad\SHAHBAD_DDP_2025.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Shahabad\SHAHBAD_DDP_2025.pdf" target="_blank">View</a></td>
                                     </tr>
                                     <tr>
                                         <td>22.</td>
@@ -535,9 +535,9 @@ tr{
                                             <br />
                                             dt.<b>08/10/2008</b>
                                         </td>
-                                        <td><a href="Draft_Plan\Narnaul\DDP_Narnaul_2021_Exp_Note.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Narnaul\DDP_Narnaul_2021_Exp_Note.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_NAR_2021_DDP">01</a></td>
-                                        <td><a href="Draft_Plan\Narnaul\DDP_Narnaul_2021.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Narnaul\DDP_Narnaul_2021.pdf" target="_blank">View</a></td>
                                         <td></td>
                                         <td></td>
                                     </tr>
@@ -556,11 +556,11 @@ tr{
                                             CCP(NCR)/PWL/DDP-HTN/2009/1086
                                             <br />dt.<b>21/04/2009</b>
                                         </td>
-                                        <td><a href="Draft_Plan\Hathin\DDP_Hathin_2021.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Hathin\DDP_Hathin_2021.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_HAT_2021_DDP">02</a></td>
-                                        <td><a href="Draft_Plan\Hathin\DDP_Hathin_2021 Map.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Hathin\DDP_Hathin_2021 Map.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Hathin\HATHIN_DDP_2021.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Hathin\HATHIN_DDP_2021.pdf" target="_blank">View</a></td>
                                     </tr>
 
                                     <tr>
@@ -573,11 +573,11 @@ tr{
                                             <br />
                                             dt.<b>11/06/2012</b>
                                         </td>
-                                        <td><a href="Draft_Plan\Hathin\DDP_Hathin_2031_Note.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Hathin\DDP_Hathin_2031_Note.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_HAT_2031_DDP">02</a></td>
-                                        <td><a href="Draft_Plan\Hathin\DDP_Hathin_2031.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Hathin\DDP_Hathin_2031.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Hathin\HATHIN_DDP_2031.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Hathin\HATHIN_DDP_2031.pdf" target="_blank">View</a></td>
                                     </tr>
 
                                     <tr class="mainRow"> <td colspan="10">DISTRICT - Panchkula</td></tr>
@@ -642,9 +642,9 @@ tr{
                                             <br />
                                             28/02/2007
                                         </td>
-                                        <td><a href="Draft_Plan\Rewari\DDP_2021_Rewari_Exp_Note.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Rewari\DDP_2021_Rewari_Exp_Note.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_REW_2021_DDP">01</a></td>
-                                        <td><a href="Draft_Plan\Rewari\DDP_2021_Rewari_Map.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Rewari\DDP_2021_Rewari_Map.pdf" target="_blank">View</a></td>
                                         <td></td>
                                         <td></td>
                                     </tr>
@@ -676,9 +676,9 @@ tr{
                                             <br />
                                             05/12/2007
                                         </td>
-                                        <td><a href="Draft_Plan\Bawal\DDP BAWAL-2021_Exp_Note.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Bawal\DDP BAWAL-2021_Exp_Note.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_BAW_2021_DDP">03</a></td>
-                                        <td><a href="Draft_Plan\Bawal\DDP BAWAL-2021_Map.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Bawal\DDP BAWAL-2021_Map.pdf" target="_blank">View</a></td>
                                         <td></td>
                                         <td></td>
                                     </tr>
@@ -694,11 +694,11 @@ tr{
                                             <br />
                                             05/11/2015
                                         </td>
-                                        <td><a href="Draft_Plan\MBIR\Notification DDP MBIR 2039 AD.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\MBIR\Notification DDP MBIR 2039 AD.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_MBIR_2039_DDP">09</a></td>
-                                        <td><a href="Draft_Plan\MBIR\Plan DDP MBIR 2039 AD.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\MBIR\Plan DDP MBIR 2039 AD.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\MBIR\MBIR_DDP_2039.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\MBIR\MBIR_DDP_2039.pdf" target="_blank">View</a></td>
                                     </tr>
 
                                     <tr class="mainRow"> <td colspan="10">DISTRICT -    Rohtak</td></tr>
@@ -715,11 +715,11 @@ tr{
                                             <br />
                                             07/01/2013
                                         </td>
-                                        <td><a href="Draft_Plan\Rohtak\DDP Rohtak_2031_Exp_Note.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Rohtak\DDP Rohtak_2031_Exp_Note.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_ROH_2031_DDP">07</a></td>
-                                        <td><a href="Draft_Plan\Rohtak\DDP Rohtak-2031 Map.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Rohtak\DDP Rohtak-2031 Map.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Rohtak\ROHTAK_DDP_2031.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Rohtak\ROHTAK_DDP_2031.pdf" target="_blank">View</a></td>
                                     </tr>
 
                                     <tr>
@@ -732,9 +732,9 @@ tr{
                                             <br />
                                             18/09/2006
                                         </td>
-                                        <td><a href="Draft_Plan\Meham\MEHAM_2021_DDP_Exp_Note.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Meham\MEHAM_2021_DDP_Exp_Note.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_MEH_2021_DDP">01</a></td>
-                                        <td><a href="Draft_Plan\Meham\MEHAM_2021_DDP.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Meham\MEHAM_2021_DDP.pdf" target="_blank">View</a></td>
                                         <td></td>
                                         <td></td>
                                     </tr>
@@ -749,11 +749,11 @@ tr{
                                             <br />
                                             07/01/2013
                                         </td>
-                                        <td><a href="Draft_Plan\Kalanaur\DDP Kalanaur-2031_Note.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Kalanaur\DDP Kalanaur-2031_Note.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_KAL_2031_DDP">01</a></td>
-                                        <td><a href="Draft_Plan\Kalanaur\DDP Kalanaur-2031.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Kalanaur\DDP Kalanaur-2031.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Kalanaur\KALANUR_DDP_2031.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Kalanaur\KALANUR_DDP_2031.pdf" target="_blank">View</a></td>
 
                                     </tr>
                                     <tr>
@@ -787,11 +787,11 @@ tr{
                                             07/01/2013
                                            
                                         </td>
-                                        <td><a href="Draft_Plan\Sampala\DDP_2021_Sampla_Exp_Note.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Sampala\DDP_2021_Sampla_Exp_Note.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_SAP_2021_DDP">23</a></td>
-                                        <td><a href="Draft_Plan\Sampala\DDP_2021_Sampla.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Sampala\DDP_2021_Sampla.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Sampala\DRAFT DEVELOPMENT PLAN 2021 AD SAMPLA (UPDATE) 27-09-2018.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Sampala\DRAFT DEVELOPMENT PLAN 2021 AD SAMPLA (UPDATE) 27-09-2018.pdf" target="_blank">View</a></td>
                                     </tr>
                                     <tr>
                                         <td>37.</td>
@@ -824,11 +824,11 @@ tr{
                                             <br />
                                             28/12/2005
                                         </td>
-                                        <td><a href="Draft_Plan\Dabwali\DDP_Dabwali_2021_Exp_Note.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Dabwali\DDP_Dabwali_2021_Exp_Note.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_DAB_2021_DDP">01</a></td>
-                                        <td><a href="Draft_Plan\Dabwali\DDP_Dabwali_2021.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Dabwali\DDP_Dabwali_2021.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Dabwali\DABWALI_DDP_2021.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Dabwali\DABWALI_DDP_2021.pdf" target="_blank">View</a></td>
                                     </tr>
 
 
@@ -846,9 +846,9 @@ tr{
                                             <br />
                                             19/10/2005
                                         </td>
-                                        <td><a href="Draft_Plan\Ganaur\RRDDPGanaur _Exp_Note.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Ganaur\RRDDPGanaur _Exp_Note.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_GAN_2021_RDDP">03</a></td>
-                                        <td><a href="Draft_Plan\Ganaur\RDDP_2021_GANAUR.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Ganaur\RDDP_2021_GANAUR.pdf" target="_blank">View</a></td>
                                         <td></td>
                                         <td></td>
                                     </tr>
@@ -860,11 +860,11 @@ tr{
                                             CCP(NCR)/DDP/SNP/GNN-CA/2007/3897
                                             <br />10/11/2007
                                         </td>
-                                        <td><a href="Draft_Plan\Ganaur\Ganuar_Exp_Note.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Ganaur\Ganuar_Exp_Note.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_SON_2025_RDDP">03</a></td>
-                                        <td><a href="Draft_Plan\Ganaur\GANAUR_Map.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Ganaur\GANAUR_Map.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Ganaur\GANAUR_RDDP_2025.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Ganaur\GANAUR_RDDP_2025.pdf" target="_blank">View</a></td>
                                     </tr>
                                     <tr>
                                         <td>41.</td>
@@ -876,11 +876,11 @@ tr{
                                             CCP(NCR)/DDP/SNP-KRDA/2008/703
                                             <br />07/03/2008
                                         </td>
-                                        <td><a href="Draft_Plan\Kharkhauda\Kharkhoda_Exp_Note.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Kharkhauda\Kharkhoda_Exp_Note.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_KHA_2021_DDP">15</a></td>
                                         <td></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Kharkhauda\KHARKHAUDA_DDP_2021.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Kharkhauda\KHARKHAUDA_DDP_2021.pdf" target="_blank">View</a></td>
                                     </tr>
 
                                     <tr>
@@ -894,11 +894,11 @@ tr{
                                             <br />
                                             07/03/2008
                                         </td>
-                                        <td><a href="Draft_Plan\Gohana\RDDP Gohana 2021.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Gohana\RDDP Gohana 2021.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_GOH_2021_RDDP">01</a></td>
-                                        <td><a href="Draft_Plan\Gohana\RDDP_Gohana_2021_Map.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Gohana\RDDP_Gohana_2021_Map.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Gohana\GOHANA_RDDP_2021.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Gohana\GOHANA_RDDP_2021.pdf" target="_blank">View</a></td>
                                     </tr>
 
 
@@ -917,9 +917,9 @@ tr{
                                             <br />
                                             14/01/2005
                                         </td>
-                                        <td><a href="Draft_Plan\Yamunanagar-Jagadhari\DDP_Yamuna-Jagadri_2021_Exp_Note.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Yamunanagar-Jagadhari\DDP_Yamuna-Jagadri_2021_Exp_Note.pdf" target="_blank">View</a></td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_YAM_2021_DDP">02</a></td>
-                                        <td><a href="Draft_Plan\Yamunanagar-Jagadhari\DDP_Yamuna-Jagadri_2021.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Yamunanagar-Jagadhari\DDP_Yamuna-Jagadri_2021.pdf" target="_blank">View</a></td>
                                         <td></td>
                                         <td></td>
                                     </tr>
@@ -935,13 +935,13 @@ tr{
                                             07/12/2016 (Amendment)
                                         </td>
                                         <td>
-                                            <a href="Draft_Plan\Yamunanagar-Jagadhari\RDDP_Yamuna Nagar-Jagadhri_Exp_note.pdf" target="_blank">View</a>
-                                            <br /><a href="Draft_Plan\Yamunanagar-Jagadhari\Dadupur.pdf" target="_blank">View </a>(Amendment)
+                                            <a href="draft plan\Yamunanagar-Jagadhari\RDDP_Yamuna Nagar-Jagadhri_Exp_note.pdf" target="_blank">View</a>
+                                            <br /><a href="draft plan\Yamunanagar-Jagadhari\Dadupur.pdf" target="_blank">View </a>(Amendment)
                                         </td>
                                         <td><a href="javascript:void(0);" data-toggle="modal" data-target="#div_YAM_2021_RDDP">02</a></td>
-                                        <td><a href="Draft_Plan\Yamunanagar-Jagadhari\RDDP_Yamuna Nagar_2021.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Yamunanagar-Jagadhari\RDDP_Yamuna Nagar_2021.pdf" target="_blank">View</a></td>
                                         <td></td>
-                                        <td><a href="Draft_Plan\Yamunanagar-Jagadhari\YAMUNANAGAR-JAGADHRI_RDDP_2021.pdf" target="_blank">View</a></td>
+                                        <td><a href="draft plan\Yamunanagar-Jagadhari\YAMUNANAGAR-JAGADHRI_RDDP_2021.pdf" target="_blank">View</a></td>
                                     </tr>
 
                                     <!--</tbody>-->
