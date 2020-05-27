@@ -78,26 +78,29 @@ ul.top-nag  a.active{
   color: #FFFFFF;
 }
 .search-box{
-  float: right;
-  width:70%;
-  margin-top: 0.6em;
+	  position: relative;
+	  z-index:1;
+  float: left;
+  width:101%;
+  margin-top: 0.0em;
+  margin-bottom: 1.0em;
 }
 .b-search{
     position: relative;
-    border: 1px solid 	#808080;
+    border: 1px solid 	#314152;
     padding: 0.5em 0;
-    background:	#808080;
+    background:	#314152;
     width: 99%;
 }
 .b-search input[type="text"]{
-	width: 85%;
+	width: 87%;
     outline: none;
     padding: 0em 0.6em;
-    font-size: 0.9em;
+    font-size: 1.5em;
     color: #fff;
     position: relative;
     border: none;
-	background:	#808080;
+	background:	#314152;
 }
 .b-search input[type="submit"]{
 	background: url(../images/search.png) no-repeat 0px 2px;
@@ -309,7 +312,7 @@ nav a:focus {
 .banner-section{
     width: 73%;
     float: left;
-	    padding: 2em 1em 1.5em 1em;
+	    padding: 1em 1em 1.5em 1em;
 		border-right: 1px solid #ddd;
 }
 /*--banner--*/
@@ -476,7 +479,7 @@ nav a:focus {
     content: "\f111";
   font-size: 0;
   font-family: FontAwesome;
-  visibility: visible;
+  visibility: hidden;
   display: block;
      width:14px;
     height:14px;
