@@ -1,0 +1,28 @@
+	<!DOCTYPE HTML>
+<html>
+<?php //include("api.php"); ?>
+<?php include("HEAD.PHP"); ?>
+<body>
+	<!-- header-section-starts -->  
+     <?php include("top-nav.php"); ?>
+		
+	<div class="full">
+    <div class="col-md-4 top-nav" style="position:relative; background: #464B64;">
+			<?php include("left-nav.php"); ?>
+		<!--banner-section-->
+	<div class="col-md-8 main">
+		<div class="banner-section" style="width:100%;">
+		   <h3 class="tittle"></h3>
+			<div class="banner">
+            <h2><a href="https://haryanaindustries.gov.in/themes/backend/uploads/pdf/Haryana%20Book_Final1.pdf" target="_blank">Haryana Enterprises Promotion Policy 2015 - DOWNLOAD</a></h2>
+
+		 <div class="clearfix"> </div>
+			   
+			 </div>
+
+			<!--//banner-section-->
+			<div class="clearfix"> </div>
+	<!--/footer-->
+	<?php include("footer.php"); ?>
+	
+	     
