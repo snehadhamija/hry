@@ -74,7 +74,7 @@ a {
 <a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
 <form action="/action_page.php">
   <div class="container">
-  <a href="index.php"><b style="margin-left:1000px; font-size:20px;font-weight:400;">Go Back</b></a>
+
     <h1 style="text-align:center; font-weight:600; font-size:50px;">Register</h1>
     <p style="text-align:center; font-weight:600;">Please fill in this form to create an account.</p>
     <hr>

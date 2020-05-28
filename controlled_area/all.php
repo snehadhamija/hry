@@ -8,6 +8,8 @@ table{
 }
 
 </style>
+<p style="font-size:20px;font-weight:400;"><a href="index.php">Home</a><b> / </b><a href="controlled_area.php">Controlled_Area</a></p>
+	<br>.<br>
   <h4 style="text-align:center;">LIST OF CONTROLLED AREAS </h4>
             <table width="73%" >
                 <thead>

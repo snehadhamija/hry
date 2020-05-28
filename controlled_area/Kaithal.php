@@ -1,3 +1,5 @@
+  <p style="font-size:20px;font-weight:400;"><a href="index.php">Home</a><b> / </b><a href="controlled_area.php">Controlled_Area</a></p>
+	<br><br>
   <h4 style="text-align:center;">LIST OF CONTROLLED AREAS - DISTRICT KAITHAL</h4>
             <table class="table table-bordered table-hover">
                 <thead>
