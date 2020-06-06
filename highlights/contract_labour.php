@@ -19,7 +19,7 @@
 								
 								<div class="inside">
 								<div class="radiotext inside-grp">
-									<table class="admin_setup leftt">
+									<table class="end" class="admin_setup leftt">
 										<tbody>
 											<tr>
 												<td>is 20 or less</td>
@@ -66,7 +66,7 @@
 								
 								<div class="inside">
 								<div class="radiotext inside-grp">
-									<table class="admin_setup">
+									<table class="end" class="admin_setup">
 										<tbody>
 											<tr>
 												<th>Sr. No.</th>
@@ -142,7 +142,7 @@
 								
 								<div class="inside">
 								<div class="radiotext inside-grp">
-										<table class="admin_setup">
+										<table class="end" class="admin_setup">
 											<tbody>
 												<tr>
 													<th>Sr. No.</th>

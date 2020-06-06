@@ -3,7 +3,7 @@
 	<br>
 	<br> 
 <h4 style="text-align:center;">LIST OF CONTROLLED AREAS - DISTRICT KURUKSHETRA</h4>
-            <table class="table table-bordered table-hover">
+            <table class="end">
                 <thead>
                     <tr>
                         <th width="6%">Sr. No.                        </th>

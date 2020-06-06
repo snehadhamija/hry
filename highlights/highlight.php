@@ -3,7 +3,7 @@
 							    <h3>HighLights </h3>
 								<span>The Punjab Labour Welfare Fund Act,1965</span>
 								
-								<table>
+								<table class="end">
 								    <tr>
 									    <td><a href="#">Object</a></td>
 									</tr>
