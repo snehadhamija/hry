@@ -12,6 +12,10 @@ text-align:justify;
 table tr  {
 	text-align:center;
 }
+.end tr td,th{
+	padding:6px
+}
+
 </style>
 <?php include("HEAD.PHP"); ?>
 <body>
@@ -30,7 +34,7 @@ table tr  {
     <center><h1><u><b>Procedure for Obtaining Consent to Establish</b></u></h1></center>
 	<br>
 	<br>
-<table id="sailorTable" class="table table-striped table-bordered mt-0" width="100%">
+<table class="end" width="100%">
 							<thead>
 							<tr>	
 								<th width="2%" style="text-align:center;">

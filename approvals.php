@@ -5,6 +5,9 @@ table, th, td {
 tr{
   text-indent: 25px;
 }
+.end tr td,th{
+	padding:6px
+}
 
 </style>
 <?php include("HEAD.PHP"); ?>
@@ -25,7 +28,7 @@ tr{
 
 <p>&nbsp;</p>
 
-<table border="1" style="width: 100%; border-color: #000;">
+<table class="end" border="1" style="width: 100%; border-color: #000;">
 	<tbody>
 		<tr>
 			<td colspan="8" style="font-size:large;text-align:center; background-color:#2C89D9;color:white;">Pre-Establishment</td>

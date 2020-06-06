@@ -3,8 +3,8 @@
   border: 3px  solid silver;
   padding:10px !important;
 }
-tr{
- 
+.end tr td,th{
+	padding:6px
 }
 
 </style>
@@ -18,7 +18,7 @@ tr{
 			<?php include("left-nav.php"); ?>
 		
 
-    <div class="col-md-8 main">
+    <div class="col-md-8 main" style="color:green;">
 	<br>
 	<br>
 	
@@ -29,7 +29,7 @@ tr{
 	<br>
 	<br>
 
-			<table width="80%"style="margin-left:100px;" class="tab-style" >
+			<table class="end" width="80%"style="margin-left:100px;" class="tab-style" >
             <tr><th>Sr.
 No.</th><th>Industrial Sector/Project</th></tr>
 <tr><td>1</td><td>Aluminium  utensils  from  aluminium   circles  by  pressing   only (dry

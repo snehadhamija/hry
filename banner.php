@@ -14,10 +14,7 @@
 		
                  <div  class="callbacks_container">
 					<ul class="rslides" id="slider4" style="height:310px;">
-					       <li>
-							  <img src="images/b4.jpg" class="img-responsive" alt="" />
-
-							</li>
+					      
 							<li>
 								 <img src="images/22.jpg" class="img-responsive" alt="" />
 							</li>
@@ -29,6 +26,7 @@
 							</li>
 						</ul>
 					</div>
+					<marquee  onmouseover='this.stop();' onmouseout="this.start();" scrolldelay="50" bgcolor="#314152"><h2><a style="color:#ffffff" href="https://udyogaadhaar.gov.in/UA/UAM_Registration.aspx" target="_blank">Udyog Aadhar Memorandum</a></h2></marquee>
 					<!--banner-->
 	  			<script src="js/responsiveslides.min.js"></script>
 			 <script>

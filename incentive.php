@@ -5,6 +5,9 @@ table, th, td {
 tr{
   text-indent: 5px;
 }
+.end tr td,th{
+	padding:6px
+}
 
 </style>
 <?php include("HEAD.PHP"); ?>
@@ -25,7 +28,7 @@ tr{
 	<br>
 	<br>
 
-			<table width="80%"style="margin-left:100px;">
+			<table class="end" width="80%"style="margin-left:100px;">
   <tr>
     <th width="10%" ><span>Sr. No</span></th>
     <th width="50%" ><span> Title</span></th>

@@ -2,6 +2,10 @@
 table, th, td {
   border: 1px solid black;
 }
+.end tr td,th{
+	padding:6px
+}
+
 </style>
 <?php include("HEAD.PHP"); ?>
 <body>
@@ -15,7 +19,7 @@ table, th, td {
 
     <div class="col-md-8 main">
             <h4 style="text-align:center;">LIST OF CONTROLLED AREAS - DISTRICT AMBALA</h4>
-            <table style="overflow-x:auto; font-size: 14px;"class="table table-bordered table-hover" class="col-md-2">
+            <table style="overflow-x:auto; font-size: 14px;"class="end" class="col-md-2">
                 
                     <tr>
                         <th width="4%">Sr. No.                        </th>

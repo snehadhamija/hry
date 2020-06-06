@@ -3,7 +3,10 @@ table, th, td {
   border: 3px  solid silver;
 }
 tr{
-  text-indent: 25px;
+  text-indent: 5px;
+}
+.end tr td,th{
+	padding:6px
 }
 
 </style>
@@ -17,14 +20,14 @@ tr{
 			<?php include("left-nav.php"); ?>
 		
 
-    <div class="col-md-8 main">
+    <div class="col-md-8 main"><br>	<b style-="font-size:25px">Design=>Design Form & Fees </b>	
 	<br>
 	<br><a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
-	<b><u><h1 style="text-align:center;">Acts</h1></b></u>
+	<b><u><h1 style="text-align:center;">Design Acts</h1></b></u>
 	<br>
 	<br>
 
-			<table width="80%"style="margin-left:100px;">
+			<table class="end" width="80%"style="margin-left:100px;">
   <tr>
     <th width="10%" ><span>Sr. No</span></th>
     <th width="50%" ><span> Title</span></th>

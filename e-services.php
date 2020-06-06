@@ -11,6 +11,10 @@ padding-bottom: 10px;
 table tr .cen {
 	text-align:center;
 }
+.end tr td,th{
+	padding:6px
+}
+
 </style>
 <?php include("HEAD.PHP"); ?>
 <body>
@@ -26,7 +30,7 @@ table tr .cen {
 	<br>
 	<br>
 	<br><a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
-	<table class="table table-bordered">
+	<table class="end">
                     <tr style="background: #5bc0de none repeat scroll 0 0;">
                         <td width="95%" colspan="5" height="19">
                             <p align="center"><font style="color:white;  font-size:25px;" family="" Open+Sans",sans-serif"><b><a name="LIST OF ONLINE SERVICES" style="color: #f6f7f9;">LIST OF ONLINE SERVICES</a></b></font>

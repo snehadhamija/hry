@@ -11,6 +11,10 @@ padding-bottom: 10px;
 table tr .cen {
 	text-align:center;
 }
+.end tr td,th{
+	padding:6px
+}
+
 </style>
 <?php include("HEAD.PHP"); ?>
 <body>
@@ -31,7 +35,7 @@ table tr .cen {
 	<br>
 
                                
-          <table  width="95%" style="margin-left:13px;">
+          <table  class="end" width="95%" style="margin-left:13px;">
               
               <tr id="fr" class="firstHeaderRow">
                   <td >Sr No</td>

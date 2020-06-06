@@ -5,6 +5,9 @@ table, th, td {
 tr{
   text-indent: 25px;
 }
+.end tr td,th{
+	padding:6px
+}
 
 </style>
 <?php include("HEAD.PHP"); ?>
@@ -24,7 +27,7 @@ tr{
 	 <h2 align="center"><font color="#000000" family=""Open+Sans",sans-serif"><b><a name ="LIST OF CONTROLLED AREAS">LIST OF CONTROLLED AREAS</a></b></font></h2>
 	 <br>
 	 <br>
-<table >
+<table class="end" >
   
   <tr style=" background: #efefef none repeat scroll 0 0;    color: #3e4349;    font-size: 14px;">
     <td width="7%" height="19"><b><font family=""Open+Sans",sans-serif" color="#000000">Sr. No.</font></b></td>

@@ -3,6 +3,10 @@
 table, th, td {
   border: 1px solid black;
 }
+.end tr td,th{
+	padding:6px
+}
+
 </style>
 <?php include("HEAD.PHP"); ?>
 <body>
@@ -25,7 +29,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ContentPlaceHolder1$FormListi
 //]]>
 </script><noscript class="displayNone"> This website uses Javascript </noscript>
 
- <table class="tableData responsiveTable" border="0" summary="Form and Fees" width="100%"
+ <table class="end" border="0" summary="Form and Fees" width="100%"
             cellspacing="0" cellpadding="0">
             <thead>
                 <tr>

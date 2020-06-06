@@ -2,9 +2,10 @@
 table, th, td {
   border: 3px  solid silver;
 }
-tr{
-  
+.end tr td,th{
+	padding:6px
 }
+
 
 </style>
 
@@ -28,7 +29,7 @@ tr{
                                <center><h3><u><b>List Of Towns Where Draft Development Plan Stands Published, Final Development Plan Is Yet To Be Published. </b></u></h3></center>
                                
 <br>
-<br>							   <table  cellspacing="0">
+<br>							   <table  class="end" cellspacing="0">
                                     <!--<thead>
                                         <tr>
                                             <th class="th-sn">Sr No</th>

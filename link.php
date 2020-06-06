@@ -5,6 +5,9 @@ table, th, td {
 tr{
   text-indent: 5px;
 }
+.end tr td,th{
+	padding:6px
+}
 
 </style>
 <?php

@@ -18,12 +18,22 @@
 			      
 				</div>
 			 <!--/top-news-->
+			 <style>
+			 h4{
+				 font-size:18px;
+			 }
+			 </style>
 			  <div class="top-news">
 				<div class="top-inner">
-					<div class="col-md-6 top-text">
+					<div class="col-md-12 top-text">
 						
 						    <h5 class="top"><a href="#">What's New</a></h5>
-							
+							<ol >
+							<li><h4><a href="what's_new\Announcements.pdf" target="_blank">Announcements: RBI Governer: 22/05/2020</a></h4></li>
+								<li><h4><a href="what's_new\MSME incentives in 2020.pdf" target="_blank">Financial Assistance Package announced by Government of India on 15-5-2020.</a></h4></li>
+									<li><h4><a href="what's_new\Existing And Revised Definition Of MSME.pdf" target="_blank">Existing And Revised Definition Of MSME’s</a></h4></li>
+												<li><h4><a href="what's_new\RBI.PDF" target="_blank">Monetary Policy Statement, 2020-21</a></h4></li>
+							</ol>
 					 </div>
 					
 					 <div class="clearfix"> </div>

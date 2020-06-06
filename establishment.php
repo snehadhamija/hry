@@ -8,6 +8,9 @@ tr{
 .estab li {
 	font-size:17px;
 }
+.end tr td,th{
+	padding:6px
+}
 
 
 </style>

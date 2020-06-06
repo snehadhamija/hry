@@ -5,6 +5,9 @@ table, th, td {
 tr{
   text-indent: 2px;
 }
+.end tr td,th{
+	padding:6px
+}
 
 </style>
 <?php include("HEAD.PHP"); ?>
@@ -17,14 +20,14 @@ tr{
 			<?php include("left-nav.php"); ?>
 		
 
-    <div class="col-md-8 main">
+    <div class="col-md-8 main"><br><b style-="font-size:20px">Patents=>Patents Form & Fees </b>
 	<br>
 	
 	<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a><br>
 	
-            <h2 style="text-align:center;">Form and Fees</h2><br>
+            <h2 style="text-align:center;">Patents Form and Fees</h2><br>
 			<br>
-			<table width="80%"style="margin-left:100px;">
+			<table class="end" width="80%"style="margin-left:100px;">
   <tr>
     <th width="10%" ><span>Sr. No</span></th>
     <th width="50%" ><span>Process Title</span></th>

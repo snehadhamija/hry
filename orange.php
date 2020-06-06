@@ -3,9 +3,10 @@
   border: 3px  solid silver;
   padding:10px !important;
 }
-tr{
- 
+.end tr td,th{
+	padding:6px
 }
+
 
 </style>
 <?php include("HEAD.PHP"); ?>
@@ -18,17 +19,17 @@ tr{
 			<?php include("left-nav.php"); ?>
 		
 
-    <div class="col-md-8 main">
+    <div class="col-md-8 main" style="color:orange;">
 	<br>
 	<br>
-   <div style="text-align: right;"> <h4><a href="indix.php">Go Back</a></h4></div>
+<div style="text-align: right; margin-right:15px;"> <h4><a href="index.php">Go Back</a></h4></div>
    <div style="text-align: right;"> <h3>Annexure-II</h3></div>
    <div>
 	<b><u><h1 style="text-align:center;">List of Orange Category of Industrial Sectors/Projects</h1></b></u></div>
 	<br>
 	<br>
 
-			<table width="80%"style="margin-left:100px;" class="tab-style" >
+			<table class="end" width="80%"style="margin-left:100px;" class="tab-style" >
             <tr><th>Sr.
 No.</th><th>Industrial Sector/Project</th></tr>
 <tr><td>1</td><td>Dismantling of rolling stocks ( wagons/ coaches)</td></tr>

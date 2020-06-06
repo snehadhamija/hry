@@ -16,6 +16,7 @@ width:100%;
 .col-md-12, .col-lg-12 {   
     padding-right: 0px; 
 }
+
  </style>  
      <?php include("top-nav.php"); ?>
 		

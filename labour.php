@@ -9,6 +9,10 @@ table, th, td {
 tr{
   text-indent: 5px;
 }
+.end tr td,th{
+	padding:6px
+}
+
 
 </style>
 <?php include("HEAD.PHP"); ?>
@@ -25,7 +29,7 @@ tr{
 	<br>
 	<br>
 	
-<table >
+<table class="end">
 		<tr>
 			<td align="center" class="bluehead"><strong><a name="#top"><h3>Enforcement of Labour Laws</h3></a></strong></td>
 		</tr>
@@ -40,7 +44,7 @@ tr{
 		</tr>
 		<tr>
 			<td>
-				<table class="labour-tbl-two" cellpadding="5px" cellspacing="0" border="0" width="680px">
+				<table class="labour-tbl-two" cellpadding="5px" cellspacing="0" border="0" width="100%">
 					<tr>
 						<td width="32" align="left"><img src="images/icon5.png" alt="*"/></td>
 						<td colspan="6" align="left" class="bonded-wght">Bonded Labour System (Abolition) Act, 1976</td>
@@ -54,8 +58,8 @@ tr{
 						<td align="left">&nbsp;</td>
 						<td width="45" align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
 						<td width="65" align="left"><a href="highlights.php?l=Bonded_Labour" target="_blank">Highlights</a></td>
-						<td width="111" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/Bonded_Labour_System_Act.doc" target="_blank">Download Word Doc</a></td>
+						<td width="111" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0"width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/Bonded_Labour_System_Act.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -74,10 +78,12 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/Bonded_Labour_System_Rules.doc" target="_blank">Download Word Doc</a></td>
-						<td width="54" align="right"></td>
-						<td width="165" align="left">&nbsp;</td>
+						<td width="45" align="right"></td>
+						<td width="65" align="left"></td>
+						<td width="111" align="right"></td>
+						<td width="165" align="left"></td>
+                        <td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0"width="30" height="25"/></td>
+						<td width="165" align="left"><a href="labourActpdfdocs/Bonded_Labour_System_Rules.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
 					</tr>
 					<tr>
@@ -96,8 +102,8 @@ tr{
 						<td align="left">&nbsp;</td>
 						<td width="45" align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
 						<td width="65" align="left"><a href="highlights.php?l=Child_Labour" target="_blank">Highlights</a></td>
-						<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td> 
-						<td width="165" align="left"><a href="labourActpdfdocs/Child_Labour_Act.doc" target="_blank">Download Word Doc</a></td>
+						<td  align="right"></td> 
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/Child_Labour_Act.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -116,10 +122,12 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/Child_Labour_Rules.doc" target="_blank">Download Word Doc</a></td>
-						<td width="54" align="right"></td>
-						<td width="165" align="left">&nbsp;</td>
+						<td width="45" align="right"></td>
+						<td width="65" align="left"></td>
+						<td  align="right"></td> 
+						<td width="165" align="left"></td>
+                        <td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
+						<td width="165" align="left"><a href="labourActpdfdocs/Child_Labour_Rules.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
 					</tr>
 					<tr>
@@ -138,8 +146,8 @@ tr{
 						<td align="left">&nbsp;</td>
 						<td align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
 						<td align="left"><a href="highlights.php?l=contract_labour" target="_blank">Highlights</a></td>
-						<td width="111" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/Contract_Labour_Act.doc" target="_blank">Download Word Doc</a></td>
+						<td width="111" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/Contract_Labour_Act.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -158,8 +166,8 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/Contract_Labour_Central_Rules.doc" target="_blank">Download Word Doc</a></td>
+						<td colspan="3" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/Contract_Labour_Central_Rules.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -178,8 +186,8 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/Equal_Remuneration_Act.doc" target="_blank">Download Word Doc</a></td>
+						<td colspan="3" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/Equal_Remuneration_Act.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -198,8 +206,8 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/EQUAL_REMUNERATION_RULES.doc" target="_blank">Download Word Doc</a></td>
+						<td colspan="3" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/THE_EQUAL_REMUNERATION_RULES.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -218,8 +226,8 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/The_FactoriesAct.doc" target="_blank">Download Word Doc</a></td>
+						<td colspan="3" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/The_FactoriesAct.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -238,10 +246,10 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/The_Punjab_Factory_Rule.doc" target="_blank">Download Word Doc</a></td>
+						<td colspan="3" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="#" target="_blank">Download Pdf</a></td>
+						<td width="165" align="left"><a href="labourActpdfdocs/The_Punjab_Factory_Rule.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
 					</tr>
 					<tr>
@@ -258,8 +266,8 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/ID_Act.doc" target="_blank">Download Word Doc</a></td>
+						<td colspan="3" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/ID_Act.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -278,8 +286,8 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/THE_INDUSTRIAL_DISPUTES_RULES.doc" target="_blank">Download Word Doc</a></td>
+						<td colspan="3" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/THE_INDUSTRIAL_DISPUTE_RULES.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -300,8 +308,10 @@ tr{
 						<td align="left">&nbsp;</td>
 						<td width="45" align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
 						<td width="65" align="left"><a href="highlights.php?l=industrial_emploment" target="_blank">Highlights</a></td>
-						<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/Industrial_Employment_Act.doc" target="_blank">Download Word Doc</a></td>
+						<td  align="right"></td>
+						<td width="165" align="left"></td>
+                        <td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
+						<td width="165" align="left"><a href="labourActpdfdocs/Industrial_Employment_Act.pdf" target="_blank">Download Pdf</a></td>
 						<td width="54" align="right"></td>
 						<td width="165" align="left">&nbsp;</td>
 						<td>&nbsp;</td>
@@ -320,8 +330,8 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/Industrial_Employment_Rules.doc" target="_blank">Download Word Doc</a></td>
+						<td colspan="3" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/Industrial_Employment_Rules.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -342,8 +352,8 @@ tr{
 						<td align="left">&nbsp;</td>
 						<td width="45" align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
 						<td width="65" align="left"><a href="highlights.php?l=interstate_migrant" target="_blank">Highlights</a></td>
-						<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/Inter_State_Migrant_Act.doc" target="_blank">Download Word Doc</a></td>
+						<td  align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/Inter_State_Migrant_Act.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -362,8 +372,8 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/Inter_State_Migrant_Rules.doc" target="_blank">Download Word Doc</a></td>
+						<td colspan="3" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/Inter_State_Migrant_Rules.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -382,8 +392,8 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/Maternity_Benefit_Act.doc" target="_blank">Download Word Doc</a></td>
+						<td colspan="3" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/Maternity_Benefit_Act.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -402,8 +412,8 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="#" target="_blank">Download Word Doc</a></td>
+						<td colspan="3" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/THE_HARYANA_MATERNITY_BENEFIT_RULES.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -422,8 +432,8 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/MATERNITY_BENEFIT_RULES.doc" target="_blank">Download Word Doc</a></td>
+						<td colspan="3" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/THE_MATERNITY_BENEFIT.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -442,8 +452,8 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/The_Minimum_Wages_Act.doc" target="_blank">Download Word Doc</a></td>
+						<td colspan="3" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/The_Minimum_Wages_Act.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -462,8 +472,8 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/The_Minimum_Wages_Rules.doc" target="_blank">Download Word Doc</a></td>
+						<td colspan="3" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/The_Minimum_Wages_Rules.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -484,8 +494,8 @@ tr{
 						<td align="left">&nbsp;</td>
 						<td width="45" align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
 						<td width="65" align="left"><a href="highlights.php?l=motor_transport" target="_blank">Highlights</a></td>
-						<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/Motor_Transport_Workers_Act.doc" target="_blank">Download Word Doc</a></td>
+						<td  align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/Motor_Transport_Workers_Act.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -504,8 +514,8 @@ tr{
 					</tr>
 					<tr>
 						<td align="left">&nbsp;</td>
-						<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-						<td width="165" align="left"><a href="labourActpdfdocs/THE_PUNJAB_MOTOR_TRANSPORT_WORKERS_RULES.doc" target="_blank">Download Word Doc</a></td>
+						<td colspan="3" align="right"></td>
+						<td width="165" align="left"></td>
 						<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 						<td width="165" align="left"><a href="labourActpdfdocs/THE_PUNJAB_MOTOR_TRANSPORT_WORKERS_RULES.pdf" target="_blank">Download Pdf</a></td>
 						<td>&nbsp;</td>
@@ -527,8 +537,8 @@ tr{
 							<td align="left">&nbsp;</td>
 							<td width="45" align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
 							<td width="65" align="left"><a href="highlights.php?l=payment_bonus" target="_blank">Highlights</a></td>
-							<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-							<td width="165" align="left"><a href="labourActpdfdocs/Payment_of_ Bonus_Act.doc" target="_blank">Download Word Doc</a></td>
+							<td  align="right"></td>
+							<td width="165" align="left"></td>
 							<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 							<td width="165" align="left"><a href="labourActpdfdocs/Payment_of_Bonus_Act.pdf" target="_blank">Download Pdf</a></td>
 							<td>&nbsp;</td>
@@ -547,8 +557,8 @@ tr{
 						</tr>
 						<tr>
 							<td align="left">&nbsp;</td>
-							<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-							<td width="165" align="left"><a href="labourActpdfdocs/Payment_of_Bonus_Rules.doc" target="_blank">Download Word Doc</a></td>
+							<td colspan="3" align="right"></td>
+							<td width="165" align="left"></td>
 							<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 							<td width="165" align="left"><a href="labourActpdfdocs/Payment_of_Bonus_Rules.pdf" target="_blank">Download Pdf</a></td>
 							<td>&nbsp;</td>
@@ -570,9 +580,10 @@ tr{
 								<td align="left">&nbsp;</td>
 								<td width="45" align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
 								<td width="65" align="left"><a href="highlights.php?l=payment_gratutity" target="_blank">Highlights</a></td>
-								<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/Payment_of_Gratuity_Act.doc" target="_blank">Download Word Doc</a></td>
-								<td width="54" align="right"></td>
+								<td  align="right"></td>
+								<td width="165" align="left"></td>
+                                <td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
+								<td width="165" align="left"><a href="labourActpdfdocs/Payment_of_Gratuity_Act.pdf" target="_blank">Download Pdf</a></td>
 								<td width="165" align="left">&nbsp;</td>
 								<td>&nbsp;</td>
 							</tr>
@@ -590,8 +601,8 @@ tr{
 							</tr>
 							<tr>
 								<td align="left">&nbsp;</td>
-								<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/Payment_of_Gratuity_Rules.doc" target="_blank">Download Word Doc</a></td>
+								<td colspan="3" align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/Payment_of_Gratuity_Rules.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
@@ -612,8 +623,8 @@ tr{
 								<td align="left">&nbsp;</td>
 								<td align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
 								<td align="left"><a href="highlights.php?l=payment_wages" target="_blank">Highlights</a></td>
-								<td width="111" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/Payment_of_Wages_Act.doc" target="_blank">Download Word Doc</a></td>
+								<td width="111" align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/Payment_of_Wages_Act.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
@@ -632,8 +643,8 @@ tr{
 							</tr>
 							<tr>
 								<td align="left">&nbsp;</td>
-								<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/Payment_of_Wages_Rules.doc" target="_blank">Download Word Doc</a></td>
+								<td colspan="3" align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/Payment_of_Wages_Rules.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
@@ -654,8 +665,8 @@ tr{
 								<td align="left">&nbsp;</td>
 								<td align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
 								<td align="left"><a href="highlights.php?l=highlights" target="_blank">Highlights</a></td>
-								<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/THE PUNJAB INDUSTRIAL ESTABLISHMENTS.doc" target="_blank">Download Word Doc</a></td>
+								<td  align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/THE PUNJAB INDUSTRIAL ESTABLISHMENTS.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
@@ -676,8 +687,8 @@ tr{
 								<td align="left">&nbsp;</td>
 								<td align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
 								<td align="left"><a href="highlights.php?l=highlight" target="_blank">Highlights</a></td>
-								<td width="111" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/The_Punjab_Labour_Welfare_Fund_Act.doc" target="_blank">Download Word Doc</a></td>
+								<td width="111" align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/Punjab_Labour_Welfar_Fund_Act.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
@@ -696,8 +707,8 @@ tr{
 							</tr>
 							<tr>
 								<td align="left">&nbsp;</td>
-								<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/The_Punjab_Labour_Welfare_Fund_Rules.doc" target="_blank">Download Word Doc</a></td>
+								<td colspan="3" align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/Punjab_Labour_Welfare_Fund_Rules.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
@@ -718,8 +729,10 @@ tr{
 								<td align="left">&nbsp;</td>
 								<td width="45" align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
 								<td width="65" align="left"><a href="highlights.php?l=punjab_shops" target="_blank">Highlights</a></td>
-								<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/The_Punjab_Shops_and_Commercial_Establishments_Act_and_Rules.doc" target="_blank">Download Word Doc</a></td>
+                                <td width="111" align="right"></td>
+								<td width="165" align="left"></td>
+								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
+								<td width="165" align="left"><a href="labourActpdfdocs/The_Punjab_Shops_and_Commercial_Establishments_Act_and_Rules.pdf" target="_blank">Download Pdf</a></td>
 								<td width="54" align="right"></td>
 								<td width="165" align="left"></td>
 								<td>&nbsp;</td>
@@ -738,8 +751,8 @@ tr{
 							</tr>
 							<tr>
 								<td align="left">&nbsp;</td>
-								<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/sales_promotion_Act.doc" target="_blank">Download Word Doc</a></td>
+								<td colspan="3" align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/sales_promotion_Act.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
@@ -758,8 +771,8 @@ tr{
 							</tr>
 							<tr>
 								<td align="left">&nbsp;</td>
-								<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/sales_promotion_Rules.doc" target="_blank">Download Word Doc</a></td>
+								<td colspan="3" align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/sales_promotion_Rules.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
@@ -778,8 +791,8 @@ tr{
 							</tr>
 							<tr>
 								<td align="left">&nbsp;</td>
-								<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/Cess_Act.doc" target="_blank">Download Word Doc</a></td>
+								<td colspan="3" align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/Cess_Act.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
@@ -798,10 +811,10 @@ tr{
 							</tr>
 							<tr>
 								<td align="left">&nbsp;</td>
-								<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/Cess_Rules.doc" target="_blank">Download Word Doc</a></td>
+								<td colspan="3" align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="#" target="_blank">Download Pdf</a></td>
+								<td width="165" align="left"><a href="labourActpdfdocs/Cess_Rules.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
 							</tr>
 							<tr>
@@ -818,8 +831,8 @@ tr{
 							</tr>
 							<tr>
 								<td align="left">&nbsp;</td>
-								<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/BOCW_Act.doc" target="_blank">Download Word Doc</a></td>
+								<td colspan="3" align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/BOCW_Act.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
@@ -838,8 +851,8 @@ tr{
 							</tr>
 							<tr>
 								<td align="left">&nbsp;</td>
-								<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="#" target="_blank">Download Word Doc</a></td>
+								<td colspan="3" align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/HBOCW_Rules.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
@@ -858,8 +871,8 @@ tr{
 							</tr>
 							<tr>
 								<td align="left">&nbsp;</td>
-								<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/Employees_State_Insurance_Act.doc" target="_blank">Download Word Doc</a></td>
+								<td colspan="3" align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/Employees_State_Insurance_Act.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
@@ -879,8 +892,8 @@ tr{
 							
 							<tr>
 								<td align="left">&nbsp;</td>
-								<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/Employees_State_Insurance_Rules.doc" target="_blank">Download Word Doc</a></td>
+								<td colspan="3" align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/Employees_State_Insurance_Rules.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
@@ -902,10 +915,10 @@ tr{
 								<td align="left">&nbsp;</td>
 								<td align="right"><img src="images/highlights.png" alt="highlights" border="0" width="30" height="25"/></td>
 								<td align="left"><a href="highlights.php?l=trade_union" target="_blank">Highlights</a></td>
-								<td width="111" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="#" target="_blank">Download Word Doc</a></td>
-								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="#" target="_blank">Download Pdf</a></td>
+								<td width="111" align="right"></td>
+								<td width="165" align="left"></td>
+								<td width="54" align="right"></td>
+								<td width="165" align="left"></td>
 								<td>&nbsp;</td>
 							</tr>
 							<tr>
@@ -925,8 +938,8 @@ tr{
 								<td align="left">&nbsp;</td>
 								<td width="45" align="right"></td>
 								<td width="65" align="left"><a href=""></a></td>
-								<td  align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/Workmen_Compensation_Act.doc" target="_blank">Download Word Doc</a></td>
+								<td  align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/Workmen_Compensation_Act.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
@@ -945,10 +958,12 @@ tr{
 							</tr>
 							<tr>
 								<td align="left">&nbsp;</td>
-								<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/Workmen_Compensation_Rules.doc" target="_blank">Download Word Doc</a></td>
-								<td width="54" align="right"></td>
-								<td width="165" align="left">&nbsp;</td>
+								<td width="45" align="right"></td>
+								<td width="65" align="left"></td>
+								<td  align="right"></td> 
+								<td width="165" align="left"></td>
+								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
+								<td width="165" align="left"><a href="labourActpdfdocs/Workmen_Compensation_Rules.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
 							</tr>
 							<tr>
@@ -966,8 +981,8 @@ tr{
 							</tr>
 							<tr>
 								<td align="left">&nbsp;</td>
-								<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/working_newspaper_empemployees_Act.doc" target="_blank">Download Word Doc</a></td>
+								<td colspan="3" align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/working_journalists_newspaper_empemployees.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>
@@ -986,8 +1001,8 @@ tr{
 							</tr>
 							<tr>
 								<td align="left">&nbsp;</td>
-								<td colspan="3" align="right"><img src="images/word.png" alt="Download Word" border="0" width="30" height="25"/></td>
-								<td width="165" align="left"><a href="labourActpdfdocs/working_journalists_newspaper_empemployees_Rules.doc" target="_blank">Download Word Doc</a></td>
+								<td colspan="3" align="right"></td>
+								<td width="165" align="left"></td>
 								<td width="54" align="right"><img src="images/pdf.png" alt="Download Pdf" border="0" width="30" height="25"/></td>
 								<td width="165" align="left"><a href="labourActpdfdocs/working_journalists_newspaper_empemployees_Rules.pdf" target="_blank">Download Pdf</a></td>
 								<td>&nbsp;</td>

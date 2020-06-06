@@ -15,7 +15,8 @@
 	<br>
     <br>
 		<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
-<div class="note" style="clear:both">Please go through the following information, tick the checkbox at the bottom of the page and click submit to continue to the Registration page.</div>
+		<b class="login-box-msg"style= "background:#314152; color:#ffffff;width:74%;font-size:25px;font-weight:300;padding:7px;"> Please go to Invest Haryana Portal of <a style="color:#FF8C00;" href="https://investharyana.in/#/" target="_blank">Haryana Enterprise Promotion Centre.</a></b>
+<div class="note" style="clear:both;font-size:20px;font-weight:200;">Please go through the following information  <a href="https://hrylabour.gov.in/factory/factory/factory_terms" target="_blank">     Click Here  </a></div>
     <h2 class="blu" style="font-size:20px; font-weight:700; padding:7px;color:#069;">Overview</h2> 
     <p>This section provides online services to users who are covered under Factories Act, 1948 and related services. This section is to be used for registration, licensing, renewal, submission of annual returns and viewing of inspection report for following Acts:</p>
     <ul style="margin-left:30px; padding:10px;">
@@ -47,7 +48,10 @@
         <li style="list-style:disc !important;"><b>Online License / Certificate Generation:</b> After successful application processing, online certificate / license containing a 16 digit number will be generated. User can download the document and start using.</li>
         <li style="list-style:disc !important;"><b>License / Certificate Verification from 3rd party:</b> User can get their certificate / license verified from 3rd party through 16 digit number provided on the document generated online.</li>
     </ul>
-   
+	<br>	
+<div class="note" style="clear:both;margin-left:40px;font-size:30px;font-weight:600;">For Registration<a href="https://hrylabour.gov.in/factory/factory/searchFactory" target="_blank">     Click Here  </a></div>
+<br>
+
  <h1 style="text-align:center; width:100%; margin:14px 0 30px; border-bottom:1px dashed #ccc; font-size:25px; font-weight:bold;">Modules</h1>
 </div>
 <style>
