@@ -12,6 +12,10 @@ text-align:justify;
 table tr .cen {
 	text-align:center;
 }
+.end tr td,th{
+	padding:6px
+}
+
 </style>
 <?php include("HEAD.PHP"); ?>
 <body>
@@ -33,7 +37,7 @@ table tr .cen {
 	<p style="font-weight:400; font-size:20px; text-align:justify; padding:10px;">The Water (Prevention and Control of Pollution) Act was enacted in 1974 to provide for the prevention and control of water pollution, and for the maintaining or restoring of wholesomeness of water in the country. The Act was amended in 1988. The Water (Prevention and Control of Pollution) Cess Act was enacted in 1977, to provide for the levy and collection of a cess on water consumed by persons operating and carrying on certain types of industrial activities. This cess is collected with a view to augment the resources of the Central Board and the State Boards for the prevention and control of water pollution constituted under the Water (Prevention and Control of Pollution) Act, 1974. The Act was last amended in 2003.</p>
 	<br>
 
-    <table id="sailorTable" class="table table-striped table-bordered mt-0" width="100%">
+    <table  class ="end"  width="100%">
 							<thead>
 							<tr>
 								<th width="2%">

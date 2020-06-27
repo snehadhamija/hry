@@ -1,62 +1,51 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="css/main.css" rel="stylesheet" type="text/css" />
 <style>
+body {font-family: Arial;}
 
-
-
-
-/* Full-width input fields */
-input[type=text], input[type=password], input[type=number]{
-  width: 100%;
-  padding: 15px;
-  margin: 5px 0 22px 0;
-  display: inline-block;
-  border: none;
-  background: #f1f1f1;
-}
-
-input[type=text]:focus, input[type=password]:focus, input[type=number]:focus{
-  background-color: #ddd;
-  outline: none;
-}
-
-/* Overwrite default styles of hr */
-hr {
-  border: 1px solid #f1f1f1;
-  margin-bottom: 25px;
-}
-
-/* Set a style for the submit button */
-.registerbtn {
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
   background-color: #464b64;
-  color: white;
-  padding: 16px 20px;
-  margin: 8px 0;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color:#464b64;
+  float: left;
+    color: white;
   border: none;
+  outline: none;
   cursor: pointer;
-  width: 100%;
-  opacity: 0.9;
-  font-size:25px;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+  font-color:#ffffff;
 }
 
-.registerbtn:hover {
-  opacity: 1;
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #314152;
 }
 
-/* Add a blue text color to links */
-a {
-  color: dodgerblue;
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #314152;
 }
 
-/* Set a grey background color and center the text of the "sign in" section */
-.signin {
-  background-color: #f1f1f1;
-  text-align: center;
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+.input111 {
+height:0px;
+width:0px;
+display:inline;	
 }
 </style>
-</head>
 <?php include("HEAD.PHP"); ?>
 <body>
 	<!-- header-section-starts -->  
@@ -72,32 +61,42 @@ a {
 	<br>
 
 <a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
-<form action="/action_page.php">
-  <div class="container">
-
-    <h1 style="text-align:center; font-weight:600; font-size:50px;">Register</h1>
+<h1 style="text-align:center; font-weight:600; font-size:50px;">Register</h1>
     <p style="text-align:center; font-weight:600;">Please fill in this form to create an account.</p>
     <hr>
-<label for="Company Name"><b style="font-size:22px;font-weight:700;">Company Name</b></label>
-    <input type="text"style="font-size:17px;" placeholder="Enter Company Name" name="Company Name" required>
-    <label for="Name" ><b style="font-size:22px;font-weight:700;">Name</b></label>
-    <input type="text" style="font-size:17px;" placeholder="Enter Name" name="Name" required>
-
-    <label for="Email"><b style="font-size:22px;font-weight:700;">E-mail</b></label>
-    <input type="text" style="font-size:17px;" placeholder="Enter Email" name="Email" required>
-<label for="Company Contact"><b style="font-size:25px; font-weight:600;">Telephone No</b></label> &nbsp &nbsp
-    <input type="number" style="font-size:17px; width:150px;" placeholder="Code" name="Company Contact">&nbsp &nbsp
-	
-    <input type="number" style="font-size:17px;  width:400px;" placeholder="Number" name="Company Contact">
-	<br>
-    <label for="Contact Person"><b style="font-size:25px; font-weight:600;">Contact Person </b></label>
-    <input type="number" style="font-size:17px;" placeholder="Contact Person" name=" Contact Person" required><br>
-	
-    <hr>
+<form class="contact100-form validate-form">
+    
+	<div class="wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Company</span>
+					<input class="input100" type="text" name="Company Name" placeholder="Enter Company Name">
+					<span class="focus-input100"></span>
+				</div>
+<div class="wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Email</span>
+					<input class="input100" type="text" name="email" placeholder="Enter E-mail">
+					<span class="focus-input100"></span>
+				</div>
+   <div class="wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Telephone No</span>
+					<input class="input100" type="Number" name="Company Name" placeholder="Enter Tel. No">
+					<span class="focus-input100"></span>
+				</div>
+<div class="wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Contact Person</span>
+					<input class="input100" type="text" name="contact person" placeholder="Enter Contact Person">
+					<span class="focus-input100"></span>
+				</div>
+    
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
 
-    <button type="submit" class="registerbtn">Register</button>
-  </div>
+    <div class="container-contact100-form-btn">
+					<button class="contact100-form-btn">
+						<span>
+							Submit
+							<i class="fa fa-long-arrow-right m-l-7" aria-hidden="true"></i>
+						</span>
+					</button>
+				</div>
   
  <!-- <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
@@ -107,3 +106,11 @@ a {
 <div class="clearfix"> </div>
 	<!--/footer-->
 	<?php include("footer.php"); ?>
+<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/select2/select2.min.js"></script>
+	<script src="js/main.js"></script>
+
+
+	<script type="text/javascript" src="js/main.js"></script>

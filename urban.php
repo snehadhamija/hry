@@ -5,6 +5,10 @@ table, th, td {
 tr{
   text-indent: 25px;
 }
+.end tr td,th{
+	padding:6px
+}
+
 
 </style>
 <?php include("HEAD.PHP"); ?>
@@ -22,7 +26,7 @@ tr{
 	<br>
 	<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
 	<center>	  <h3 align="center"><b>List Of Urban Areas Notified Under Section 7a Of Act Of 1975 Alongwith Land Schedule</b></p></center>
-<table >
+<table class="end" >
   
   <tr style=" background: #efefef none repeat scroll 0 0;    color: #3e4349;    font-size: 14px;">
     <td width="7%" height="19"><b><font family=""Open+Sans",sans-serif" color="#000000">Sr. No.</font></b></td>

@@ -1,0 +1,17 @@
+<html>
+<?php //include("api.php"); ?>
+<?php include("HEAD.PHP"); ?>
+<body>
+	<!-- header-section-starts -->  
+     <?php include("top-nav.php"); ?>
+		
+	<div class="full">
+    <div class="col-md-4 top-nav" style="position:relative; background: #464B64;">
+			<?php include("left-nav.php"); ?>
+		<!--banner-section-->
+	<div class="col-md-8 main"><br>
+	<br>
+<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>   <h1 style="text-align: center;" ><span style="color: #ff0000;">TRADEMARK REGISTRATION</span></h1> <p style="text-align: center;" align="left"><span style="color: #ff0000;"><br /></span></p> <p align="left">A trademark is a visual representation attached to goods for the purpose of indicating their trade origin. Trademark as a mark capable of distinguishing the goods or services of one person from those of others.</p> <p align="left">&nbsp;<strong>A trademark serves the purpose of identifying the source of origin of goods and services. Trade mark perform the following functions:</strong></p> <ul class="abc"> <li>It identifies the product and its origin. For example the trademark &lsquo;Brooke Bond&rsquo; identifies tea originating from the company manufacturing tea and marketing it under the mark</li> <li>It guarantees its quality. The quality of tea sold in the packs marked&nbsp; &lsquo;Brooke Bond&rsquo; tea would be similar but different from tea labeled with mark &lsquo;Taj Mahal&rsquo;</li> <li>It advertises the product</li> <li>It creates an image of the product in the mind of the public particularly consumers or the prospective consumers of the goods/services&nbsp;</li> </ul> <p align="left"><strong>To protect the registered trademark, the following remedies can be resorted:</strong></p> <ul class="abc"> <li><strong>Civil Remedies</strong>&nbsp;<strong>:</strong>&nbsp;When instance of infringement and passing off occur, the court of competent jurisdiction can be moved for grant of interlocutory injunction, damages and account of profits</li> <li><strong>Criminal proceedings&nbsp;:</strong>&nbsp;Complaints may be made against the person causing infringement</li> </ul> <p><strong>Administrative Remedies</strong>- Opposing the registration of a deceptively similar trademark when the Trade Mark Registry is in the process of considering the grant of a trademark, can protect the trademark. The Registrar can also be moved for removal of a deceptively similar trademark, If registered.</p> <p>&nbsp;</p> <p><span style="color: #ff0000;"><strong>Contact Us:</strong></span></p> <p align="left"><strong><span style="text-decoration: underline;">K.Behari &amp; Associates<br /> </span></strong><strong>Kunj Behari Mahipal<br /> Shekhar Mahipal<br /> </strong>(Project Consultants)<br /> <strong>CA.Anand Mahipal<br /> </strong>(Chartered Accountants)</p> <p align="left"><strong><em><span style="text-decoration: underline;">Address:</span></em></strong><span style="text-decoration: underline;">&nbsp;</span>&ldquo;DGM Building&rdquo;<br /> Old Court Road, Near Railway Crossing<br /> SIRSA-125055 (HARYANA) INDIA</p> <p align="left"><strong><em>Contact Numbers:<br /> </em></strong>Phone: +91(1666)232543, 234565<br /> Mobile: +91-9416-351-167, 9050-902-425</p> <p><strong><em>Emails:</em></strong><br /> kbaconsultants@hotmail.com<br /> ca.anand@hotmail.com<br /> shekhar_aggarwal@hotmail.com</p><br />   
+	<div class="clearfix"> </div>
+	<!--/footer-->
+	<?php include("footer.php"); ?>

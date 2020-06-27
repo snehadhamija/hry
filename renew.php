@@ -12,6 +12,10 @@ text-align:justify;
 table tr .cen {
 	text-align:center;
 }
+.end tr td,th{
+	padding:6px
+}
+
 </style>
 <?php include("HEAD.PHP"); ?>
 <body>
@@ -27,10 +31,10 @@ table tr .cen {
 	<br>
     <br>
 			<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
-    <center><h1><u><b>Procedure for Obtaining Consent to Operate</b></u></h1></center>
+    <center><h1><u><a href="step_by_step/Procedure%20for%20Obtaining%20Consent%20to%20Operate%201.pdf" target="_blank"><b>Procedure for Obtaining Consent to Operate</b></a></u></h1></center>
 	<br>
 	<br>
-		<table id="sailorTable" class="table table-striped table-bordered mt-0" width="100%">
+		<table class="end" width="100%">
 							<thead>
 							<tr>	
 								<th width="2%">

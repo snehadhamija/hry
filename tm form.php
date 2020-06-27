@@ -6,6 +6,9 @@ tr{
   text-indent: 2px;
   font-size: 15px;
 }
+.end tr td,th{
+	padding:6px
+}
 
 </style>
 <?php include("HEAD.PHP"); ?>
@@ -18,7 +21,7 @@ tr{
 			<?php include("left-nav.php"); ?>
 		
 
-    <div class="col-md-8 main">
+    <div class="col-md-8 main"><br>	<b style-="font-size:25px">Trade Marks=>Trade Marks Form & Fees </b>
 	<br>
 	<br>
 	<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
@@ -26,7 +29,7 @@ tr{
 	<b><center><h2 style="font-weight:500;">First Schedule:- Trade Mark Rules 2017</h2></center></b>
 	<br>
 	<br>
-<table class="tableData responsiveTable" border="0" summary="Form" width="100%" cellspacing="0" cellpadding="0">
+<table class="end" border="0" summary="Form" width="100%" cellspacing="0" cellpadding="0">
 <thead align="center">
 <tr>
 <th align="left" valign="top"><strong>Entry No</strong></th>

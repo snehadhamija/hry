@@ -3,9 +3,10 @@
   border: 3px  solid silver;
   padding:10px !important;
 }
-tr{
- 
+.end tr td,th{
+	padding:6px
 }
+
 
 </style>
 <?php include("HEAD.PHP"); ?>
@@ -18,18 +19,18 @@ tr{
 			<?php include("left-nav.php"); ?>
 		
 
-    <div class="col-md-8 main">
+    <div class="col-md-8 main" style="color:Tomato;">
 	<br>
 	<br>
-			<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
 
-   <div style="text-align: right;"> <h3>Annexure-I</h3></div>
+		<div style="text-align: right; margin-right:15px;"> <h4><a href="index.php">Go Back</a></h4></div>
+   <div style="text-align: right; margin-right:15px;"> <h3>Annexure-I</h3></div>
    <div>
-	<b><u><h1 style="text-align:center;">List of Red Category of Industrial Sectors/Projects</h1></b></u></div>
+	<b><u><h1 style="text-align:center;"><a href="step_by_step/Annexure.pdf" target="_blank">List of Red Category of Industrial Sectors/Projects</a></h1></b></u></div>
 	<br>
 	<br>
 
-			<table width="80%"style="margin-left:100px;" class="tab-style" ><tr><td>Sr.
+			<table class="end"width="80%"style="margin-left:100px;" class="tab-style" ><tr><td>Sr.
 No.</td><td>Industrial Sector/Project</td></tr>
 <tr><td>1</td><td>Isolated   storage   of   hazardous   chemicals   (as   per   schedule   of manufacturing,   storage   of   hazardous   chemicals   rules   ,1989   as
 amended)</td></tr>
@@ -121,6 +122,8 @@ solvent/acid recovery plant, MSW sanitary land fill site</td></tr>
 wastes</td></tr>
 <tr><td>77</td><td>Recycling of used lead acid batteries</td></tr>
 </table>
+<br>
+<br>
 <div class="clearfix"> </div>
 	<!--/footer-->
 	<?php include("footer.php"); ?>

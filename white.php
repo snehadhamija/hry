@@ -3,9 +3,10 @@
   border: 3px  solid silver;
   padding:10px !important;
 }
-tr{
- 
+.end tr td,th{
+	padding:6px
 }
+
 
 </style>
 <?php include("HEAD.PHP"); ?>
@@ -25,13 +26,13 @@ tr{
    <div style="text-align: right;"> <h4><a href="indix.php">Go Back</a></h4></div>
    <div style="text-align: right;"> <h3>Annexure-IV</h3></div>
    <div>
-	<b><u><h1 style="text-align:center;">List of White Category of Industrial Sectors/Projects</h1></b></u></div>
+	<b><u><h1 style="text-align:center;"><a href="step_by_step/white.pdf" target="_blank">List of White Category of Industrial Sectors/Projects</a></h1></b></u></div>
 	<br>
 	<br>
 
-			<table width="80%"style="margin-left:100px;" class="tab-style" >
-            <tr><th>Sr.
-No.</th><th>Industrial Sector/Project</th></tr>
+			<table class="end" width="80%"style="margin-left:100px;" class="tab-style" >
+            <tr><td>Sr.
+No.</td><td>Industrial Sector/Project</td></tr>
 <tr><td>1</td><td>Assembly of air coolers /conditioners ,repairing and servicing</td></tr>
 <tr><td>2</td><td>Assembly of bicycles ,baby carriages and other small non motorizing vehicles</td></tr>
 <tr><td>3</td><td>Bailing (hydraulic press)of waste papers</td></tr>
