@@ -3,15 +3,12 @@ table, th, td {
   border: 3px  solid silver;
 }
 tr{
-  text-indent: 2px;
+  text-indent: 25px;
 }
 .end tr td,th{
 	padding:6px
 }
 
-.end tr td,th{
-	padding:6px
-}
 
 </style>
 <?php include("HEAD.PHP"); ?>

@@ -31,7 +31,7 @@ table tr  {
 	<br>
     <br>
 			<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
-    <center><h1><u><b>Procedure for Obtaining Consent to Establish</b></u></h1></center>
+    <center><h1><u><a href="step_by_step/Procedure%20for%20Obtaining%20Consent%20to%20Establish.pdf"  target="_blank"><b>Procedure for Obtaining Consent to Establish</a></b></u></h1></center>
 	<br>
 	<br>
 <table class="end" width="100%">

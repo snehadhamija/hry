@@ -25,13 +25,13 @@
 <div style="text-align: right; margin-right:15px;"> <h4><a href="index.php">Go Back</a></h4></div>
    <div style="text-align: right;"> <h3>Annexure-II</h3></div>
    <div>
-	<b><u><h1 style="text-align:center;">List of Orange Category of Industrial Sectors/Projects</h1></b></u></div>
+	<b><u><h1 style="text-align:center;"><a href="step_by_step/List%20of%20Orange%20Category%20of%20Industrial%20Sectors.pdf" target="_blank">List of Orange Category of Industrial Sectors/Projects</a></h1></b></u></div>
 	<br>
 	<br>
 
 			<table class="end" width="80%"style="margin-left:100px;" class="tab-style" >
-            <tr><th>Sr.
-No.</th><th>Industrial Sector/Project</th></tr>
+            <tr><td>Sr.
+No.</td><td>Industrial Sector/Project</td></tr>
 <tr><td>1</td><td>Dismantling of rolling stocks ( wagons/ coaches)</td></tr>
 <tr><td>2</td><td>Bakery and confectionery units with production capacity > 1 TPD. ( With ovens / furnaces)</td></tr>
 <tr><td>3</td><td>Chanachur and ladoo from puffed and beaten rice( muri and shira) using husk fired oven</td></tr>
