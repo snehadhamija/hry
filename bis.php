@@ -16,8 +16,9 @@
 		   <h3 class="tittle"></h3>
 			<div class="banner">
 			<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
-            <h2 align="center"><a href="https://haryanaindustries.gov.in/themes/backend/uploads/pdf/Haryana%20Book_Final1.pdf" target="_blank">Haryana Enterprises Promotion Policy 2015 - DOWNLOAD</a></h2>
+			  <center><h1>BUREAU OF INDIAN STANDARDS</h1></center>
 
+          <h4><a href="https://www.manakonline.in/MANAK/login" target="_blank">Click here apply online </a></h4>
 		 <div class="clearfix"> </div>
 			   
 			 </div>

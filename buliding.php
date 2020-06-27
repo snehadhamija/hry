@@ -16,7 +16,7 @@
 		   <h3 class="tittle"></h3>
 			<div class="banner">
 			<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
-            <h2 align="center"><a href="https://haryanaindustries.gov.in/themes/backend/uploads/pdf/Haryana%20Book_Final1.pdf" target="_blank">Haryana Enterprises Promotion Policy 2015 - DOWNLOAD</a></h2>
+         <center>   <h2><a href="https://www.wipo.int/edocs/mdocs/sme/en/wipo_smes_co_11/wipo_smes_co_11_ref_theme_16_02.pdf" target="_blank">Building Awareness on Intellectual Property Rights</a></h2></center>
 
 		 <div class="clearfix"> </div>
 			   

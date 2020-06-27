@@ -1,3 +1,4 @@
+
 	<!DOCTYPE HTML>
 <html>
 <?php //include("api.php"); ?>
@@ -16,7 +17,8 @@
 		   <h3 class="tittle"></h3>
 			<div class="banner">
 			<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
-            <h2 align="center"><a href="https://haryanaindustries.gov.in/themes/backend/uploads/pdf/Haryana%20Book_Final1.pdf" target="_blank">Haryana Enterprises Promotion Policy 2015 - DOWNLOAD</a></h2>
+            <h2 align="center"><a href="https://haryanafood.gov.in/Uploads/procedure%20and%20free%20stucture.pdf" target="_blank">EAPPLICATION FORM FOR NEW BRICK KILN LICENCE
+</a></h2>
 
 		 <div class="clearfix"> </div>
 			   

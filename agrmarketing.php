@@ -16,7 +16,9 @@
 		   <h3 class="tittle"></h3>
 			<div class="banner">
 			<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
-            <h2 align="center"><a href="https://haryanaindustries.gov.in/themes/backend/uploads/pdf/Haryana%20Book_Final1.pdf" target="_blank">Haryana Enterprises Promotion Policy 2015 - DOWNLOAD</a></h2>
+			<h1> New Agricultural Marketing Infrastructure(AMI) sub- scheme of Integrated Scheme for Agricultural Marketing (ISAM) - Operational Guidelines</h1>
+			<br>
+            <h2><a href="https://www.nabard.org/auth/writereaddata/tender/1412180913Cir_283_E%20.pdf" target="_blank">New Agricultural Marketing Infrastructure(AMI) sub- scheme of Integrated Scheme for Agricultural Marketing (ISAM) - Operational Guidelines</a></h2>
 
 		 <div class="clearfix"> </div>
 			   

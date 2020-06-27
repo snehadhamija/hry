@@ -50,7 +50,7 @@
                               <li class="d-flex"><i style="font-size:24px" class="fa">&#xf095;</i>
 <span class="time ml-auto">01666-232543, 234565</span></li>
                               <li class="d-flex"><i style="font-size:24px" class="fa">&#xf0e0;</i> <span class="time ml-auto">kboffice.india@gmail.com</span></li>
-                              <li class="d-flex"><i style="font-size:24px" class="fa fa-clock-o" aria-hidden="true"></i> <span class="time ml-auto">9 AM - 7 PM</span></li>
+                              <li class="d-flex"><i style="font-size:24px" class="fa fa-clock-o" aria-hidden="true"></i> <span class="time ml-auto">10 AM - 6 PM</span></li>
                            </ul>
                         </div>
                      </div>
@@ -64,7 +64,7 @@
       </footer>
   <div class="clearfix"> </div>
 <div class="copy">
-		    <p>&copy; 2020 HaryanaIndustries.com | All Rights Reserved | Developed by <a href="#">DGLok IT Solutions Pvt. Ltd.</a></p>
+		    <p>&copy; 2020 HaryanaIndustries.com | All Rights Reserved | Developed by <a href="#">DGM Technology Pvt. Ltd.</a></p>
 </div>
 <div class="clearfix"> </div>
 </div>

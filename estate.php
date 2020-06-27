@@ -16,7 +16,9 @@
 		   <h3 class="tittle"></h3>
 			<div class="banner">
 			<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
-            <h2 align="center"><a href="https://haryanaindustries.gov.in/themes/backend/uploads/pdf/Haryana%20Book_Final1.pdf" target="_blank">Haryana Enterprises Promotion Policy 2015 - DOWNLOAD</a></h2>
+            <h2 align="center"><a href="http://hsiidc.org.in/sites/default/files/media/E%20Documents/EMP-2015%20Amended.pdf" target="_blank">Estate Management Procedures
+(EMP) – 2015
+</a></h2>
 
 		 <div class="clearfix"> </div>
 			   
