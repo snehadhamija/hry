@@ -343,7 +343,7 @@ h4, .h4 {
 }
 
 h5, .h5 {
-  font-size: 1.25rem;
+  font-size: 1.3em;
 }
 
 h6, .h6 {
@@ -553,13 +553,7 @@ pre code {
 }
 
 .row {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  margin-right: -15px;
-  margin-left: -15px;
 }
 
 .no-gutters {
@@ -579,11 +573,7 @@ pre code {
 .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg,
 .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl,
 .col-xl-auto {
-  position: relative;
-  width: 100%;
-  min-height: 1px;
-  padding-right: 15px;
-  padding-left: 15px;
+
 }
 
 .col {
@@ -1057,10 +1047,7 @@ pre code {
     max-width: 25%;
   }
   .col-md-4 {
-    -webkit-box-flex: 0;
-    -ms-flex: 0 0 33.333333%;
-    flex: 0 0 33.333333%;
-    max-width: 33.333333%;
+   
   }
   .col-md-5 {
     -webkit-box-flex: 0;
@@ -1081,10 +1068,7 @@ pre code {
     max-width: 58.333333%;
   }
   .col-md-8 {
-    -webkit-box-flex: 0;
-    -ms-flex: 0 0 66.666667%;
-    flex: 0 0 66.666667%;
-    max-width: 66.666667%;
+   
   }
   .col-md-9 {
     -webkit-box-flex: 0;
@@ -1285,7 +1269,7 @@ pre code {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 66.666667%;
     flex: 0 0 66.666667%;
-    max-width: 66.666667%;
+
   }
   .col-lg-9 {
     -webkit-box-flex: 0;
@@ -5104,9 +5088,7 @@ tbody.collapse.show {
 }
 
 .media {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+
   -webkit-box-align: start;
   -ms-flex-align: start;
   align-items: flex-start;
