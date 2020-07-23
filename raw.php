@@ -1,29 +1,42 @@
 <style>
+.lists li{
+	    list-style-type: circle;
+}
 table, th, td {
-  border: none;
+  border: 3px  solid silver;
 }
 tr{
   text-indent: 5px;
 }
-.end tr td,th{
-	padding:6px
+.end tr td,th,table{ font-weight:600;
+	padding:6px;
+	 margin-left:auto; 
+    margin-right:auto;
+}
+th {
+  text-align: center;
+  color:red;
+  font-weight:600;
+  font-size:18px;
 }
 
-
 </style>
-<?php include("HEAD.PHP"); ?>
-<body>
-	<!-- header-section-starts -->  
-     <?php include("top-nav.php"); ?>
+<?php include("head.php"); ?>
+
+<?php include("top-nav.php"); ?>
+	<!-- banner -->
+	
+		<!-- Indicators -->
 		
-	<div class="full">
-    <div class="col-md-4 top-nav" style="position:relative;background: #464b64;">
-			<?php include("left-nav.php"); ?>
+	<!--//banner -->
+
+  
+  <div class="demo" class="column">
+   <span class="menu"> </span>
+<?php include("left-nav.php"); ?><div style="padding:40px">
+
 		
 
-    <div class="col-md-8 main"><br><b style-="font-size:20px">Central Schemes=>Raw Material Assistance </b>
-	<br>
-	<br>
 
   <h1 align="center"> Raw Material Assistance</h1>
 

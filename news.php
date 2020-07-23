@@ -1,69 +1,68 @@
-</div>
-<div class="banner-right-text">
-			 <h3 class="tittle">Consultant  <i class="glyphicon glyphicon-facetime-video"></i></h3>
-			<!--/general-news-->
-			 <div class="general-news">
-				<div class="general-inner">
-					<div class="general-text">
-						    <h5 class="top"><a href="#">Services</a></h5>
-					 </div>
-					 <div class="edit-pics">
-							      <div class="editor-pics">
-										 <div class="col-md-3 item-pic">
-										   <img src="images/f4.jpg" class="img-responsive" alt="">
+<div class="aboutf">
+		<div class="container">
+			<h3 class="tittlef-agileits-w3layouts">Top most popular courses</h3>
+			<p class="paragraphf">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis tristique est, et egestas odio. Mauris ac tristique
+				arcu, sed interdum risus.Integer quis tristique est, et egestas odio. Mauris ac tristique arcu, sed interdum risus.</p>
+		</div>
+	</div>
+	<!-- //about-->
+	
 
-										   </div>
-											<div class="col-md-9 item-details">
-												<h5 class="inner two"><a href="#">Find New Machinery</a></h5>
-											 </div>
-											<div class="clearfix"></div>
-										</div>
-										<div class="editor-pics">
-										 <div class="col-md-3 item-pic">
-										   <img src="images/f1.jpg" class="img-responsive" alt="">
-
-										   </div>
-											<div class="col-md-9 item-details">
-												<h5 class="inner two"><a href="#">Find Old Machinery</a></h5>
-											 </div>
-											<div class="clearfix"></div>
-										</div>
-										<div class="editor-pics">
-										 <div class="col-md-3 item-pic">
-										   <img src="images/f1.jpg" class="img-responsive" alt="">
-
-										   </div>
-											<div class="col-md-9 item-details">
-												<h5 class="inner two"><a href="#">Find Employer</a></h5>
-											 </div>
-											<div class="clearfix"></div>
-										</div>
-										<div class="editor-pics">
-										 <div class="col-md-3 item-pic">
-										   <img src="images/f4.jpg" class="img-responsive" alt="">
-
-										   </div>
-											<div class="col-md-9 item-details">
-												<h5 class="inner two"><a href="#">Find Employee </a></h5>
-											 </div>
-											<div class="clearfix"></div>
-										</div>
+	<!-- Reviews -->
+	<div class="reviewf-main">
+		<div class="container">
+			<h3 class="tittlef-agileits-w3layouts">What's New</h3>
+			<!-- reviewsf-left -->
+			<div class="col-md-6 reviewsf-left">
+				<div class="reviewsf-left">
+					<div class="news-grids-bottom">
+						<!-- cycler -->
+						<div id="design" class="date">
+							<div id="cycler">
+								<div class="date-text">
+									
+									<div class="clientf-info">
+										<span class="fa fa-quote-left" aria-hidden="true"></span>
+										<p>Pellentesque convallis diam consequat magna vulputate malesuada. Cras a ornare elit.</p>
+										<h6>Elizabeth Harper</h6>
 									</div>
-								<div class="media">	
-								 <h3 class="tittle media">Ads <i class="glyphicon glyphicon-floppy-disk"></i></h3>
-								  <div class="general-text two">
-									 <a href="#"><img src="images/gen3.jpg" class="img-responsive" alt=""></a>
-										<h5 class="top"><a href="#">Computer Plus Tally Academy</a></h5>
-										<p></p>
-										
-								  </div>
-					         </div>
-					    <div class="general-text two">
-						    
-					    </div>
-				 </div>
-			</div>	
-			<!--//general-news-->
-			<!--/news-->
-			<!--/news-->
-		 </div>
+									<div class="clearfix"> </div>
+								</div>
+								<div class="date-text">
+									
+									<div class="clientf-info">
+										<span class="fa fa-quote-left" aria-hidden="true"></span>
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet lectus turpis. </p>
+										<h6>Anthony</h6>
+									</div>
+									<div class="clearfix"> </div>
+								</div>
+								<div class="date-text">
+									
+									<div class="clientf-info">
+										<span class="fa fa-quote-left" aria-hidden="true"></span>
+										<p>Pellentesque convallis diam consequat magna vulputate malesuada. Cras a ornare elit.</p>
+										<h6>Karen smith</h6>
+									</div>
+									<div class="clearfix"> </div>
+								</div>
+							</div>
+						</div>
+						<!-- //cycler -->
+					</div>
+				</div>
+			</div>
+			<!-- //reviewsf-left -->
+			<div class="col-md-6 reviewsf-right">
+				<h3 class="sub-w3ls-headf">Pellentesque convallis diam <span>consequat magna</span> vulputate malesuada</h3>
+				<p class="paragraphf"><span class="fa fa-repeat" aria-hidden="true"></span> Pellentesque convallis diam consequat magna vulputate malesuada.
+					Cras a ornare elit. Nulla viverra pharetra sem, eget pulvinar neque pharetra ac.</p>
+				<p class="paragraphf"><span class="fa fa-repeat" aria-hidden="true"></span> Lorem Ipsum convallis diam consequat magna vulputate malesuada.
+					Cras a ornare elit. Nulla viverra pharetra sem, eget pulvinar neque pharetra ac.</p>
+				<div class="buttonf-styl">
+					
+				</div>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>

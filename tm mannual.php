@@ -1,28 +1,30 @@
 <style>
 table, th, td {
-  border: 3px  solid silver;
+  border: none;
+  background:#fffbdd;
+  
 }
 tr{
-  text-indent: 25px;
+  text-indent: 5px;
 }
-.end tr td,th{
-	padding:6px
-}
+.end tr td,th,table{ font-weight:600;
+	padding:6px;
+	 margin-left:auto; 
+    margin-right:auto;
+	font-weight:600;}
 
 
 </style>
-<?php include("HEAD.PHP"); ?>
-<body>
-	<!-- header-section-starts -->  
-     <?php include("top-nav.php"); ?>
-		
-	<div class="full">
-    <div class="col-md-4 top-nav" style="position:relative;background: #464b64;">
-			<?php include("left-nav.php"); ?>
-		
+<?php include("head.php"); ?>
 
-    <div class="col-md-8 main"><br>
-		<b style-="font-size:20px">Trade Marks=>Trade Marks Manual </b>
+<?php include("top-nav.php"); ?>
+	<!-- banner -->
+	
+	
+
+ 
+<?php include("left-nav.php"); ?><div style="padding:40px;">
+	Trade Marks=>Trade Marks Manual </b>
 	<br>
 	<br><a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
 	<b><u><h1 style="text-align:center;">Trade Marks Manual</h1></b></u>

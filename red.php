@@ -3,26 +3,27 @@
   border: 3px  solid silver;
   padding:10px !important;
 }
-.end tr td,th{
-	padding:6px
+.end tr td,th,table{ font-weight:600;
+	padding:6px;
+	 margin-left:auto; 
+    margin-right:auto;
 }
 
 
 </style>
-<?php include("HEAD.PHP"); ?>
-<body>
-	<!-- header-section-starts -->  
-     <?php include("top-nav.php"); ?>
-		
-	<div class="full">
-    <div class="col-md-4 top-nav" style="position:relative;background: #464b64;">
-			<?php include("left-nav.php"); ?>
-		
+<?php include("head.php"); ?>
 
-    <div class="col-md-8 main" style="color:Tomato;">
-	<br>
-	<br>
+<?php include("top-nav.php"); ?>
+	<!-- banner -->
+	
+		<!-- Indicators -->
+		
+	<!--//banner -->
 
+  
+  <div class="demo" class="column">
+   <span class="menu"> </span>
+<?php include("left-nav.php"); ?><div style="padding:40px">
 		<div style="text-align: right; margin-right:15px;"> <h4><a href="index.php">Go Back</a></h4></div>
    <div style="text-align: right; margin-right:15px;"> <h3>Annexure-I</h3></div>
    <div>

@@ -53,7 +53,7 @@ display:inline;
     
   <div class="full">
     <div class="col-md-4 top-nav" style="position:relative;background: #464b64;">
-      <?php include("left-nav.php"); ?>
+      <?php include("left-nav.php"); ?><div style="padding:40px">
       <div class="col-md-8 main" style="background:#fff">
       
   <br>
@@ -152,6 +152,55 @@ display:inline;
 					<input class="input100" type="text" name="capacity" placeholder="Enter Capacity/Size">
 					<span class="focus-input100"></span>
 				</div>
+					<div class="wrap-input100 validate-input" >
+					<span class="label-input100">Hydraulic Pump:</span>
+					<input class="input100" type="text" name="pump" placeholder="Enter Hydraulic Pump">
+					<span class="focus-input100"></span>
+
+				</div>
+						<div class="wrap-input100 validate-input" >
+					<span class="label-input100">Brand:</span>
+					<input class="input100" type="text" name="brand" placeholder="Enter Brand">
+					<span class="focus-input100"></span>
+
+				</div>
+					
+						<div class="wrap-input100 validate-input" >
+					<span class="label-input100">Max Force or Load (kilogram):</span>
+					<input class="input100" type="text" name="force" placeholder="Enter Max. Load">
+					<span class="focus-input100"></span>
+
+				</div>
+						<div class="wrap-input100 validate-input" >
+					<span class="label-input100">Voltage (volt):</span>
+					<input class="input100" type="text" name="volt" placeholder="Enter Voltage">
+					<span class="focus-input100"></span>
+				</div>
+						<div class="wrap-input100 validate-input" >
+					<span class="label-input100">Material:</span>
+					<input class="input100" type="text" name="material" placeholder="Enter Material ">
+					<span class="focus-input100"></span>
+				</div>
+					<div class="wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Frequancy:</span>
+					<input class="input100" type="text" name="frq" placeholder="Enter Frequency ">
+					<span class="focus-input100"></span>
+				</div>
+					<div class="wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Driven Type:</span>
+					<input class="input100" type="text" name="driven type" placeholder="Enter driven">
+					<span class="focus-input100"></span>
+				</div>
+					<div class="wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Moter Power:</span>
+					<input class="input100" type="text" name="power" placeholder="Enter Moter Power">
+					<span class="focus-input100"></span>
+				</div>
+									<div class="wrap-input100 validate-input" data-validate="Name is required">
+					<span class="label-input100">Production Capcity:</span>
+					<input class="input100" type="text" name="pcapacity" placeholder="Enter Producion Capacity">
+					<span class="focus-input100"></span>
+				</div>
 			<div class="wrap-input100 validate-input" data-validate="Name is required" id="status" style="display:block;">
 					<span class="label-input100">Status of Machinery(s) or Plant is</span>
 				<select class="dropdown-product selectpicker"  name="plant"style="width:100%;height:40px;font-size:15px; font-family: Poppins-Regular;border:0px;outline:none;">
@@ -176,7 +225,24 @@ display:inline;
                   
 
                   </select>
-				</div>
+				</div>    
+				<div class="wrap-input100 validate-input" data-validate = "Message is required">
+<span class="label-input100">
+  Upload Machine Image:</span>
+  <input type="file" name="fileToUpload" id="fileToUpload"></div>
+   
+  <div class="wrap-input100 validate-input" data-validate = "Message is required">
+<div  method="post" enctype="multipart/form-data"> 
+<span class="label-input100">
+  Upload Machine Video:</span>
+    <input type="file" accept="video/*" ID="fileSelect" runat="server" size="20" name="filename" action="/vids/file-upload.php">
+    
+
+</div>
+</div>
+
+
+
 				<div class="wrap-input100 validate-input" data-validate = "Message is required">
 					<span class="label-input100">Description of Your Machinery<small>(Like as Capacity, Model, MFG Date,Power Load, Man-Power for Operation)</small></span>
 					<textarea class="input100" name="message" placeholder="Description of Machinery."></textarea>
@@ -377,14 +443,14 @@ display:inline;
 </div>
 	<div class="wrap-input100 validate-input" data-validate="Name is required">
 					<span class="label-input100">Name of Machinery(s) or plant</span>
-                     <input type="text"style="font-size:15px; font-family: Poppins-Regular;" placeholder="Enter Name of Machinery(s) or plant" name="machineryorplant" required>
-                        
-                      </div>
-			
-				<div class="wrap-input100 validate-input" data-validate="Name is required">
+					<input class="input100" type="text" name="machineryorplant" placeholder="Enter Name of Machinery(s) or plant">
+					<span class="focus-input100"></span>
+				</div>
+				
+								<div class="wrap-input100 validate-input" data-validate="Name is required">
 					<span class="label-input100">Capacity/Size</span>
-   <input type="text"style="font-size:15px; font-family: Poppins-Regular;" placeholder="Enter Capacity/Size" name="capacity" required>
-   <span class="focus-input100"></span>
+					<input class="input100" type="text" name="capacity" placeholder="Enter Capacity/Size">
+					<span class="focus-input100"></span>
 				</div>
 			<div class="wrap-input100 validate-input" data-validate="Name is required">
 					<span class="label-input100">Your Requirement is</span>
@@ -398,7 +464,20 @@ display:inline;
                     <option value="Any Time">Any Time</option>
                   </select>
 				</div>
-				
+
+<div class="wrap-input100 validate-input" data-validate = "Message is required">
+<span class="label-input100">
+  Upload Machine Image:</span>
+  <input type="file" name="fileToUpload" id="fileToUpload"></div>   
+  <div class="wrap-input100 validate-input" data-validate = "Message is required">
+<div  method="post" enctype="multipart/form-data">
+<span class="label-input100">
+  Upload Machine Video:</span>
+    <input type="file" accept="video/*" ID="fileSelect" runat="server" size="20" name="filename" action="/vids/file-upload.php">
+   
+</div>
+<br>
+<br>
 				<div class="wrap-input100 validate-input" data-validate = "Message is required">
 					<span class="label-input100">Description of Your Machinery<small>(Like as Capacity, Model, MFG Date,Power Load, Man-Power for Operation)</small></span>
 					<textarea class="input100" name="message" placeholder="Description of Machinery."></textarea>
@@ -500,7 +579,7 @@ display:inline;
  <span class="focus-input100"></span>
 				</div>
 				</div>
-				<div class="container-contact100-form-btn">
+				<div class="container-contact100-form-btn" style="border:0px;">
 					<button class="contact100-form-btn">
 						<span>
 							Submit
@@ -620,3 +699,4 @@ function mfg()
 <div class="clearfix"> </div>
 	<!--/footer-->
 	<?php include("footer.php"); ?>
+	

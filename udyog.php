@@ -1,16 +1,16 @@
-	<!DOCTYPE HTML>
-<html>
-<?php //include("api.php"); ?>
-<?php include("HEAD.PHP"); ?>
-<body>
-	<!-- header-section-starts -->  
-     <?php include("top-nav.php"); ?>
+<?php include("head.php"); ?>
+
+<?php include("top-nav.php"); ?>
+	<!-- banner -->
+	
+		<!-- Indicators -->
 		
-	<div class="full">
-    <div class="col-md-4 top-nav" style="position:relative; background: #464B64;">
-			<?php include("left-nav.php"); ?>
-		<!--banner-section-->
-	<div class="col-md-8 main">
+	<!--//banner -->
+
+  
+  <div class="demo" class="column">
+   <span class="menu"> </span>
+<?php include("left-nav.php"); ?><div style="padding:40px">
 	
 		<div class="banner-section" style="width:100%;">
 		   <h3 class="tittle"></h3>

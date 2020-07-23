@@ -1,35 +1,39 @@
-
 <style>
 table, th, td {
-  border: 1px  solid silver;
+  border: 3px  solid silver;
 }
 tr{
   text-indent: 5px;
 }
-.end tr td,th{
-	padding:6px
+.end tr td,th,table{ font-weight:600;
+	padding:6px;
+	 margin-left:auto; 
+    margin-right:auto;
+}
+th {
+  text-align: center;
+  color:red;
+  font-weight:600;
+  font-size:18px;
 }
 
-
 </style>
-<?php include("HEAD.PHP"); ?>
-<body>
-	<!-- header-section-starts -->  
-     <?php include("top-nav.php"); ?>
+	<html>
+<?php include("head.php"); ?>
+
+<?php include("top-nav.php"); ?>
+	<!-- banner -->
+
+		<!-- Indicators -->
 		
-	<div class="full">
-    <div class="col-md-4 top-nav" style="position:relative;background: #464b64;">
-			<?php include("left-nav.php"); ?>
-		
+	<!--//banner -->
 
-    <div class="col-md-8 main"><br><b style-="font-size:20px">Central Schemes=>Single Point Registration Scheme</b>
-	<br>
-	<br><a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
-<div class="innerright">
+  
+  <div class="demo" class="column">
+   <span class="menu"> </span>
+<?php include("left-nav.php"); ?><div style="padding:40px">
+<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a><br>
 
- <!-- Content -->
-
-            <div class="col-lg-9 animated fadeInRight">
                 
     <div class="mail-box-header">
         <h2 class="text-danger">
@@ -186,9 +190,7 @@ tr{
     </div>
 
 
-            </div>
-        </div>
-    
+    </div>
 					
 			<br>
 			<br>

@@ -1,65 +1,32 @@
 <link href="css/main.css" rel="stylesheet" type="text/css" />
+
+<?php include("head.php"); ?>
+
+<?php include("top-nav.php"); ?>
+	<!-- banner -->
+	
+		<!-- Indicators -->
+		
+	<!--//banner -->
+
+  
+  <div class="demo" class="column">
+   <span class="menu"> </span>
+<?php include("left-nav.php"); ?><div style="padding:40px">>
 <style>
-body {font-family: Arial;}
 
-/* Style the tab */
-.tab {
-  overflow: hidden;
-  border: 1px solid #ccc;
-  background-color: #464b64;
-}
-
-/* Style the buttons inside the tab */
-.tab button {
-  background-color:#464b64;
-  float: left;
-    color: white;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 14px 16px;
-  transition: 0.3s;
-  font-size: 17px;
-  font-color:#ffffff;
-}
-
-/* Change background color of buttons on hover */
-.tab button:hover {
-  background-color: #314152;
-}
-
-/* Create an active/current tablink class */
-.tab button.active {
-  background-color: #314152;
-}
-
-/* Style the tab content */
-.tabcontent {
-  display: none;
-  padding: 6px 12px;
-  border: 1px solid #ccc;
-  border-top: none;
-}
-.input111 {
-height:0px;
-width:0px;
-display:inline;	
-}
-</style>
-<?php include("HEAD.PHP"); ?>
-<body>
-	<!-- header-section-starts -->  
-     <?php include("top-nav.php"); ?>
-		
-	<div class="full">
-    <div class="col-md-4 top-nav" style="position:relative;background: #464b64;">
-			<?php include("left-nav.php"); ?>
-		
-
-    <div class="col-md-8 main">
-	<br>
-	<br>
-
+.label-input100 {
+font-family: Poppins-Regular;
+    font-size: 15px;
+    color: #808080;
+    line-height: 1.2;
+    text-align: right;
+    position: absolute;
+    top: 14px;
+    left: -280px;
+    width: 23%;
+	}
+	</style>
 <a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
 <h1 style="text-align:center; font-weight:600; font-size:50px;">Register</h1>
     <p style="text-align:center; font-weight:600;">Please fill in this form to create an account.</p>
@@ -111,6 +78,4 @@ display:inline;
 <!--===============================================================================================-->
 	<script src="vendor/select2/select2.min.js"></script>
 	<script src="js/main.js"></script>
-
-
-	<script type="text/javascript" src="js/main.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
