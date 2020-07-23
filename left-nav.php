@@ -2,7 +2,7 @@
 
 $response = api::call();
 class Api{
-public function call(){
+public static function call(){
 $url = 'http://localhost:8090/haryana';
 $collection_name = 'menu';
 $request_url = $url . '/' . $collection_name;
@@ -14,31 +14,32 @@ $response = json_decode($response,TRUE);
    
 ?>
 
-   <div class="logo">
-      <a href="index.php"><img src="images/logo.png" style="background:white; width:99%;margin-bottom:10px;" /></a>
-  </div>
-  <div class="demo">
+  
+  <div class="demo" class="column">
    <span class="menu"> </span>
 
-	<nav>
-        <!-- Menu Toggle btn-->
-        <div class="menu-toggle">
-            <h3>Menu</h3>
-            <button type="button" id="menu-btn">
+	<nav class="navbar navbar-inverse">
+		<div class="navbar-header">
+			<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".js-navbar-collapse">
+           
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
+		
         </div>
+		
+					
         <!-- Responsive Menu Structure-->
         <!--Note: declare the Menu style in the data-menu-style="horizontal" (options: horizontal, vertical, accordion) -->
-        <ul id="respMenu" class="ace-responsive-menu cl-effect-16" data-menu-style="vertical">
+        <div class="collapse navbar-collapse js-navbar-collapse">
+			<ul class="nav navbar-nav" style="background: #bc3232;">
         <?php 
 		 // get menu name
 		 foreach($response as $key => $value) 
         {
-			echo "<li><a href='#'>";
-            echo '<span class=title>' . $value['menu'] . '</span>';
+			echo '<li  class="dropdown mega-dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">';
+            echo  $value['menu'] . '<span class="caret"></span>';
             echo '</a>';
 			// get menu category
 			$id = $value['id'];
@@ -50,42 +51,24 @@ $response = json_decode($response,TRUE);
 			curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
 			$result = curl_exec($ch);
 			$result_obj = json_decode($result, TRUE);
-			echo "<ul>";
+			echo '<ul class="dropdown-menu mega-dropdown-menu">';
 			foreach ($result_obj as $key => $obj) 
 			{
      			if($obj['menu']['id']==$id)
 	 			{
-					echo "<li>
-                      <a href='#'>".$obj['category']."</a>";
-                 
-						// get menu services
-						
-						$ch1 = curl_init();
-						curl_setopt($ch1, CURLOPT_URL, 'http://localhost:8090/haryana/menuCatService');
-						curl_setopt($ch1, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
-						curl_setopt($ch1, CURLOPT_USERAGENT, 'PHP-MCAPI/2.0');
-						curl_setopt($ch1, CURLOPT_RETURNTRANSFER, true);
-						curl_setopt($ch1, CURLOPT_SSL_VERIFYPEER, false);
-						$result1 = curl_exec($ch1);
-						$result_obj1 = json_decode($result1, TRUE);
-						 echo "<ul>";
-						foreach ($result_obj1 as $key => $obj1) 
-						{
-							if($obj1['menuCategory']['id']==$obj['id'])
-							{										
-							echo "<li>
-                                <a href='service.php?id=".$obj1['id']."'>
-                                    <i class='fa fa-diamond' aria-hidden='true'></i>".$obj1['service']."</a></li>";
-							}	
-						}
-					echo "</ul>";
+					echo '<li  class="col-md-3 col-sm-4 col-xs-6" style="height:50px;">
+                      <a href="service.php?id='.$obj["id"].'" style="white-space: pre-wrap;color:black;">'.$obj['category']."</a>";
 	 			}
 				echo "</li>";
 			}
  			echo "</ul></li>";
+			
         }
+		
 		?>
+	
         </ul>
+			
     </nav>
 <?php   
     }  
@@ -111,3 +94,42 @@ $response = json_decode($response,TRUE);
         -->
     </div>
 </div>
+	<!-- responsive-tabs -->
+	<script src="js/easy-responsive-tabs.js"></script>
+	<script>
+		$(document).ready(function () {
+			$('#verticalTab').easyResponsiveTabs({
+				type: 'vertical',
+				width: 'auto',
+				fit: true
+			});
+		});
+	</script>
+	<!-- //responsive-tabs -->
+
+	<!-- Carousel Auto-Cycle -->
+	<script>
+		$(document).ready(function () {
+			$('.carousel').carousel({
+				interval: 6000
+			})
+		});
+	</script>
+	<!-- // Carousel Auto-Cycle -->
+
+	<!-- Nav Js -->
+	<script type="text/javascript" src="js/bootstrap.js"></script>
+	<script>
+		$(document).ready(function () {
+			$(".dropdown").hover(
+				function () {
+					$('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideDown("400");
+					$(this).toggleClass('open');
+				},
+				function () {
+					$('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideUp("400");
+					$(this).toggleClass('open');
+				}
+			);
+		});
+	</script>
