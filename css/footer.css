@@ -1,0 +1,129 @@
+.arrow ul li,.footer-icons ul li{display:block;}
+.icons ul li a span, .footer-icons ul li a span {
+font-size: 14px;
+margin: 0px 4px;
+color: #ffffff;
+transition: 0.5s all;
+-webkit-transition: 0.5s all;
+transition: 0.5s all;
+-moz-transition: 0.5s all;
+padding:0px;
+}
+body {
+    min-height:100%; 
+    position:relative; 
+    padding-bottom:[footer-height] 
+}
+.icons ul li a span:hover{color: #000}
+.footer-icons ul li a span:hover {color: #d40000}
+/*--Footer--*/
+footer {
+background: #000;
+}
+.wthree-left-right h4 {
+color: #fff;
+font-family: 'Catamaran', sans-serif;
+}
+.footer-icons ul li h6 {
+display: inline-block;
+font-size: 17px;
+color: #d0c5c5;
+}
+.nav-link {
+font-size: 14px;
+color: #fff;
+padding-bottom: 5px;
+}
+.nav-link:focus,.nav-link:hover{
+color:#de381a;
+text-decoration: none;
+}
+.wls-hours-list ul li {
+font-size:14px;
+color: #fff;
+border-bottom: 0px solid #fff;
+padding: 0px 0px 7px;
+margin-bottom: 10px;
+}
+.addres-up ul li span {
+font-size: 21px;
+color: #f76200;
+}
+.addres-up ul li p {
+font-size: 13px;
+color: #fff;
+display: inline-block;
+padding-left: 15px;
+}
+footer p {
+font-size: 14px;
+color: #fff;
+letter-spacing: 2px;
+}
+footer p a {
+color:#d40000;
+}
+footer p a:hover {
+color:#000;
+text-decoration:underline;
+}
+#foot li.nav-item.active {
+background: transparent;
+}
+ #foot .navbar-light .navbar-nav .nav-link {
+padding: 0em 2em;
+	background:	#000000;
+	position: fixed;
+	bottom: 0px;
+	z-index: 100;
+	width: 100%;
+
+background: transparent;
+font-size: 14px;
+letter-spacing: 1px;
+text-transform: capitalize;
+}
+#foot a.nav-item.nav-link{
+background:	#000000;
+	
+	bottom: 0px;
+	z-index: 100;
+	width: 100%;
+font-size: 1em;
+letter-spacing: 1px;
+font-weight: 300 !important;
+ position: absolute; 
+    left: 0 ; right: 0; bottom: 0; 
+    height:[footer-height] 
+}
+#foot a.nav-item.nav-link:hover {
+color: #00a3af;
+}
+/*--//Footer--*/
+@media(max-width:1440px){
+	.counter,.wthree-left-right h4 {
+	font-size: 25px;
+	}
+}
+@media(max-width:767px){
+.counter, .wthree-left-right h4 {
+font-size: 23px;
+}
+.wthree-left-right:nth-child(2) {
+margin: 20px 0px;
+}
+}
+@media(max-width:667px){
+.counter, .wthree-left-right h4 {
+font-size: 22px;
+}
+.icons ul li a span, .footer-icons ul li a span {
+margin: 0px 2px;
+}
+
+}
+@media(max-width:640px){
+.icons ul li a span, .footer-icons ul li a span {
+font-size: 13px;
+}
+}
