@@ -21,7 +21,7 @@
 							<a href="abour.php">About</a>
 						</li>
 						<li><span class="fa fa-angle-right" aria-hidden="true"></span>
-							<a href="Contact.php">Contact</a>
+							<a href="contact.php">Contact</a>
 						</li>
 						<li><span class="fa fa-angle-right" aria-hidden="true"></span>
 							<a href="our_service.php">Services</a>
