@@ -5,7 +5,7 @@
 	<!--//banner -->
 	<div id="myCarousel" class="carousel slide" data-ride="carousel">
 		<!-- Indicators -->
-		<?php include("asd.php"); ?>
+		<?php include("heading.php"); ?>
 		<br>
 		<br>
   <div class="demo" class="column">

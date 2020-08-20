@@ -24,7 +24,7 @@
 							<a href="contact.php">Contact</a>
 						</li>
 						<li><span class="fa fa-angle-right" aria-hidden="true"></span>
-							<a href="our_service.php">Services</a>
+							<a href="http://localhost:8001/service.php?id=25">Services</a>
 						</li>
 							<li><span class="fa fa-angle-right" aria-hidden="true"></span>
 							<a href="pdf/Disclaimer.pdf" target="_blank">Disclaimer</a>
