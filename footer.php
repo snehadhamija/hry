@@ -53,9 +53,9 @@
 	<div class="footer-wthree-copyf">
 		<div class="container">
 			<div class="addressf-agileits-w3layouts">
-				<p><span class="fa fa-map-marker" aria-hidden="true"></span>Near Railway Crossing, Sirsa, Haryana.</p>
+				<p><span class="fa fa-map-marker" aria-hidden="true"></span>Near Railway Crossing, Sirsa (125055), Haryana.</p>
 			</div>
-			<p>© 2020 Accounting. All rights reserved | Design by <a href="#">DGM Technology</a></p>
+			<p>© 2020 Accounting. All rights reserved | Design by <a href="#">DGM Technologies Pvt.LTD</a></p>
 			<div class="clearfix"> </div>
 		</div>
 	</div>
