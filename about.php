@@ -3,8 +3,8 @@
 		<div class="container">
 			<h3 class="tittlef-agileits-w3layouts">What's New</h3>
 			<!-- reviewsf-left -->
-			<div class="col-md-6 reviewsf-left">
-				<div class="reviewsf-left">
+			<div class="col-md-9 reviewsf-center">
+				<div class="reviewsf-center">
 					<div class="news-grids-bottom">
 						<!-- cycler -->
 						<div id="design" class="date">
@@ -58,15 +58,8 @@ PROMOTION POLICY, 2020</a>
 				</div>
 			</div>
 			<!-- //reviewsf-left -->
-			<div class="col-md-6 reviewsf-right">
-				<h3 class="sub-w3ls-headf">Pellentesque convallis diam <span>consequat magna</span> vulputate malesuada</h3>
-				<p class="paragraphf"><span class="fa fa-repeat" aria-hidden="true"></span> Pellentesque convallis diam consequat magna vulputate malesuada.
-					Cras a ornare elit. Nulla viverra pharetra sem, eget pulvinar neque pharetra ac.</p>
-				<p class="paragraphf"><span class="fa fa-repeat" aria-hidden="true"></span> Lorem Ipsum convallis diam consequat magna vulputate malesuada.
-					Cras a ornare elit. Nulla viverra pharetra sem, eget pulvinar neque pharetra ac.</p>
-				<div class="buttonf-styl">
-					
-				</div>
-			</div>
+			
 			<div class="clearfix"> </div>
 		</div>
+		</br>
+		</br>

@@ -1,7 +1,7 @@
-
+	<?php include("scroll.php"); ?>
 	</div>
-	
-		
+
+		<div id="finish"></div>
 <?php include("marquee.php"); ?>	
 <br>
 	<br><div class="clearfix">

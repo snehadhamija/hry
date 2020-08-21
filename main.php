@@ -57,4 +57,4 @@ th{
   <div class="demo" class="column">
    <span class="menu"> </span>
 <?php include("left-nav.php"); ?>
-<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a><br>
+<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
