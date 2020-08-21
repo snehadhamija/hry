@@ -14,7 +14,7 @@ body a {
 html, body{
     font-size: 100%;
     font-family: 'Open Sans', sans-serif;
-    background: #FFFFFF;
+    background: #f3eee8;
 }
 .news-grids {
     padding: 4em 0;
@@ -85,7 +85,7 @@ ol.breadcrumb li a{
 }
 .reviewsf-left {
     padding: 1em;
-    min-height: 365px;
+    min-height: 305px;
 }
 .reviewsf-right p span.fa {
     display: inline-block;

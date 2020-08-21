@@ -55,7 +55,7 @@ h5.resp-accordion {
 h5.resp-accordion {
     border: 1px solid #c1c1c1;
     border-top: 0px solid #c1c1c1;
-    background: #168eea;
+    background: #bc3232;
     margin: 0px;
     padding: 10px 15px;
     font-size: 0.9em;
@@ -126,7 +126,7 @@ h5.resp-tab-title:last-child {
     z-index: 1;
     margin-right: 0;
     color: #fff;
-	background: #168eea;
+	background: black;
 }
 .resp-vtabs .resp-tabs-list li:hover{
 	background: #168eea;
@@ -158,7 +158,7 @@ h5.resp-tab-active span.resp-arrow {
 /*-----------Accordion styles-----------*/
 
 h5.resp-tab-active { 
-	background: #ee4f4f !important;
+	background: black !important;
     color: #fff!important;
 }
 h5.resp-accordion:hover{
@@ -201,7 +201,7 @@ h5.resp-accordion:first-child { border-top: 1px solid #c1c1c1 !important; }
     text-transform: uppercase;
 }
 .innfpage-tabs .resp-tab-active {
-    background-color: #168eea;
+    background-color: black;
     color: #fff!important;
 }
 .innfpage-tabs 

@@ -5,16 +5,17 @@
 }
 
 .header_agileits_left ul li {
-    display: inline-block;
+    display: inline-block;"
     margin-right: 2em;
     font-size: 15px;
     color: #ccc;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.5px;347
+
 }
 
 .header_agileits_left ul li i {
     padding-right: 1em;
-    color: #ee4f4f;
+    color: #ffffff;
 }
 
 .header_agileits_left ul li a {
@@ -209,7 +210,7 @@
 
 .header_topw3layouts_bar {
     padding: 0.5em 0em;
-    background: #000;
+    background: #bc3232;
 }
 
 .navbar {
@@ -235,7 +236,7 @@
 .navbar-nav>li {
     /* float: left; */
     width: 25%;
-    display: inline-block;
+    display: inline-block;"
     
     padding-bottom: 0px;
    
@@ -309,7 +310,7 @@
 
 .logof-w3-agile h1 a {
     float: left;
-    display: inline-block;
+    display: inline-block;"
     font-size: 1.2em;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.29);
     color: #000;
@@ -353,7 +354,7 @@ button.search {
     height: 45px;
     outline: none;
     box-shadow: none;
-    background:#ea7716;
+    background:#bc3232;
     padding: 0;
     border-radius: inherit;
     -webkit-appearance: none;
@@ -361,7 +362,7 @@ button.search {
     -moz-transition: .5s all;
     transition: .5s all;
 	margin-top: -1px;
-    margin-right: 45px;
+    margin-right: 23px;
 }
 
 .btn-default:hover {
@@ -370,7 +371,7 @@ button.search {
 }
 
 a.shop {
-    display: inline-block;
+    display: inline-block;"
     background: #ee4f4f;
     padding: 0.9em 1em;
     border-radius: 4px;
@@ -453,7 +454,7 @@ a.shop {
     color: #fff;
     margin-bottom: 0.7em;
     padding: 10px 35px;
-    display: inline-block;
+    display: inline-block;"
     background: #168eea;
 }
 
@@ -608,7 +609,7 @@ a.shop {
         width: 100%;
     }
     .mega-dropdown-menu>li>ul>li>a {
-        display: inline-block;
+        display: inline-block;"
         color: #c3c3c3;
         letter-spacing: .7px;
         padding: 3px 5px;
