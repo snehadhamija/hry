@@ -1,3 +1,4 @@
+
 <style>
 ::placeholder {
   color: #ea7716;;
@@ -34,7 +35,7 @@
 		<div class="header-middle">
 			<div class="container">
 				<div class="logof-w3-agile">
-					<h1><a href="index.html"><img src="images/logo.png" class="img-responsive"></a></h1>
+					<h1><a href="index.php"><img src="images/logo.png" class="img-responsive"></a></h1>
 				</div>
 				<div class="searchf-w3-agileits-headr">
 					<form action="#" method="post">

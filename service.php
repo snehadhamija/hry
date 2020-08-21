@@ -1,3 +1,4 @@
+<?php include("main.php"); ?><div style="padding:20px">
 
               <?php
    
@@ -13,10 +14,13 @@ $result = curl_exec($ch);
  
 $result_obj = json_decode($result, TRUE);
  $cid = $_GET['id'];
+
 foreach ($result_obj as $key => $obj) {
-    if($obj['id']==$cid)
-	
-    echo $obj['detail']."<br />";
-	
-}
-?>   
+    if($obj['menuCategory']['id']==$cid)
+	{
+    
+
+ echo $obj['detail'].'<br />'; } }
+?>
+
+<?php include("footer.php"); ?>

@@ -1,39 +1,28 @@
-<!DOCTYPE HTML>
-<html>
-<?php //include("api.php"); ?>
-<?php include("HEAD.PHP"); ?>
-<body>
-	<!-- header-section-starts -->  
-     <?php include("top-nav.php"); ?>
-		
-	<div class="full">
-    <div class="col-md-4 top-nav" style="position:relative;">
-			<?php include("left-nav.php"); ?>
-		<!--banner-section-->
-	<div class="col-md-8 main">
-		<?php include("banner.php"); ?>
-			<!--//banner-section-->
-			 <div class="b-bottom"> 
-			      <h5 class="top"><a href="#"></a></h5>
-			      
-				</div>
-			 <!--/top-news-->
-			  <div class="top-news">
-				<div class="top-inner">
-					<div class="col-md-6 top-text">
-						
-						    <h5 class="top"><a href="#">What's New</a></h5>
-							
-					 </div>
-					
-					 <div class="clearfix"> </div>
-				 </div>
-	            </div>
-					<!--//top-news-->
-		     
-			<?php include("news.php"); ?>
-			<div class="clearfix"> </div>
+<?php include("head.php"); ?>
+
+<?php include("top-nav.php"); ?>
+	<!-- banner -->
+	<!--//banner -->
+	<div id="myCarousel" class="carousel slide" data-ride="carousel">
+		<!-- Indicators -->
+		<?php include("heading.php"); ?>
+		<br>
+		<br>
+  <div class="demo" class="column">
+   <span class="menu"> </span>
+<?php include("left-nav.php"); ?>
+	
+
+	<!-- about -->
+
+	<?php include("about.php"); ?>
+	<!-- //about-->
+
 	<!--/footer-->
 	<?php include("footer.php"); ?>
+
+	<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+	<!--// Common js -->
+
+	<!-- cart-js -->
 	
-	     

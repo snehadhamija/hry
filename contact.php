@@ -1,18 +1,30 @@
-<html>
-<?php include("HEAD.PHP"); ?>
-<link href="css/contact.css" rel="stylesheet" type="text/css" />
-<link href="css/bootstrap-c.css" rel="stylesheet" type="text/css" />
-<body>
-	<!-- header-section-starts -->
-   
-     <?php include("top-nav.php"); ?>
-		
-	<div class="full">
-			<div class="col-md-3 top-nav contact">
-			<?php include("left-nav.php"); ?>
-			</div>
-			<div class="col-md-9 main">
-	 <div class="contact">
+
+
+ <style>
+ .main {
+width:100%;	 
+ }
+ .map iframe {
+    min-height: 330px;
+	min-width: 400px;
+}
+.mt-5, .my-5 {
+    margin-top: 1rem !important;
+}
+.col-md-12, .col-lg-12 {   
+    padding-right: 0px; 
+}
+
+ </style>  
+     
+<?php include("head.php"); ?>
+
+<?php include("top-nav.php"); ?>
+	<!-- banner -->
+	
+
+			<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>
+
 		<!-- banner 
 <div class="innerpage-banner" id="home">
 	<div class="inner-page-layer">
@@ -23,23 +35,46 @@
 <!-- contact -->
 <section class="mail pt-lg-5 pt-4">
 	<div class="container pt-lg-5">
-		<h2 class="heading text-center mb-sm-5 mb-4">Contact Us </h2>
+		<h1 style="text-align:center;color:#bc3232;font-weight:700">Contact Us </h1><br>
 		<div class="row agileinfo_mail_grids">
-			<div class="col-lg-8 agileinfo_mail_grid_right">
+			<div class="col-lg-6 col-md-6 mt-lg-0 mt-6 contact-info">
+				<b style="font-size:40px,font-weight:600px;font-size:20px;color:#bc3232">Address Information</b>
+				<p><span class="fa mr-2 fa-map-marker"></span>&nbsp; &nbsp;<b>
+
+
+“DGM Building” Old Court Road, Near Railway Crossing<br>
+
+&nbsp; &nbsp;&nbsp; &nbsp;SIRSA-125055 (HARYANA) INDIA<br>
+
+&nbsp; &nbsp;&nbsp; &nbsp;Phones & Mobiles: Phone: +91(1666) 232543, 234565, 234022<br>
+
+&nbsp; &nbsp;&nbsp; &nbsp;Mobile: +91-94163-51167, 90509-02425<br></b>
+				<br>
+				<br>
+                <div class="map mt-6">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3471.3287377764964!2d75.03471061448562!3d29.53591938207015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39114c4abd1de2f5%3A0x34bb800f920dd8c9!2sComputer%20Plus!5e0!3m2!1sen!2sin!4v1584959807758!5m2!1sen!2sin"
+			style="border:0"></iframe><br><br><br><br>
+				</div>
+			</div>
+            <div class="col-lg-6 agileinfo_mail_grid_right" style="margin-top: 28px;">
 				<form action="#" method="post">
 					<div class="row">
-						<div class="col-md-6 wthree_contact_left_grid pr-md-0">
+						<div class="col-md-12 wthree_contact_left_grid pr-md-0">
 							<div class="form-group">
 								<input type="text" name="name" class="form-control" placeholder="Name" required>
 							</div>
+                        </div>
+                        <div class="col-md-12 wthree_contact_left_grid pr-md-0">
 							<div class="form-group">
 								<input type="email" name="email" class="form-control" placeholder="Email" required>
 							</div>
 						</div>
-						<div class="col-md-6 wthree_contact_left_grid">
+						<div class="col-md-12 wthree_contact_left_grid pr-md-0">
 							<div class="form-group">
 								<input type="text" name="phone number" class="form-control" placeholder="Phone Number" required>
 							</div>
+                        </div>
+                        <div class="col-md-12 wthree_contact_left_grid pr-md-0">
 							<div class="form-group">
 								<input type="text" name="subject" class="form-control" placeholder="Subject" required>
 							</div>
@@ -51,34 +86,32 @@
 						</div>
 						<div class="col-md-12">
 							<div class="submit-buttons">
-								<button type="submit" class="btn">Submit</button>
+								<button type="submit" class="btn" style="background:#bc3232;color:#fff">Submit</button>
 							</div>
 						</div>
 					</div>
 				</form>
 			</div>
-			<div class="col-lg-4 col-md-6 mt-lg-0 mt-4 contact-info">
-				<h4 class="mb-4">Address Information</h4>
-				<p><span class="fa mr-2 fa-map-marker"></span>DGM BUILDING OLD COURT ROAD<br>NEAR RAILWAY CROSSING,<br>
-				<span>SIRSA-125055,HARYANA INDIA</span></p>
-                
-				<p class="phone py-2"><span class="fa mr-2 fa-phone"></span> Phone: 01666-232543 <br>01666-232543 </p>
-                
-				<p><span class="fa mr-2 fa-envelope"></span> Email:<a href="mailto:info@example.com"> kboffice.india@gmail.com</a></p>
-			</div>
+			
 		</div>
 	</div>
-	<div class="map mt-5">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50996.31320435244!2d-122.06676498187694!3d36.97949802442312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808e441b7c36d549%3A0x52ca104b2ad7f985!2sSanta+Cruz%2C+CA%2C+USA!5e0!3m2!1sen!2sin!4v1469096018666"
-			style="border:0"></iframe>
-	</div>
+	
 </section>
 <!-- //contact -->
 <!-- //contact -->
-			</div>
-			<div class="clearfix"> </div>
+			
+		
 	<!--/footer-->
-	     <?php include("footer.php"); ?>
-		 </div>
+	 
+	<!--/footer-->
+	<?php include("footer.php"); ?>
+<script src="js/ace-responsive-menu.js" type="text/javascript"></script>
+<script src="js/responsive.js" type="text/javascript"></script>
+	
+	
+	<!--Plugin Initialization-->
+   
+</body>
+</html>		 </div>
 </body>
 </html>
