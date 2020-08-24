@@ -14,6 +14,6 @@
 </style>
 <br>
 
-						<div style="text-align:center;border:1px solid;" id="oval">
-						<b style="font-family:times new roman;font-size:50px;font:weight:600; color:WHITE; ">MSME's & SME's FACILITATION CENTER</b>
+						<div style="text-align:center;border:1px solid; background:#bc3232" >
+						<b style="font-family:times new roman;font-size:50px;font:weight:600; color:WHITE; " >MSME's & SME's FACILITATION CENTER</b>
 					</div>
