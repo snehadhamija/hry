@@ -39,7 +39,7 @@ $response = json_decode($response,TRUE);
 			</p>
                     </div>
 					<div class="panel-body">
-						<form class="form-horizontal" action="" method="post" enctype="multipart/form-data">
+						<form class="form-horizontal" action="updateMenuCategory.php" method="POST" id="create-category" enctype="multipart/form-data">
 							<fieldset>
 								<!-- menu list-->
 								<div class="form-group">
@@ -57,13 +57,13 @@ $response = json_decode($response,TRUE);
 											{
 												?>
 										
-<input type="text" name="menu" id="menu" class="form-control" maxlength="100"placeholder=" <?php echo $value['category'];?>">
+<input type="text" name="menu" id="menu" class="form-control" value=" <?php echo $value['category'];?>">
 								</div>
 								</div>
 								<div class="form-group">
 								<label class="col-md-3 control-label" for="name">Category Id</label>
 								<div class="col-md-9">
-								<input type="text" name="cId" id="cId" class="form-control" maxlength="100"placeholder=" <?php echo $value['menu']['id'];?>">
+								<input type="hidden" name="cid" id="cId" class="form-control" value="<?php echo $value['menu']['id'];?>">
 								</div>
 								</div>
 								<div class="form-group">
