@@ -8,23 +8,27 @@ tr{
   text-indent: 2px;
 }
 .end tr td,th,table{ font-weight:600;
-	padding:16px;
+	padding:6px;
 	 margin-left:auto; 
     margin-right:auto;
-	font-size:16px
+	font-size:15px
 }
 th {
   text-align: center;
   color:red;
   font-weight:600;
   font-size:20px;
-  padding :16px;
+  padding :6px;
+}
+img.test {
+    width: 100%;
+    height: auto;
 }
 
-
-	.abc{
+	ul.abc{
 	margin-left:10px;
 font-size:15px;	
+list-style-type:disc;
 	}
 	
       blink {
@@ -38,23 +42,19 @@ font-size:15px;
 </style>
 <style>
 th{
-	text-indent:12px;
+	text-indent:2px;
 	font-size:18px;
 	height: 50px;
 }
-</style><br>
-	<html>
+</style><br><script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
 <?php include("head.php"); ?>
 
 <?php include("top-nav.php"); ?>
 	<!-- banner -->
-
-		<!-- Indicators -->
-		
 	<!--//banner -->
 
-  
   <div class="demo" class="column">
    <span class="menu"> </span>
 <?php include("left-nav.php"); ?>
-<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a><br>
+
+<a href="index.php"><b style="margin-right:15px; font-size:20px;font-weight:400; float:right;margin-top:20px;">Go Back</b></a>

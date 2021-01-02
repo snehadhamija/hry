@@ -45,9 +45,10 @@ h6 {
 }
 
 p {
-	letter-spacing: 1px;
-	font-size: 15px;
-	
+    font-size: 20px;
+    color:black;
+	font-weight:500;
+	font-family:arial;
 	
 	text-align:justify;
 	
@@ -55,7 +56,7 @@ p {
 
 ul {
 	margin: 0;
-	padding: 0;
+	padding: 10;
 }
 
 label {
@@ -85,8 +86,9 @@ h3.tittlef-agileits-w3layouts {
 }
 p.paragraphf {
     font-size: 15.5px;
-    letter-spacing: 1.32px;
-    color: #8a8a8a;
+    color:black;
+	font-weight:600;
+   
 }
 .buttonf-styl a {
     letter-spacing: 4px;
@@ -477,7 +479,7 @@ span.gray-star {
 }
 
 
-li { list-style-type:none;}
+li { list-style-type:disk;}
 
 /*--
 ::selection { background: #ff5e99; color: #FFFFFF; text-shadow: 0; }
@@ -635,7 +637,7 @@ ul.tag2:last-child {
     color: #ee4f4f;
     display: inline-block;
     text-align: center;
-    font-size: 3em;
+    font-size: 5em;
     vertical-align: middle;
 }
 
@@ -1402,7 +1404,7 @@ p.white-clrf{
 }
 @media(max-width:568px){
 	.tabsf-w3-agileits-grids:hover div.img-caption::before {
-        width: 92.2%;
+        width: 50.2%;
         left: 4.1%;
     }
     .footer-wthree-copyf p, .addressf-agileits-w3layouts p {

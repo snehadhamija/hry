@@ -19,12 +19,12 @@ $response = json_decode($response,TRUE);
    <span class="menu"> </span>
 
 	<nav class="navbar navbar-inverse">
-		<div class="navbar-header">
-			<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".js-navbar-collapse">
+
+		<div class="navbar-header">	 
+			<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".js-navbar-collapse" style="background:#bc3232">
            
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
+               <h3 style="color:white; font-size:20px;text-align:center" >Menu</h3>
+               
             </button>
 		
         </div>
@@ -38,6 +38,8 @@ $response = json_decode($response,TRUE);
 		 // get menu name
 		 foreach($response as $key => $value) 
         {
+			if($value['id'] != 100)
+			{
 			echo '<li  class="dropdown mega-dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">';
             echo  $value['menu'] . '<span class="caret"></span>';
             echo '</a>';
@@ -62,7 +64,7 @@ $response = json_decode($response,TRUE);
 				echo "</li>";
 			}
  			echo "</ul></li>";
-			
+			}
         }
 		
 		?>

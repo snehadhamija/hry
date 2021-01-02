@@ -112,7 +112,6 @@ th {
  </style>
  <br>
  <br>
-
- <div class="clearfix"> </div>
+ </div>
 	<!--/footer-->
 	<?php include("footer.php"); ?>

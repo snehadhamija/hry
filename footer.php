@@ -1,10 +1,10 @@
-
+	<?php include("scroll.php"); ?>
 	</div>
-	
-		
+
+		<div id="finish"></div>
 <?php include("marquee.php"); ?>	
 <br>
-	<br><div class="clearfix">
+	<br>
 	<div class="footer_agileinfo_topf">
 		<div class="container">
 			<div class="col-md-4 footer_w3layouts_gridf">
@@ -21,10 +21,10 @@
 							<a href="abour.php">About</a>
 						</li>
 						<li><span class="fa fa-angle-right" aria-hidden="true"></span>
-							<a href="Contact.php">Contact</a>
+							<a href="contact.php">Contact</a>
 						</li>
 						<li><span class="fa fa-angle-right" aria-hidden="true"></span>
-							<a href="our_service.php">Services</a>
+							<a href="http://localhost:8001/service.php?id=25">Services</a>
 						</li>
 							<li><span class="fa fa-angle-right" aria-hidden="true"></span>
 							<a href="pdf/Disclaimer.pdf" target="_blank">Disclaimer</a>
@@ -53,9 +53,9 @@
 	<div class="footer-wthree-copyf">
 		<div class="container">
 			<div class="addressf-agileits-w3layouts">
-				<p><span class="fa fa-map-marker" aria-hidden="true"></span>Near Railway Crossing, Sirsa, Haryana.</p>
-			</div>
-			<p>© 2020 Accounting. All rights reserved | Design by <a href="#">DGM Technology</a></p>
+				<p><span class="fa fa-map-marker" aria-hidden="true"></span>Near Railway Crossing, Sirsa (125055), Haryana.</p>
+			</div><br>
+			<p>© 2020 Accounting. All rights reserved | Design by <a href="#">DGM Technologies Pvt.LTD</a></p>
 			<div class="clearfix"> </div>
 		</div>
 	</div>
