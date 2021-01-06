@@ -4,7 +4,7 @@
 		<div id="finish"></div>
 <?php include("marquee.php"); ?>	
 <br>
-	<br><div class="clearfix">
+	<br>
 	<div class="footer_agileinfo_topf">
 		<div class="container">
 			<div class="col-md-4 footer_w3layouts_gridf">
@@ -54,7 +54,7 @@
 		<div class="container">
 			<div class="addressf-agileits-w3layouts">
 				<p><span class="fa fa-map-marker" aria-hidden="true"></span>Near Railway Crossing, Sirsa (125055), Haryana.</p>
-			</div>
+			</div><br>
 			<p>© 2020 Accounting. All rights reserved | Design by <a href="#">DGM Technologies Pvt.LTD</a></p>
 			<div class="clearfix"> </div>
 		</div>

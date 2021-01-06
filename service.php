@@ -1,4 +1,4 @@
-<?php include("main.php"); ?><div style="padding:20px">
+<?php include("main.php"); ?>
 
               <?php
    
