@@ -3,7 +3,7 @@
 $response = api::call();
 class Api{
 public static function call(){
-$url = 'http://localhost:8090/haryana';
+$url = 'http://13.235.134.10:8090/haryana';
 $collection_name = 'menu';
 $request_url = $url . '/' . $collection_name;
 $curl = curl_init($request_url);
@@ -46,7 +46,7 @@ $response = json_decode($response,TRUE);
 			// get menu category
 			$id = $value['id'];
 			$ch = curl_init();
-			curl_setopt($ch, CURLOPT_URL, 'http://localhost:8090/haryana/menuCategory');
+			curl_setopt($ch, CURLOPT_URL, 'http://13.235.134.10:8090/haryana/menuCategory');
 			curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
 			curl_setopt($ch, CURLOPT_USERAGENT, 'PHP-MCAPI/2.0');
 			curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
